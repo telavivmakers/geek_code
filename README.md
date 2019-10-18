@@ -27,10 +27,15 @@ GED/J d– s:++>: a– C++(++++) ULU++ P+ L++ E—- W+(-) N+++ o+ K+++ w— O- M
 A GEEK CODE BLOCK similar to the output created by the PGP program attempts to universalize how you will see the Geek Code around the net and looks like the following:
 
 —–BEGIN GEEK CODE BLOCK—–
+
 Version: 3.1
+
 GED/J d– s:++>: a– C++(++++) ULU++ P+ L++ E—- W+(-) N+++ o+ K+++ w—
+
 O- M+ V– PS++>$ PE++>$ Y++ PGP++ t- 5+++ X++ R+++>$ tv+ b+ DI+++ D+++
+
 G+++++ e++ h r– y++**
+
 ——END GEEK CODE BLOCK——
 
 Special characters
@@ -662,53 +667,6 @@ New
     Entertainment – comics
     Hardware
 
-Sex? What’s that? No experience, willing to learn!
-Share this:
-
-    Press ThisTwitterFacebook
-
-Related
-
-spark gotchas
-
-unicode
-
-uncle jerry's blawg
-Edit "Geek Code 4.0 – RFC"	
-Published by jeremyrutman
-
-I'm a patent attorney working in Tel Aviv. I have a PhD in physics from the Technion [Haifa] and originally hail from Texas. View all posts by jeremyrutman
-Published
-October 17, 2019
-Post navigation
-Previous Post installing modules for particular version of python
-4 thoughts on “Geek Code 4.0 – RFC”
-
-    Captain Dishwasherman
-    October 18, 2019 at 2:45 pm Edit	
-
-    !z
-    Sex? What’s that? I’ve had no sexual experiences.
-    z?
-    It’s none of your business what my sex life is like (this is used to denote your gender only).
-    !z+
-
-    Seems like these should be z? and z! respectively, not the reverse. And !z+ seems dangling.
-
-    How do you have time for all this? You need another category: RFC+++
-
-    Like
-    Reply
-        jeremyrutman
-        October 18, 2019 at 5:33 pm Edit	
-
-        its the holidays here… and RFC is ‘request for comment’ ?
-
-        Like
-        Reply
-
-Leave a Reply
-Blog at WordPress.com.
 
 
 

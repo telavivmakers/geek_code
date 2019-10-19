@@ -1,16 +1,16 @@
 # geek_code
 
-Geek Code 4.0 – RFC
+## Geek Code 4.0 – RFC
 
-See V3.1 <a href="https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html">here</a>, generator <a href="https://www.joereiss.net/geek/geek.html">here</a>
+[GitHub Pages](https://pages.github.com/)
 
+See V3.1 [Here](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html), generator [here](htps://www.joereiss.net/geek/geek.html)
 
-Geek Code 4.0 Proposal
 Some categories have been removed , others added , some altered.  The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
 Changelist at end
  
 
-The Geek Code 4.0
+# The Geek Code 4.0
 
 The geek code attempts a concise description of your being in ‘geek space’, spanning key dimensions using a small set of categories and quantifying them with qualifiers.
 
@@ -25,19 +25,14 @@ Given a set of category/qualifier strings for any of the above (skip anything yo
 GED/J d– s:++>: a– C++(++++) ULU++ P+ L++ E—- W+(-) N+++ o+ K+++ w— O- M+ V– PS++>$ PE++>$ Y++ PGP++ t- 5+++ X++ R+++>$ tv+ b+ DI+++ D+++ G+++++ e++ h r– y++**
 
 A GEEK CODE BLOCK similar to the output created by the PGP program attempts to universalize how you will see the Geek Code around the net and looks like the following:
-
+```
 —–BEGIN GEEK CODE BLOCK—–
-
 Version: 3.1
-
 GED/J d– s:++>: a– C++(++++) ULU++ P+ L++ E—- W+(-) N+++ o+ K+++ w—
-
 O- M+ V– PS++>$ PE++>$ Y++ PGP++ t- 5+++ X++ R+++>$ tv+ b+ DI+++ D+++
-
 G+++++ e++ h r– y++**
-
 ——END GEEK CODE BLOCK——
-
+```
 Special characters
 
 A few special characters allow for the (ultimately wrong but practically useful) notion that geeks can seldom be strictly quantified.

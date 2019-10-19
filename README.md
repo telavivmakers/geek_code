@@ -375,20 +375,21 @@ R* I thought life WAS role-playing?
 In addition (or maybe on the other hand), many geeks have lives that revolve around books.
 
 ```
-b++++ I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I’ve ordered books from another country to get my Favorite Author Fix.
-b+++ I consume a few books a week as part of a staple diet.
-b++ I find the time to get through at least one new book a month.
-b+ I enjoy reading, but don’t get the time very often.
-b I read the newspaper and the occasional book.
-b- I read when there is no other way to get the information.
-b– I did not actually READ the geek code, I just had someone tell me.
+B++++ I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I’ve ordered books from another country to get my Favorite Author Fix.
+B+++ I consume a few books a week as part of a staple diet.
+B++ I find the time to get through at least one new book a month.
+B+ I enjoy reading, but don’t get the time very often.
+B I read the newspaper and the occasional book.
+B- I read when there is no other way to get the information.
+B– I did not actually READ the geek code, I just had someone tell me.
 ```
 #### k – Comics
 Subcategories –
-    D – Dilbert
-    X – XKCD
-    M – Manga
-
+```
+    kD – Dilbert
+    kX – XKCD
+    kM – Manga
+```
 ### LIFESTYLE
 
 Geeks, unlike the lower lifeforms known as nerds, have lives. They have things to do that are in the outside world. Of course, this is usually done with other geeks, but that’s not the point. The point is,, that geeks are not necessarily the outcasts society often believes they are. The fact is that society isn’t kool enough to be included in our activities.
@@ -442,8 +443,9 @@ This code also is used to denote the gender of the geek. Females use ‘x’ in 
 x+ — A female who has had sex
 y+ — A male who has had sex.
 z+ — A person (gender undisclosed) who has had sex.
+!z neither my sex nor my sex life are any of your beeswax
 ```
-For those persons who do not wish to give out any details of their sex life, the use of z? (where z is the gender code) will allow you to do so.
+Some examples
 ```
 z+++++  I am Madonna
 z++++  I have a few little rug rats to prove I’ve been there. Besides, with kids around, who has time for sex?

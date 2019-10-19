@@ -127,7 +127,7 @@ a? immortal
 In addition, if you wish to give your exact age, you can place the number after the ‘a’ identifier. For example: a42
 ```
 #### b – beardliness/facial hair
-As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and unix beards being a thing we give it a category here despite its irrelevance to some fraction of the population. Also it lets us start off with ‘abcd’ for age/beard/clothing/dimensions
+As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population. Also it lets us start off with ‘abcd’ for age/beard/clothing/dimensions
 
 ```
 b – beard

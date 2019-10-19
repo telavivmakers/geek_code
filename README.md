@@ -33,7 +33,7 @@ O- M+ V– PS++>$ PE++>$ Y++ PGP++ t- 5+++ X++ R+++>$ tv+ b+ DI+++ D+++
 G+++++ e++ h r– y++**
 ——END GEEK CODE BLOCK——
 ```
-Special characters
+### Special characters
 
 A few special characters allow for the (ultimately wrong but practically useful) notion that geeks can seldom be strictly quantified.
 
@@ -50,13 +50,14 @@ Unless stated otherwise within the specific category, the ? is placed after the 
 !
 Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate. For example, !E would be a person that just plain refuses to have anything to do with Emacs, while E? would be a person that doesn’t even know what Emacs is.
 
-The categories
+## The categories
 
 ==============================================================
-G – Graduate or Undergraduate training/degree/interest
+### G – Graduate or Undergraduate training/degree/interest
 
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a “G” to denote “GEEK”, followed by one or two letters to denote the geek’s occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
+```
 GB — Geek of Business
 GC — Geek of Classics
 GCA — Geek of Commercial Arts
@@ -88,10 +89,10 @@ GU — Geek of ‘Undecided’. This is a popular vocation with incoming freshme
 G! — Geek of no qualifications. A rather miserable existence, you would think.
 
 GAT — Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.
-
+```
 ==============================================================
 
-WETWARE
+### a,b,c - WETWARE
 
 They say you never get a second chance to make a first impression.
 
@@ -101,9 +102,9 @@ a – Age
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Also, please use BASE 10 numbers.
 
-a+++
-60 and up
-a++
+- a+++
+    60 and up
+- a++
 50-59
 a+
 40-49

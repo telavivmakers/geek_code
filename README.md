@@ -447,8 +447,8 @@ z+ — A person (gender undisclosed) who has had sex.
 ```
 Some examples
 ```
-z+++++  I am Madonna
-z++++  I have a few little rug rats to prove I’ve been there. Besides, with kids around, who has time for sex?
+x+++++  I am Madonna
+y++++  I'm a guy with a few little rug rats to prove I’ve been there. Besides, with kids around, who has time for sex?
 z+++  I’m married, so I can get it (theoretically) whenever I want.
 z++  I was once referred to as ‘easy’. I have no idea where that might have come from though.
 z+  I’ve had real, live sex.
@@ -460,7 +460,7 @@ z*  I’m a pervert.
 z**  I’ve been known to make perverts look like angels.
 !z  It’s none of your business what my sex life is like !
 z?  Sex? What’s that? I’ve had no sexual experiences.
-!z+  Sex? What’s that? No experience, willing to learn!
+z>+ Desperate for experience
 ```
 CHANGELIST – What remains:
 

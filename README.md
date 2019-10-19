@@ -2,8 +2,6 @@
 
 ## Geek Code 4.0 – RFC
 
-[GitHub Pages](https://pages.github.com/)
-
 See V3.1 [Here](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html), generator [here](htps://www.joereiss.net/geek/geek.html)
 
 Some categories have been removed , others added , some altered.  The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
@@ -16,7 +14,7 @@ The geek code attempts a concise description of your being in ‘geek space’, 
 
 The code consists of a set of alphanumeric identifiers indicating the various categories (and subcategories), and qualifiers + and – following the identifiers indicating amount/size/level of proficiency/etc. These qualifiers can be stacked, e.g s+++ indicates a person of extreme height (the s indicating size).
 
-The broad categories encoded are: Wetware, Computers, Politics, Entertainment, Lifestyle. Most have subcategories; one can answer at any level of detail desired, thus eg. U++ indicates someone highly interested/proficient in Unix, while ULDU++ indicates someone into unix-linux-debian-ubuntu. Multiple subcategories can be indicated with a forward slash, e.g GH/C indicates a Geek of Humanities and Classics.
+The broad categories encoded are: Wetware, Computers, Politics, Entertainment, Lifestyle. Most have subcategories and you can answer at any level of detail desired, thus eg. U++ indicates someone highly interested/proficient in Unix, while ULDU++ indicates someone into unix-linux-debian-ubuntu. Multiple subcategories can be indicated with a forward slash, e.g GH/C indicates a Geek of Humanities and Classics.
 
 Some categories will be irrelevant, so ignore them. Some of the qualifiers will not match with you exactly, so choose that qualifier that most closely matches you.
 
@@ -24,7 +22,7 @@ Given a set of category/qualifier strings for any of the above (skip anything yo
 
 GED/J d– s:++>: a– C++(++++) ULU++ P+ L++ E—- W+(-) N+++ o+ K+++ w— O- M+ V– PS++>$ PE++>$ Y++ PGP++ t- 5+++ X++ R+++>$ tv+ b+ DI+++ D+++ G+++++ e++ h r– y++**
 
-A GEEK CODE BLOCK similar to the output created by the PGP program attempts to universalize how you will see the Geek Code around the net and looks like the following:
+A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net and looks like the following:
 ```
 —–BEGIN GEEK CODE BLOCK—–
 Version: 3.1
@@ -93,12 +91,9 @@ GP — Geek of Philosophy
 GS — Geek of Science (Physics, Chemistry, Biology, etc.)
 GSS — Geek of Social Science (Psychology, Sociology, etc.)
 GTW — Geek of Technical Writing
-
 GO — Geek of Other. Some types of geeks deviate from the normal geek activities. This is encouraged as true geeks come from all walks of life.
 GU — Geek of ‘Undecided’. This is a popular vocation with incoming freshmen.
-
-G! — Geek of no qualifications. A rather miserable existence, you would think.
-
+G! — Geek of no qualifications nor interests; likely, cannot exist
 GAT — Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.
 ```
 ==============================================================
@@ -107,11 +102,11 @@ GAT — Geek of All Trades. For those geeks that can do anything and everything.
 
 They say you never get a second chance to make a first impression.
 
-The Geek, of course, doesn’t believe any of that crap; on the internet, no one knows you’re a dog , according to ancient legend. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense.
+The Geek, of course, doesn’t believe any of that crap; on the internet, no one knows you’re a dog , according to ancient meme. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense.
 
 #### a – Age
 
-The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Also, please use BASE 10 numbers.
+The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10 , wise guys.
 ```
 a+++  60 and up
 a++  50-59
@@ -139,19 +134,19 @@ Thus b++/bm++ means impressive beard with equally consequential mustachio. Leave
 
 #### c – Clothing
 ```
-c++ I tend to wear conservative dress such as a business suit or worse, a tie.
-c+ Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
-c I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
-c- I’m usually in jeans and a t-shirt.
-c– My t-shirts go a step further and have a trendy political message on them.
-c— Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
-cx Cross Dresser
-c? I have no idea what I am wearing right now, let alone what I wore yesterday.
-!c No clothing. Quite a fashion statement, don’t you think?
-cpu I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
+c++  I tend to wear conservative dress such as a business suit or worse, a tie.
+c+  Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
+c  I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
+c-  I’m usually in jeans and a t-shirt.
+c–  My t-shirts go a step further and have a trendy political message on them.
+c—  Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
+cx  Cross Dresser
+c?  I have no idea what I am wearing right now, let alone what I wore yesterday.
+!c  No clothing. Quite a fashion statement, don’t you think?
+cpu  I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
 ```
 #### d – dimensions
-Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating height, and the second indicates roundness, thus d+++:+++ indicates extreme height and extreme rotundity.
+Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating height, and the second roundness. Thus d+++:--- indicates extremely tall and thin.
 ```
 d+++:+++ I usually have to duck through doors/I take up three movie seats.
 d++:++ I’m a basketball/linebacker candidate.
@@ -219,7 +214,7 @@ U— Unix geeks are actually nerds in disguise.
 ```
 
 #### L – Programming languages .
-In v4 you can list a series of languages and your opinions/stance thereupon, for example Lp++/R+ would indicate high proficiency in python and above average knowledge of R.
+List a series of languages and your facility/opinion thereupon, for example Lp++/R+ would indicate high proficiency in python and above average knowledge of R.
 
 ```
 Lj – java
@@ -273,8 +268,8 @@ M– Macs do more than suck. They make a user stupid by allowing them to use the
 #### H – Hardware
 ```
 H+++   I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.
-H—   I have used hammers, but only metaphorically.
-H--  I prefer to take my laptop to the shop hardware acts up 
+H—   I have used hammers  metaphorically far more often than literally
+H--  I prefer to take my laptop to the shop when the hardware acts up 
 ```
 #### PGP
 Pretty Good Privacy (aka PGP) is a program available on many platforms that will encrypt files so that prying eyes (particularly governmental) can’t look at them.

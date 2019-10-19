@@ -101,146 +101,111 @@ The Geek, of course, doesn’t believe any of that crap; on the internet, no one
 #### a – Age
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Also, please use BASE 10 numbers.
-
-- a+++  60 and up
-- a++  50-59
-- a+  40-49
-- a  30-39
-- a-  25-29
-- a– 20-24
-- a— 15-19
-- a—- 10-14
-- a—– 9 and under (Geek in training?)
-- a? immortal
-- !a it’s none of your business how old I am
-
-- In addition, if you wish to give your exact age, you can place the number after the ‘a’ identifier. For example: a42
-
+```
+a+++  60 and up
+a++  50-59
+a+  40-49
+a  30-39
+a-  25-29
+a– 20-24
+a— 15-19
+a—- 10-14
+a—– 9 and under (Geek in training?)
+a? immortal
+!a it’s none of your business how old I am
+In addition, if you wish to give your exact age, you can place the number after the ‘a’ identifier. For example: a42
+```
 #### b – beardliness/facial hair
 As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and unix beards being a thing we give it a category here despite its irrelevance to some fraction of the population. Also it lets us start off with ‘abcd’ for age/beard/clothing/dimensions
 
-- b – beard
-- bm – mustache
-- bs – sideburns
-- bb – bushy eyebrows
-
+```
+b – beard
+bm – mustache
+bs – sideburns
+bb – bushy eyebrows
+```
 Thus b++/bm++ means impressive beard with equally consequential mustachio. Leave blank for no facial hair.
 
 #### c – Clothing
-
-- c++
-I tend to wear conservative dress such as a business suit or worse, a tie.
-- c+
-Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
-- c
-I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
-- c-
-I’m usually in jeans and a t-shirt.
-- c–
-My t-shirts go a step further and have a trendy political message on them.
-- c—
-Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
-
-- cx
-Cross Dresser
-- c?
-I have no idea what I am wearing right now, let alone what I wore yesterday.
-- !c
-No clothing. Quite a fashion statement, don’t you think?
-- cpu
-I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
-
+```
+c++ I tend to wear conservative dress such as a business suit or worse, a tie.
+c+ Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
+c I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
+c- I’m usually in jeans and a t-shirt.
+c– My t-shirts go a step further and have a trendy political message on them.
+c— Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
+cx Cross Dresser
+c? I have no idea what I am wearing right now, let alone what I wore yesterday.
+!c No clothing. Quite a fashion statement, don’t you think?
+cpu I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
+```
 #### d – dimensions
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating height, and the second indicates roundness, thus d+++:+++ indicates extreme height and extreme rotundity.
-
-d+++:+++
-I usually have to duck through doors/I take up three movie seats.
-d++:++
-I’m a basketball/linebacker candidate.
-d+:+
-I’m a little taller/rounder than most.
-d:
-I’m an average geek
-d-:-
-I look up to most people. Everyone tells me to gain a few pounds.
-d–:–
-I look up to damn near everybody. I tend to have to fight against a strong breeze.
-d—:—
-I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.
-
+```
+d+++:+++ I usually have to duck through doors/I take up three movie seats.
+d++:++ I’m a basketball/linebacker candidate.
+d+:+ I’m a little taller/rounder than most.
+d: I’m an average geek
+d-:- I look up to most people. Everyone tells me to gain a few pounds.
+d–:– I look up to damn near everybody. I tend to have to fight against a strong breeze.
+d—:— I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.
+```
 ==============================================================
 
-C- COMPUTERS
+### C- COMPUTERS
 
 There is a record of geeks that don’t use computers. Unfortunately, they are all dead, having lived in an era of no computers. All modern geeks have some exposure to computers. If you don’t know what a computer is, you need to go back into your shell.
 
 Computers
 Most geeks identify themselves by their use of computers and computer networks. In order to quantify your geekiness level on computers, consult the following (consider the term ‘computers’ synonymous with ‘computer network’). This category represents “general” computer aptitude. Categories below will get into specifics.
 
-C++++
-I’ll be first in line to get the new cybernetic interface installed into my skull.
-C+++
-You mean there is life outside of Internet? You’re shittin’ me! I haven’t dragged myself to class in weeks.
-C++
-Computers are a large part of my existence. When I get up in the morning, the first thing I do is log myself in. I play games or mud on weekends, but still manage to stay off of academic probation.
-C+
-Computers are fun and I enjoy using them. I play a mean game of DOOM! and can use a word processor without resorting to the manual too often. I know that a 3.5″ disk is not a hard disk. I also know that when it says ‘press any key to continue’, I don’t have to look for a key labeled ‘ANY’.
-C
-Computers are a tool, nothing more. I use it when it serves my purpose.
-C-
-Anything more complicated than my calculator and I’m screwed.
-C–
-Where’s the on switch?
-C—
-If you even mention computers, I will rip your head off!
-
-U – UNIX
+```
+C++++ I’ll be first in line to get the new cybernetic interface installed into my skull.
+C+++ You mean there is life outside of Internet? You’re shittin’ me! I haven’t dragged myself to class in weeks.
+C++ Computers are a large part of my existence. I code in at least one language
+C+ Computers are fun and I enjoy using them. 
+C Computers are a tool, nothing more. I use it when it serves my purpose.
+C- Anything more complicated than my calculator and I’m screwed.
+C– Where’s the on switch?
+C— If you even mention computers, I will rip your head off!
+```
+#### U – UNIX
 It seems that a Unix-based operating system is the OS of choice among most geeks. In addition to telling us about your Unix abilities, you can also show which specific Unix OS you are using. To accomplish this, you include a letter showing the brand with your rating. For example: UL++++ would indicate a sysadmin running Linux.
 
     U – Unix
         UL – Linux
-
-        ULR – RPM
-        ULRC – cwntos
-        ULRF – fedora
-        ULRO – opensuse
-        ULRU – urpmi
-        ULRA – apt-rpm
-
-        ULD – Debian
-
-        ULDU – ubuntu
-        ULDUX 3rd party/discontinued ubuntu
-        ULDM – Mepis
-        ULDK – Knoppix
-
-        ULP – Pacman
-        ULG – Gentoo
-        ULS – slackware
-        UL* – other
-    US – Sun OS/Solaris
-    UA – AIX
-    UH – HPUX
-    UI – IRIX
-    UC – SCO Unix
-    U* – Some other one not listed
-
-U++++
-I am the sysadmin. If you try and crack my machine don’t be surprised if the municipal works department gets an “accidental” computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.
-U+++
-I don’t need to crack /etc/passwd because I just modified su so that it doesn’t prompt me. The admin staff doesn’t know I’m here.
-U++
-I’ve get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don’t have access to.
-U+
-I enjoy shell scripting and understand the fundamental importance of the difference between ‘ and `
-U
-I have a Unix account to do my stuff in
-U-
-I have a VMS account.
-U–
-I’ve seen Unix and didn’t like it. DEC rules!
-U—
-Unix geeks are actually nerds in disguise.
+            ULR – RPM
+                ULRC – cwntos
+                ULRF – fedora
+                ULRO – opensuse
+                ULRU – urpmi
+                ULRA – apt-rpm
+            ULD – Debian
+                ULDU – ubuntu
+                ULDUX 3rd party/discontinued ubuntu
+                ULDM – Mepis
+                ULDK – Knoppix
+            ULP – Pacman
+            ULG – Gentoo
+            ULS – slackware
+            UL* – other
+        US – Sun OS/Solaris
+        UA – AIX
+        UH – HPUX
+        UI – IRIX
+        UC – SCO Unix
+        U* – Some other one not listed
+some exaples
+```
+U++++ I am the sysadmin. If you try and crack my machine don’t be surprised if the municipal works department gets an “accidental” computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.
+U+++ I don’t need to crack /etc/passwd because I just modified su so that it doesn’t prompt me. The admin staff doesn’t know I’m here.
+U++ I’ve get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don’t have access to.
+U+ I enjoy shell scripting and understand the fundamental importance of the difference between ‘ and `
+U I have a Unix account to do my stuff in
+U- I have a VMS account.
+U– I’ve seen Unix and didn’t like it. DEC rules!
+U— Unix geeks are actually nerds in disguise.
+```
 
 L – Programming languages .
 In v4 you can list a series of languages and your opinions/stance thereupon, for example Lp++/R+ would indicate high proficiency in python and above average knowledge of R.

@@ -92,77 +92,65 @@ GAT — Geek of All Trades. For those geeks that can do anything and everything.
 ```
 ==============================================================
 
-### a,b,c - WETWARE
+### a,b,c,d - WETWARE (age/beard/clothing/dimensions)
 
 They say you never get a second chance to make a first impression.
 
 The Geek, of course, doesn’t believe any of that crap; on the internet, no one knows you’re a dog , according to ancient legend. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense.
 
-a – Age
+#### a – Age
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Also, please use BASE 10 numbers.
 
-- a+++
-    60 and up
-- a++
-50-59
-a+
-40-49
-a
-30-39
-a-
-25-29
-a–
-20-24
-a—
-15-19
-a—-
-10-14
-a—–
-9 and under (Geek in training?)
+- a+++  60 and up
+- a++  50-59
+- a+  40-49
+- a  30-39
+- a-  25-29
+- a– 20-24
+- a— 15-19
+- a—- 10-14
+- a—– 9 and under (Geek in training?)
+- a? immortal
+- !a it’s none of your business how old I am
 
-a?
-immortal
-!a
-it’s none of your business how old I am
+- In addition, if you wish to give your exact age, you can place the number after the ‘a’ identifier. For example: a42
 
-In addition, if you wish to give your exact age, you can place the number after the ‘a’ identifier. For example: a42
+#### b – beardliness/facial hair
+As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and unix beards being a thing we give it a category here despite its irrelevance to some fraction of the population. Also it lets us start off with ‘abcd’ for age/beard/clothing/dimensions
 
-b – beardliness/facial hair
-As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and unix beards being a thing we give it a category here despite its irrelevance to some fraction of the population. Also it lets us start off with ‘abc’ for age/beard/clothes
-
-b – beard
-bm – mustache
-bs – sideburns
-bb – bushy eyebrows
+- b – beard
+- bm – mustache
+- bs – sideburns
+- bb – bushy eyebrows
 
 Thus b++/bm++ means impressive beard with equally consequential mustachio. Leave blank for no facial hair.
 
-c – Clothing
+#### c – Clothing
 
-c++
+- c++
 I tend to wear conservative dress such as a business suit or worse, a tie.
-c+
+- c+
 Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
-c
+- c
 I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
-c-
+- c-
 I’m usually in jeans and a t-shirt.
-c–
+- c–
 My t-shirts go a step further and have a trendy political message on them.
-c—
+- c—
 Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
 
-dx
+- cx
 Cross Dresser
-c?
+- c?
 I have no idea what I am wearing right now, let alone what I wore yesterday.
-!c
+- !c
 No clothing. Quite a fashion statement, don’t you think?
-cpu
+- cpu
 I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
 
-d – dimensions
+#### d – dimensions
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating height, and the second indicates roundness, thus d+++:+++ indicates extreme height and extreme rotundity.
 
 d+++:+++

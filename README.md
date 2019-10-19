@@ -248,28 +248,28 @@ Lp  I am neutral on python , its ok for some things.
 Lp- Python is for hobbies
 Lp– I do not like python, it is an ugly aberration for people incapable of grasping the subtle power of [C|Lisp|assembly]
 ```
-#### F – Frontend
+#### FE – Frontend
 ```
-F++
+FE++
 I am a java bean
-F--
+FE--
 I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques
 ```
-#### B – Backend
+#### BE – Backend
 ```
-B+++ I wrote my own database system as current performance limitations were irking me
-B--- Keep the dirty stuff under the hood, building a cool GUI is where its at
+BE+++ I wrote my own database system as current performance limitations were irking me
+BE--- Keep the dirty stuff under the hood, building a cool GUI is where its at
 ```
 
 #### M – Macintosh
 Many geeks have abandoned the character-based computer altogether and moved over to the Macintosh. It in important to give notification of your Mac rating.
-'''
+```
 M++  I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I’ll write the damn software to do it.
 M+  A Mac has it’s uses and I use it quite often.
 M  I use a Mac, but I’m pretty indifferent about it.
 M- Macs suck. All real geeks have a character prompt.
 M– Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.
-
+```
 #### H – Hardware
 ```
 H+++   I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.
@@ -303,11 +303,11 @@ The last few years has seen the rise of the political geek. This phenomena is li
 #### PS – Political and Social Issues
 Where, in general, your political views on different social issues fall. The + and – ratings here roughly indicate left/right on the political spectrum.
 
-Subsubcategories –
+Subcategories (give yourself a geek point if your first thought was 'actually, subsubcategories')
 
-##### PSG – green politics/sustainability/climate
-##### PSL – civil liberties
-##### PSS – gender politics
+    PSG – green politics/sustainability/climate
+    PSL – civil liberties
+    PSS – gender politics
 
 For example –
 ```

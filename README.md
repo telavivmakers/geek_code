@@ -20,16 +20,15 @@ Some categories will be irrelevant, so ignore them. Some of the qualifiers will 
 
 Given a set of category/qualifier strings for any of the above (skip anything you dont want to answer/not relevant/classified/unknown/indeterminate/etc) it’s time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 
-GED/J d– s:++>: a– C++(++++) ULU++ P+ L++ E—- W+(-) N+++ o+ K+++ w— O- M+ V– PS++>$ PE++>$ Y++ PGP++ t- 5+++ X++ R+++>$ tv+ b+ DI+++ D+++ G+++++ e++ h r– y++**
+GS/CS/J a+ b-- c- d+:- C+ ULDU+$   LC+/p+  FE- BE+ H+ PGP+ E+ P++/PS++/PSG++ TR&M+ B+ kX e++++ h++ r++ y+
+
 
 A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net and looks like the following:
 ```
 —–BEGIN GEEK CODE BLOCK—–
-Version: 3.1
-GED/J d– s:++>: a– C++(++++) ULU++ P+ L++ E—- W+(-) N+++ o+ K+++ w—
-O- M+ V– PS++>$ PE++>$ Y++ PGP++ t- 5+++ X++ R+++>$ tv+ b+ DI+++ D+++
-G+++++ e++ h r– y++**
-——END GEEK CODE BLOCK——
+Version: 4.0
+GS/CS/J a+ b-- c- d+:- C+ ULDU+$   LC+/p+  FE- BE+ H+ PGP+ E+ P++/PS++/PSG++ TR&M+ B+ kX e++++ h++ r++ y+
+—–END GEEK CODE BLOCK—–
 ```
 ### Special characters
 
@@ -62,7 +61,7 @@ Placed BEFORE the category. Unless stated otherwise, indicates that the person r
 ## The categories
 
 ==============================================================
-### G – Graduate or Undergraduate training/degree/interest
+### G – Geek of - training/degree/interest/job
 
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a “G” to denote “GEEK”, followed by one or two letters to denote the geek’s occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
@@ -243,6 +242,12 @@ Lp  I am neutral on python , its ok for some things.
 Lp- Python is for hobbies
 Lp– I do not like python, it is an ugly aberration for people incapable of grasping the subtle power of [C|Lisp|assembly]
 ```
+#### G: - github handle
+Your github username, after the G: If you use bitbucket use GB: instead, if some other public repo write the name like Gbeanstalk:rutman. E.g.
+```
+G:jeremy-rutman
+```
+
 #### FE – Frontend
 ```
 FE++
@@ -265,12 +270,7 @@ M  I use a Mac, but I’m pretty indifferent about it.
 M- Macs suck. All real geeks have a character prompt.
 M– Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.
 ```
-#### H – Hardware
-```
-H+++   I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.
-H—   I have used hammers  metaphorically far more often than literally
-H--  I prefer to take my laptop to the shop when the hardware acts up 
-```
+
 #### PGP
 Pretty Good Privacy (aka PGP) is a program available on many platforms that will encrypt files so that prying eyes (particularly governmental) can’t look at them.
 ```
@@ -291,6 +291,15 @@ E++  I have fixed broken toasters without removing the plug, such is my skill an
 E+   I know CMOS from BJT and why a comparator is not quite equivalent to an op amp
 E-- Electrons are interesting as theoretical constructs
 ```
+
+#### H – Hardware
+```
+H+++   I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.
+H—   I have used hammers  metaphorically far more often than literally
+H--  I prefer to take my laptop to the shop when the hardware acts up 
+```
+
+
 ### P – POLITICS
 
 The last few years has seen the rise of the political geek. This phenomena is little understood, but some theorize that it has come about because of the popular media’s attempts to demonize the Internet and computer use in general, and the government’s willingness to go along with it. Others propose that the aging geek population has simply started taking an interest in the world around them. Some support the “Sun Spot” theory. As of v4 some new subcategories are added to the PS and PE categories.

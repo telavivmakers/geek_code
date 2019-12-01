@@ -10,7 +10,7 @@ Changelist at end
 
 # The Geek Code 4.0
 
-The geek code attempts a concise description of your being in ‘geek space’, spanning key dimensions using a small set of categories and quantifying them with qualifiers.
+The geek code attempts a concise description of your being in ‘geek space’, spanning key dimensions using a small set of categories and quantifying them with qualifiers ( or qualifying them with quantifiers, as you wish).
 
 The code consists of a set of alphanumeric identifiers indicating the various categories (and subcategories), and qualifiers + and – following the identifiers indicating amount/size/level of proficiency/etc. These qualifiers can be stacked, e.g s+++ indicates a person of extreme height (the s indicating size).
 

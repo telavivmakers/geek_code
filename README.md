@@ -145,7 +145,7 @@ c?  I have no idea what I am wearing right now, let alone what I wore yesterday.
 cpu  I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
 ```
 #### d – dimensions
-Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating height, and the second roundness. Thus d+++:--- indicates extremely tall and thin.
+Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent. Thus d+++:--- indicates extremely tall and thin.
 ```
 d+++:+++ I usually have to duck through doors/I take up three movie seats.
 d++:++ I’m a basketball/linebacker candidate.

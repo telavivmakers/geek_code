@@ -42,7 +42,7 @@ for this variable, said trait is not very rigid, may change with time or with in
 
 for indicating “cross-overs” or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly “C+”) could use C+(—). @ is different from () in that () has finite limits within the category, while @ ranges all over.
 
->
+ >
 
 for ‘wannabe’ ratings. Indicating that while the geek is currently at one rating, they are striving to reach another. For example, C++>$ indicating a geek that is currently computer savvy, but wants to someday make money at it.
 

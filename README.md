@@ -2,7 +2,7 @@
 
 ## Geek Code 4.0 – RFC
 
-See V3.1 [Here](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html), generator here - htps://www.joereiss.net/geek/geek.html
+See V3.1 [Here](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html), generator here - https://www.joereiss.net/geek/geek.html
 
 Some categories have been removed , others added , some altered.  The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
 Changelist at end
@@ -504,7 +504,7 @@ Removed
     OS/2
     VMS
     Cypherpunk
-    Babylon5 (moved(
+    Babylon5 (moved)
     X-Files (moved)
     Television
     Dilbert (moved)

@@ -25,12 +25,11 @@ GS/CS/J a+ b-- c- d+:- C+ ULDU+$   LC+/p+  FE- BE+ H+ PGP+ E+ P++/PS++/PSG++ T
 
 A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net and looks like the following:
 ```
------BEGIN GEEK CODE BLOCK-----
-Version: 4.0
+-----BEGIN GEEK CODE VERSION 4.5 BLOCK-----
 GCS/GM a+(a?) bb c++(c-) d+:+ C++>++++ ULD++++$ Lj/LC#/Lvb/LP
 G:exarobibliologist
-FE++(--) BE+++(--) M-- PGP E++ H PSG PE Tt+++/Tmon+++/Tsw+++/Tf++/Td+ R+++(*)$ B+++ Kx+++ e++ h r+++ !y
-------END GEEK CODE BLOCK------ 
+FE++(--) BE+++(--) M-- PGP E++ H PSG PE TT+++/Tmon+++/TSW+++/Tf++/Tdw+ R+++(*)>$ B+++ kX+++ e++ h+ r+++ !y
+------END GEEK CODE VERSION 4.5 BLOCK------ 
 ```
 ### Special characters
 
@@ -355,7 +354,7 @@ In v4, tv/series are given its own category other than star trek which remains f
 List what you think of a given series
 
 ```
-Td		=	Doctor Who
+Tdw		=	Doctor Who
 Tr&m 		=	rick&MORTY
 Tf 		=	Firefly
 TSG		=	Stargate

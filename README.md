@@ -137,7 +137,7 @@ c+  		=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or
 c		=	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
 c-  		=	I’m usually in jeans and a t-shirt.
 c--		=	My t-shirts go a step further and have a trendy political message on them.
-c---	=	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
+c---		=	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
 cx		=	Cross Dresser
 c?		=	I have no idea what I am wearing right now, let alone what I wore yesterday.
 !c		=	No clothing. Quite a fashion statement, don’t you think?
@@ -149,7 +149,7 @@ Geeks come in many shapes and sizes. Shape code is divided into two parts delimi
 d+++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
 d++:++ 		=	I’m a basketball/linebacker candidate.
 d+:+ 		=	I’m a little taller/rounder than most.
-d: 			=	I’m an average geek
+d: 		=	I’m an average geek
 d-:-		=	I look up to most people. Everyone tells me to gain a few pounds.
 d--:-- 		=	I look up to damn near everybody. I tend to have to fight against a strong breeze.
 d---:--- 	=	I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.

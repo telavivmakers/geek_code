@@ -69,7 +69,7 @@ GB 	= Geek of Business
 GC 	= Geek of Classics
 GCA 	= Geek of Commercial Arts
 GCM 	= Geek of Computer Management
-GCS		= Geek of Computer Science
+GCS	= Geek of Computer Science
 GCC 	= Geek of Communications
 GE 	= Geek of Engineering
 GED 	= Geek of Education
@@ -132,16 +132,16 @@ Thus b++/bm++ means impressive beard with equally consequential mustachio. Leave
 
 #### c – Clothing
 ```
-c++  		=	I tend to wear conservative dress such as a business suit or worse, a tie.
-c+  		=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
-c		=	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
-c-  		=	I’m usually in jeans and a t-shirt.
-c--		=	My t-shirts go a step further and have a trendy political message on them.
-c---		=	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
-cx		=	Cross Dresser
-c?		=	I have no idea what I am wearing right now, let alone what I wore yesterday.
-!c		=	No clothing. Quite a fashion statement, don’t you think?
-cpu		=	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
+c++  	=	I tend to wear conservative dress such as a business suit or worse, a tie.
+c+  	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
+c	=	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
+c-  	=	I’m usually in jeans and a t-shirt.
+c--	=	My t-shirts go a step further and have a trendy political message on them.
+c---	=	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
+cx	=	Cross Dresser
+c?	=	I have no idea what I am wearing right now, let alone what I wore yesterday.
+!c	=	No clothing. Quite a fashion statement, don’t you think?
+cpu	=	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
 ```
 #### d – dimensions
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent. Thus d+++:--- indicates extremely tall and thin.
@@ -236,9 +236,9 @@ For example:
 ```
 Lp+++		=	I am Guido
 Lp++		=	I maintain/contribute to the python code base
-Lp+			=	I am a pythonista – love python and use it all the time , consider whether things I say are ‘pythonic’
-Lp			=	I am neutral on python , its ok for some things.
-Lp-			=	Python is for hobbies
+Lp+		=	I am a pythonista – love python and use it all the time , consider whether things I say are ‘pythonic’
+Lp		=	I am neutral on python , its ok for some things.
+Lp-		=	Python is for hobbies
 Lp-- 		=	I do not like python, it is an ugly aberration for people incapable of grasping the subtle power of [C|Lisp|assembly]
 ```
 #### G: - github handle
@@ -249,30 +249,30 @@ G:exarobibliologist
 
 #### FE – Frontend
 ```
-FE++		=	I am a java bean
-FE+			=
-FE			=
-FE-			=
-FE--		=	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques
+FE++	=	I am a java bean
+FE+	=
+FE	=
+FE-	=
+FE--	=	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques
 ```
 #### BE – Backend
 ```
-BE+++		=	I wrote my own database system as current performance limitations were irking me
-BE++		=
-BE+			=
-BE			=
-BE-			=
-BE--		=
-BE---		=	Keep the dirty stuff under the hood, building a cool GUI is where its at
+BE+++	=	I wrote my own database system as current performance limitations were irking me
+BE++	=
+BE+	=
+BE	=
+BE-	=
+BE--	=
+BE---	=	Keep the dirty stuff under the hood, building a cool GUI is where its at
 ```
 
 #### M – Macintosh
 Many geeks have abandoned the character-based computer altogether and moved over to the Macintosh. It in important to give notification of your Mac rating.
 ```
-M++		=	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I’ll write the damn software to do it.
-M+		=	A Mac has it’s uses and I use it quite often.
-M  		=	I use a Mac, but I’m pretty indifferent about it.
-M- 		=	Macs suck. All real geeks have a character prompt.
+M++	=	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I’ll write the damn software to do it.
+M+	=	A Mac has it’s uses and I use it quite often.
+M  	=	I use a Mac, but I’m pretty indifferent about it.
+M- 	=	Macs suck. All real geeks have a character prompt.
 M-- 	= 	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.
 ```
 
@@ -292,18 +292,22 @@ PGP---- 	=	Oh, here is something you all can use that is better (insert Clipper 
 ### E – Electronics
 ```
 E+++	=	I am lady ada
-E++		=	I have fixed broken toasters without removing the plug, such is my skill and need for speed.  
-E+		=	I know CMOS from BJT and why a comparator is not quite equivalent to an op amp
-E--		=	Electrons are interesting as theoretical constructs
+E++	=	I have fixed broken toasters without removing the plug, such is my skill and need for speed.  
+E+	=	I know CMOS from BJT and why a comparator is not quite equivalent to an op amp
+E	=
+E-	=
+E--	=	Electrons are interesting as theoretical constructs
 ```
 
 #### H – Hardware
 ```
 H+++	=	I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.
-H-		=	I have used hammers  metaphorically far more often than literally
-H--		=	I prefer to take my laptop to the shop when the hardware acts up 
+H++		=
+H+	=
+H	=
+H-	=	I have used hammers  metaphorically far more often than literally
+H--	=	I prefer to take my laptop to the shop when the hardware acts up 
 ```
-
 
 ### P – POLITICS
 

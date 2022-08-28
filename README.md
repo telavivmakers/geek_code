@@ -20,15 +20,12 @@ Some categories will be irrelevant, so ignore them. Some of the qualifiers will 
 
 Given a set of category/qualifier strings for any of the above (skip anything you dont want to answer/not relevant/classified/unknown/indeterminate/etc) it’s time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 
-GS/CS/J a+ b-- c- d+:- C+ ULDU+$   LC+/p+  FE- BE+ H+ PGP+ E+ P++/PS++/PSG++ TR&M+ B+ kX e++++ h++ r++ y+
-
-
 A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net and looks like the following:
 ```
 -----BEGIN GEEK CODE VERSION 4.5 BLOCK-----
 GCS/GM a+(a?) bb c++(c-) d+:+ C++>++++ ULD++++$ Lj/LC#/Lvb/LP
 G:exarobibliologist
-FE++(--) BE+++(--) M-- PGP E++ H PSG PE TT+++/Tmon+++/TSW+++/Tf++/Tdw+ R+++(*)>$ B+++ kX+++ e++ h+ r+++ !y
+FE++(--) BE+++(--) M-- PGP E++ H PSG PE TT+++/Tmon+++/TSW+++/Tf++/Tdw+ R+++(*)>$ B+++ kX+++ INTJ-A e++ h+ r+++ !y
 ------END GEEK CODE VERSION 4.5 BLOCK------ 
 ```
 ### Special characters
@@ -537,5 +534,6 @@ Removed
 New
 
 	MBTI
+	Sex (non-binary support added)
 
 

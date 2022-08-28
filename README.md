@@ -355,9 +355,9 @@ List what you think of a given series
 TD		=	Doctor Who
 TR&M 		=	rick&MORTY
 TF 		=	Firefly
-TS		=	Stargate
-	TSa	=	Stargate Atlantis
-	TSu	=	Stargate Universe
+TSG		=	Stargate
+	TSGa	=	Stargate Atlantis
+	TSGu	=	Stargate Universe
 TBBT		=	The Big Bang Theory
 TB5		=	Babylon5
 TI		=	‘In search of…’ with Leonard Nimoy
@@ -369,15 +369,16 @@ TSW		=	Star Wars
 TGT		=	Game of Thrones
 TLOTR		=	Lord of the Rings
 TL		=	Lost
+TOB		=	Orphan Black
 Tt		=	Star Trek
 ````
 Exemplary Star Trek info
 ```
 Tt+++	=	It’s not just a TV show, it’s a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.
 Tt++	=	It’s the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I’ve built a few of the model kits too. But you’ll never catch me at one of those conventions. Those people are kooks.
-Tt+		=	It’s a damn fine TV show and is one of the only things good on television any more.
-Tt		=	It’s just another TV show
-Tt-		=	Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I’m missing something but I just think it is bad drama.
+Tt+	=	It’s a damn fine TV show and is one of the only things good on television any more.
+Tt	=	It’s just another TV show
+Tt-	=	Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I’m missing something but I just think it is bad drama.
 Tt--	=	Star Trek is just another Space Opera. William Shatner isn’t an actor, he’s a poser! And what’s with this Jean-Luc Picard? A Frenchman with a British accent? Come on. Isn’t Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons? Come on. I’d only watch this show if my remote control broke.
 Tt---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t—)
 ````
@@ -385,13 +386,13 @@ Tt---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you tre
 Role-playing games such as Dungeons & Dragons have long been a part of the traditional geek life. Because geeks often become so involved in their role-playing that they lose touch with reality, include one of the following role-playing codes.
 ```
 R+++	=	I’ve written and published my own gaming materials.
-R++		=	There is no life outside the role of the die. I know all of piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players.
-R+		=	I’ve got my weekly sessions set up and a character that I know better than I know myself.
-R		=	Role-Playing? That’s just something to do to kill a Saturday afternoon
-R-		=	Gosh, what an utter waste of time!
-R--		=	Role-Players are instruments of pure evil.
+R++	=	There is no life outside the role of the die. I know all of piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players.
+R+	=	I’ve got my weekly sessions set up and a character that I know better than I know myself.
+R	=	Role-Playing? That’s just something to do to kill a Saturday afternoon
+R-	=	Gosh, what an utter waste of time!
+R--	=	Role-Players are instruments of pure evil.
 R---	=	I work for T$R.
-R*		=	I thought life WAS role-playing?
+R*	=	I thought life WAS role-playing?
 ```
 #### B – Books
 In addition (or maybe on the other hand), many geeks have lives that revolve around books.
@@ -399,11 +400,11 @@ In addition (or maybe on the other hand), many geeks have lives that revolve aro
 ```
 B++++	=	I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I’ve ordered books from another country to get my Favorite Author Fix.
 B+++	=	I consume a few books a week as part of a staple diet.
-B++		=	I find the time to get through at least one new book a month.
-B+		=	I enjoy reading, but don’t get the time very often.
-B		=	I read the newspaper and the occasional book.
-B-		=	I read when there is no other way to get the information.
-B--		=	I did not actually READ the geek code, I just had someone tell me.
+B++	=	I find the time to get through at least one new book a month.
+B+	=	I enjoy reading, but don’t get the time very often.
+B	=	I read the newspaper and the occasional book.
+B-	=	I read when there is no other way to get the information.
+B--	=	I did not actually READ the geek code, I just had someone tell me.
 ```
 #### k – Comics
 Subcategories –
@@ -427,11 +428,12 @@ All geeks have a varying amount of education.
 e+++++	=	I am Stephen Hawking
 e++++	=	Managed to get my Ph.D.
 e+++	=	Got a Masters degree
-e++		=	Got a Bachelors degree
-e+		=	Got an Associates degree
-e		=	Finished High School
-e-		=	Haven’t finished High School
-e--		=	Haven’t even entered High School
+e++	=	Got a Bachelors degree
+e+	=	Got an Associates degree
+e	=	Graduated High School / GED
+e-	=	In High School
+e--	=	In Middle School
+e---	=	In Elementary School
 e*		=	I learned everything there is to know about life from the “Hitchhiker’s Trilogy”.
 ```
 #### Housing

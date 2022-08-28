@@ -65,34 +65,34 @@ Placed BEFORE the category. Unless stated otherwise, indicates that the person r
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a “G” to denote “GEEK”, followed by one or two letters to denote the geek’s occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
 ```
-GB 		= Geek of Business
-GC 		= Geek of Classics
-GCA 		= Geek of Commercial Arts
-GCM 		= Geek of Computer Management
-GCS 		= Geek of Computer Science
-GCC 		= Geek of Communications
-GE 		= Geek of Engineering
-GED 		= Geek of Education
-GFA 		= Geek of Fine Arts
-GG 		= Geek of Government
-GH 		= Geek of Humanities
-GIT 		= Geek of Information Technology
-GJ 		= Geek of Jurisprudence (Law)
-GLS 		= Geek of Library Science
-GL 		= Geek of Literature
-GMC 		= Geek of Mass Communications
-GM 		= Geek of Math
-GMD 		= Geek of Medicine
-GMU 		= Geek of Music
-GPA 		= Geek of Performing Arts
-GP 		= Geek of Philosophy
-GS 		= Geek of Science (Physics, Chemistry, Biology, etc.)
-GSS 		= Geek of Social Science (Psychology, Sociology, etc.)
-GTW 		= Geek of Technical Writing
-GO 		= Geek of Other. Some types of geeks deviate from the normal geek activities. This is encouraged as true geeks come from all walks of life.
-GU 		= Geek of ‘Undecided’. This is a popular vocation with incoming freshmen.
-G! 		= Geek of no qualifications nor interests; likely, cannot exist
-GAT 		= Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.
+GB 	= Geek of Business
+GC 	= Geek of Classics
+GCA 	= Geek of Commercial Arts
+GCM 	= Geek of Computer Management
+GCS		= Geek of Computer Science
+GCC 	= Geek of Communications
+GE 	= Geek of Engineering
+GED 	= Geek of Education
+GFA 	= Geek of Fine Arts
+GG 	= Geek of Government
+GH 	= Geek of Humanities
+GIT 	= Geek of Information Technology
+GJ 	= Geek of Jurisprudence (Law)
+GLS 	= Geek of Library Science
+GL 	= Geek of Literature
+GMC 	= Geek of Mass Communications
+GM 	= Geek of Math
+GMD 	= Geek of Medicine
+GMU 	= Geek of Music
+GPA 	= Geek of Performing Arts
+GP 	= Geek of Philosophy
+GS 	= Geek of Science (Physics, Chemistry, Biology, etc.)
+GSS 	= Geek of Social Science (Psychology, Sociology, etc.)
+GTW 	= Geek of Technical Writing
+GO 	= Geek of Other. Some types of geeks deviate from the normal geek activities. This is encouraged as true geeks come from all walks of life.
+GU 	= Geek of ‘Undecided’. This is a popular vocation with incoming freshmen.
+G! 	= Geek of no qualifications nor interests; likely, cannot exist
+GAT 	= Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.
 ```
 ==============================================================
 
@@ -106,17 +106,17 @@ The Geek, of course, doesn’t believe any of that crap; on the internet, no one
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10 , wise guys.
 ```
-a++++		=	60 and up
-a+++		=	50-59
-a++		=	40-49
-a+		=	30-39
-a		=	25-29
-a-		=	20-24
-a--		=	15-19
-a---		=	10-14
-a----		=	9 and under (Geek in training?)
-a?		=	immortal
-!a		=	it’s none of your business how old I am
+a++++	=	60 and up
+a+++	=	50-59
+a++	=	40-49
+a+	=	30-39
+a	=	25-29
+a-	=	20-24
+a--	=	15-19
+a---	=	10-14
+a----	=	9 and under (Geek in training?)
+a?	=	immortal
+!a	=	it’s none of your business how old I am
 In addition, if you wish to give your exact age, you can place the number after the ‘a’ identifier. For example: a42
 ```
 #### b – beardliness/facial hair
@@ -167,9 +167,9 @@ Most geeks identify themselves by their use of computers and computer networks. 
 C++++ 		=	I’ll be first in line to get the new cybernetic interface installed into my skull.
 C+++		=	You mean there is life outside of Internet? You’re shittin’ me! I haven’t dragged myself to class in weeks.
 C++ 		=	Computers are a large part of my existence. I code in at least one language
-C+ 			=	Computers are fun and I enjoy using them. 
-C			=	Computers are a tool, nothing more. I use it when it serves my purpose.
-C- 			=	Anything more complicated than my calculator and I’m screwed.
+C+ 		=	Computers are fun and I enjoy using them. 
+C		=	Computers are a tool, nothing more. I use it when it serves my purpose.
+C- 		=	Anything more complicated than my calculator and I’m screwed.
 C-- 		=	Where’s the on switch?
 C--- 		=	If you even mention computers, I will rip your head off!
 ```
@@ -201,36 +201,36 @@ It seems that a Unix-based operating system is the OS of choice among most geeks
         U* = Some other one not listed
 some examples
 ```
-U++++		=	I am the sysadmin. If you try and crack my machine don’t be surprised if the municipal works department gets an “accidental” computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.
-U+++		=	I don’t need to crack /etc/passwd because I just modified su so that it doesn’t prompt me. The admin staff doesn’t know I’m here.
-U++			=	I’ve get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don’t have access to.
-U+			=	I enjoy shell scripting and understand the fundamental importance of the difference between ‘ and `
-U			=	I have a Unix account to do my stuff in
-U-			=	I have a VMS account.
-U--			=	I’ve seen Unix and didn’t like it. DEC rules!
-U---		=	Unix geeks are actually nerds in disguise.
+U++++	=	I am the sysadmin. If you try and crack my machine don’t be surprised if the municipal works department gets an “accidental” computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.
+U+++	=	I don’t need to crack /etc/passwd because I just modified su so that it doesn’t prompt me. The admin staff doesn’t know I’m here.
+U++	=	I’ve get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don’t have access to.
+U+	=	I enjoy shell scripting and understand the fundamental importance of the difference between ‘ and `
+U	=	I have a Unix account to do my stuff in
+U-	=	I have a VMS account.
+U--	=	I’ve seen Unix and didn’t like it. DEC rules!
+U---	=	Unix geeks are actually nerds in disguise.
 ```
 
 #### L – Programming languages .
 List a series of languages and your facility/opinion thereupon, for example Lp++/R+ would indicate high proficiency in python and above average knowledge of R.
 
 ```
-Lj			=	java
-LC			=	C programming lang
+Lj		=	java
+LC		=	C programming lang
 LCpp		=	C plus plus
-LC#			=	C sharp
-Lvb			=	visual basic
-Lp			=	Python
-Ljs			=	Javascript
+LC#		=	C sharp
+Lvb		=	visual basic
+Lp		=	Python
+Ljs		=	Javascript
 Lphp		=	php
 LOC 		=	objective C
 Lsql 		=	sql
-LP 			=	Perl
+LP 		=	Perl
 LRu 		=	Ruby
-LM 			=	matlab
+LM 		=	matlab
 Lasm 		=	assembly
 Lgo 		=	go
-LR 			=	R
+LR 		=	R
 ````
 For example:
 ```
@@ -250,11 +250,19 @@ G:exarobibliologist
 #### FE – Frontend
 ```
 FE++		=	I am a java bean
+FE+			=
+FE			=
+FE-			=
 FE--		=	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques
 ```
 #### BE – Backend
 ```
 BE+++		=	I wrote my own database system as current performance limitations were irking me
+BE++		=
+BE+			=
+BE			=
+BE-			=
+BE--		=
 BE---		=	Keep the dirty stuff under the hood, building a cool GUI is where its at
 ```
 

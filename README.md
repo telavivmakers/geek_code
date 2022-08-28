@@ -106,15 +106,15 @@ The Geek, of course, doesn’t believe any of that crap; on the internet, no one
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10 , wise guys.
 ```
-a++++	=	60 and up
-a+++	=	50-59
+a++++		=	60 and up
+a+++		=	50-59
 a++		=	40-49
 a+		=	30-39
 a		=	25-29
 a-		=	20-24
 a--		=	15-19
-a---	=	10-14
-a----	=	9 and under (Geek in training?)
+a---		=	10-14
+a----		=	9 and under (Geek in training?)
 a?		=	immortal
 !a		=	it’s none of your business how old I am
 In addition, if you wish to give your exact age, you can place the number after the ‘a’ identifier. For example: a42

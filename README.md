@@ -132,10 +132,10 @@ Thus b++/bm++ means impressive beard with equally consequential mustachio. Leave
 
 #### c – Clothing
 ```
-c++  	=	I tend to wear conservative dress such as a business suit or worse, a tie.
-c+  	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
-c  		=	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
-c-  	=	I’m usually in jeans and a t-shirt.
+c++  		=	I tend to wear conservative dress such as a business suit or worse, a tie.
+c+  		=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
+c		=	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
+c-  		=	I’m usually in jeans and a t-shirt.
 c--		=	My t-shirts go a step further and have a trendy political message on them.
 c---	=	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
 cx		=	Cross Dresser

@@ -1,6 +1,6 @@
 # geek_code
 
-## Geek Code 4.2 – RFC
+## Geek Code 4.5 – RFC
 
 See V3.1 [Here](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html), generator here - https://www.joereiss.net/geek/geek.html
 
@@ -8,7 +8,7 @@ Some categories have been removed , others added , some altered.  The v3.x under
 Changelist at end
  
 
-# The Geek Code 4.2
+# The Geek Code 4.5
 
 The geek code attempts a concise description of your being in ‘geek space’, spanning key dimensions using a small set of categories and quantifying them with qualifiers ( or qualifying them with quantifiers, as you wish).
 
@@ -25,9 +25,12 @@ GS/CS/J a+ b-- c- d+:- C+ ULDU+$   LC+/p+  FE- BE+ H+ PGP+ E+ P++/PS++/PSG++ T
 
 A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net and looks like the following:
 ```
-—–BEGIN GEEK CODE VERSION 4.2 BLOCK—–
-GS/CS/J a+ b-- c- d+:- C+ ULDU+$   LC+/p+  FE- BE+ H+ PGP+ E+ P++/PS++/PSG++ TR&M+ B+ kX e++++ h++ r++ y+
-—–END GEEK CODE VERSION 4.2 BLOCK—–
+-----BEGIN GEEK CODE BLOCK-----
+Version: 4.0
+GCS/GM a+(a?) bb c++(c-) d+:+ C++>++++ ULD++++$ Lj/LC#/Lvb/LP
+G:exarobibliologist
+FE++(--) BE+++(--) M-- PGP E++ H PSG PE Tt+++/Tmon+++/Tsw+++/Tf++/Td+ R+++(*)$ B+++ Kx+++ e++ h r+++ !y
+------END GEEK CODE BLOCK------ 
 ```
 ### Special characters
 
@@ -60,7 +63,7 @@ Placed BEFORE the category. Unless stated otherwise, indicates that the person r
 ## The categories
 
 ==============================================================
-### G – Geek of - training/degree/interest/job
+## G – Geek of - training/degree/interest/job
 
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a “G” to denote “GEEK”, followed by one or two letters to denote the geek’s occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
@@ -96,13 +99,13 @@ GAT 	= Geek of All Trades. For those geeks that can do anything and everything. 
 ```
 ==============================================================
 
-### a,b,c,d - WETWARE (age/beard/clothing/dimensions)
+## a,b,c,d - WETWARE (age/beard/clothing/dimensions)
 
 They say you never get a second chance to make a first impression.
 
 The Geek, of course, doesn’t believe any of that crap; on the internet, no one knows you’re a dog , according to ancient meme. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense.
 
-#### a – Age
+### a – Age
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10 , wise guys.
 ```
@@ -119,7 +122,7 @@ a?	=	immortal
 !a	=	it’s none of your business how old I am
 In addition, if you wish to give your exact age, you can place the number after the ‘a’ identifier. For example: a42
 ```
-#### b – beardliness/facial hair
+### b – beardliness/facial hair
 As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population. Also it lets us start off with ‘abcd’ for age/beard/clothing/dimensions
 
 ```
@@ -130,7 +133,7 @@ bb 	=	bushy eyebrows
 ```
 Thus b++/bm++ means impressive beard with equally consequential mustachio. Leave blank for no facial hair.
 
-#### c – Clothing
+### c – Clothing
 ```
 c++  	=	I tend to wear conservative dress such as a business suit or worse, a tie.
 c+  	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
@@ -143,7 +146,7 @@ c?	=	I have no idea what I am wearing right now, let alone what I wore yesterday
 !c	=	No clothing. Quite a fashion statement, don’t you think?
 cpu	=	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
 ```
-#### d – dimensions
+### d – dimensions
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent. Thus d+++:--- indicates extremely tall and thin.
 ```
 d+++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
@@ -156,7 +159,7 @@ d---:--- 	=	I take a phone book with me when I go out so I can see to eat dinner
 ```
 ==============================================================
 
-### C- COMPUTERS
+## C- COMPUTERS
 
 There is a record of geeks that don’t use computers. Unfortunately, they are all dead, having lived in an era of no computers. All modern geeks have some exposure to computers. If you don’t know what a computer is, you need to go back into your shell.
 
@@ -173,7 +176,7 @@ C- 		=	Anything more complicated than my calculator and I’m screwed.
 C-- 		=	Where’s the on switch?
 C--- 		=	If you even mention computers, I will rip your head off!
 ```
-#### U – UNIX
+### U – UNIX
 It seems that a Unix-based operating system is the OS of choice among most geeks. In addition to telling us about your Unix abilities, you can also show which specific Unix OS you are using. To accomplish this, you include a letter showing the brand with your rating. For example: UL++++ would indicate a sysadmin running Linux.
 
 	U = Unix
@@ -211,7 +214,7 @@ U--	=	I’ve seen Unix and didn’t like it. DEC rules!
 U---	=	Unix geeks are actually nerds in disguise.
 ```
 
-#### L – Programming languages .
+### L – Programming languages .
 List a series of languages and your facility/opinion thereupon, for example Lp++/R+ would indicate high proficiency in python and above average knowledge of R.
 
 ```
@@ -241,13 +244,13 @@ Lp		=	I am neutral on python , its ok for some things.
 Lp-		=	Python is for hobbies
 Lp-- 		=	I do not like python, it is an ugly aberration for people incapable of grasping the subtle power of [C|Lisp|assembly]
 ```
-#### G: - github handle
+### G: - github handle
 Your github username, after the G: If you use bitbucket use GB: instead, if some other public repo write the name like Gbeanstalk:rutman. E.g.
 ```
 G:exarobibliologist
 ```
 
-#### FE – Frontend
+### FE – Frontend
 ```
 FE++	=	I am a java bean
 FE+	=
@@ -255,7 +258,7 @@ FE	=
 FE-	=
 FE--	=	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques
 ```
-#### BE – Backend
+### BE – Backend
 ```
 BE+++	=	I wrote my own database system as current performance limitations were irking me
 BE++	=
@@ -266,7 +269,7 @@ BE--	=
 BE---	=	Keep the dirty stuff under the hood, building a cool GUI is where its at
 ```
 
-#### M – Macintosh
+### M – Macintosh
 Many geeks have abandoned the character-based computer altogether and moved over to the Macintosh. It in important to give notification of your Mac rating.
 ```
 M++	=	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I’ll write the damn software to do it.
@@ -276,7 +279,7 @@ M- 	=	Macs suck. All real geeks have a character prompt.
 M-- 	= 	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.
 ```
 
-#### PGP
+### PGP
 Pretty Good Privacy (aka PGP) is a program available on many platforms that will encrypt files so that prying eyes (particularly governmental) can’t look at them.
 ```
 PGP++++		=	I am Philip Zimmerman
@@ -299,7 +302,7 @@ E-	=
 E--	=	Electrons are interesting as theoretical constructs
 ```
 
-#### H – Hardware
+### H – Hardware
 ```
 H+++	=	I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.
 H++	=
@@ -309,11 +312,11 @@ H-	=	I have used hammers  metaphorically far more often than literally
 H--	=	I prefer to take my laptop to the shop when the hardware acts up 
 ```
 
-### P – POLITICS
+## P – POLITICS
 
 The last few years has seen the rise of the political geek. This phenomena is little understood, but some theorize that it has come about because of the popular media’s attempts to demonize the Internet and computer use in general, and the government’s willingness to go along with it. Others propose that the aging geek population has simply started taking an interest in the world around them. Some support the “Sun Spot” theory. As of v4 some new subcategories are added to the PS and PE categories.
 
-#### PS – Political and Social Issues
+### PS – Political and Social Issues
 Where, in general, your political views on different social issues fall. The + and – ratings here roughly indicate left/right on the political spectrum.
 
 Subcategories (give yourself a geek point if your first thought was 'actually, subsubcategories')
@@ -332,7 +335,7 @@ PS-	=	Label records! Keep dirty stuff off the TV and the Internet.
 PS--	=	Oppose sex education, abortion rights, gay rights. Rush Limbaugh is my spokesman.
 PS---	=	Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in ’96.
 ```
-#### PE – Politics and Economic Issues
+### PE – Politics and Economic Issues
 Note this category has been reversed as of v4 to maintain the loose left+ and right- association from the PS category.
 ```
 PE+++	=	Capitalism is evil! Government should provide the services we really need. Nobody should be rich.
@@ -342,26 +345,26 @@ PE-	=	It’s ok to increase government spending, so we can help more poor people
 PE--	=	Balance the budget with spending cuts and an amendment.
 PE---	=	Abolish antitrust legislation. Raise taxes on everyone but the rich so that the money can trickle-down to the masses.
 ```
-### ENTERTAINMENT
+## ENTERTAINMENT
 
 Geeks love to play. No matter their age, all geeks enjoy playing. Of course, the object of this entertainment takes a myriad of different forms. What is it that pushes a geek to play? Is it simply a desire to relive their childhood? Or perhaps there is a piece of geeky genetic code that requires intellectual stimulation. Who knows, maybe it’s a Freudian thing…
 
 In v4, tv/series are given its own category other than star trek which remains for backwards compatibility.
 
-#### T – TV shows/series/movies
+### T – TV shows/series/movies
 List what you think of a given series
 
 ```
-TD		=	Doctor Who
-TR&M 		=	rick&MORTY
-TF 		=	Firefly
+Td		=	Doctor Who
+Tr&m 		=	rick&MORTY
+Tf 		=	Firefly
 TSG		=	Stargate
 	TSGa	=	Stargate Atlantis
 	TSGu	=	Stargate Universe
 TBBT		=	The Big Bang Theory
 TB5		=	Babylon5
 TI		=	‘In search of…’ with Leonard Nimoy
-TM		=	Monty Python (series/films)
+Tmon		=	Monty Python (series/films)
 TMM		=	Mad Max
 TSW		=	Star Wars
 	TSWcw	=	Star Wars Clone Wars
@@ -370,19 +373,19 @@ TGT		=	Game of Thrones
 TLOTR		=	Lord of the Rings
 TL		=	Lost
 TOB		=	Orphan Black
-Tt		=	Star Trek
+TT		=	Star Trek
 ````
 Exemplary Star Trek info
 ```
-Tt+++	=	It’s not just a TV show, it’s a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.
-Tt++	=	It’s the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I’ve built a few of the model kits too. But you’ll never catch me at one of those conventions. Those people are kooks.
-Tt+	=	It’s a damn fine TV show and is one of the only things good on television any more.
-Tt	=	It’s just another TV show
-Tt-	=	Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I’m missing something but I just think it is bad drama.
-Tt--	=	Star Trek is just another Space Opera. William Shatner isn’t an actor, he’s a poser! And what’s with this Jean-Luc Picard? A Frenchman with a British accent? Come on. Isn’t Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons? Come on. I’d only watch this show if my remote control broke.
-Tt---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t—)
+TT+++	=	It’s not just a TV show, it’s a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.
+TT++	=	It’s the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I’ve built a few of the model kits too. But you’ll never catch me at one of those conventions. Those people are kooks.
+TT+	=	It’s a damn fine TV show and is one of the only things good on television any more.
+TT	=	It’s just another TV show
+TT-	=	Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I’m missing something but I just think it is bad drama.
+TT--	=	Star Trek is just another Space Opera. William Shatner isn’t an actor, he’s a poser! And what’s with this Jean-Luc Picard? A Frenchman with a British accent? Come on. Isn’t Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons? Come on. I’d only watch this show if my remote control broke.
+TT---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t—)
 ````
-#### R – Role Playing
+### R – Role Playing
 Role-playing games such as Dungeons & Dragons have long been a part of the traditional geek life. Because geeks often become so involved in their role-playing that they lose touch with reality, include one of the following role-playing codes.
 ```
 R+++	=	I’ve written and published my own gaming materials.
@@ -394,7 +397,7 @@ R--	=	Role-Players are instruments of pure evil.
 R---	=	I work for T$R.
 R*	=	I thought life WAS role-playing?
 ```
-#### B – Books
+### B – Books
 In addition (or maybe on the other hand), many geeks have lives that revolve around books.
 
 ```
@@ -406,7 +409,7 @@ B	=	I read the newspaper and the occasional book.
 B-	=	I read when there is no other way to get the information.
 B--	=	I did not actually READ the geek code, I just had someone tell me.
 ```
-#### k – Comics
+### k – Comics
 Subcategories –
 ```
 	kD	=	Dilbert
@@ -418,11 +421,11 @@ Subcategories –
 
 Geeks, unlike the lower lifeforms known as nerds, have lives. They have things to do that are in the outside world. Of course, this is usually done with other geeks, but that’s not the point. The point is,, that geeks are not necessarily the outcasts society often believes they are. The fact is that society isn’t kool enough to be included in our activities.
 
-#### mbti - Personality
+### mbti - Personality
 Most geeks have at one time or other taken a Myers & Briggs Type Indicator test. If you want to, include your letters in the code here.
 
 
-#### e - Education
+### e - Education
 All geeks have a varying amount of education.
 ```
 e+++++	=	I am Stephen Hawking
@@ -436,7 +439,7 @@ e--	=	In Middle School
 e---	=	In Elementary School
 e*	=	I learned everything there is to know about life from the “Hitchhiker’s Trilogy”.
 ```
-#### Housing
+### Housing
 Tell us about your geeky home.
 ```
 h+++	=	Living in a cave with 47 computers and an Internet feed, located near a Dominoes pizza. See !d.
@@ -450,7 +453,7 @@ h----	=	Married with children – Al Bundy can sympathize
 h! I am stuck living with my parents!
 h* I’m not sure where I live anymore. This lab/workplace seems like home to me.
 ```
-#### Relationships
+### Relationships
 While many geeks are highly successful at having relationships, a good many more are not. Give us the gritty details.
 ```
 r+++	=	Found someone, dated, and am now married.
@@ -464,7 +467,7 @@ r---	=	I’m beginning to think that I’m a leper or something, the way people 
 r*	=	signifying membership in the SBCA (Sour Bachelor(ette)’s Club of America). The motto is ‘Bitter, but not Desperate’. First founded at Caltech.
 r%	=	I was going out with someone, but the asshole dumped me.
 ```
-#### Sex
+### Sex
 Geeks have traditionally had problems with sex (ie, they never have any). Because geeks are so wrapped up in their sexuality (or lack of sexuality for that matter), it is important that the geek be willing to quantify their sexual experiences.
 
 This code also is used to denote the gender of the geek. Females use ‘x’ in this category, while males use ‘y’. Non-binary or those that do not wish to disclose their gender can use ‘z’. For example:

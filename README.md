@@ -302,7 +302,7 @@ E--	=	Electrons are interesting as theoretical constructs
 #### H – Hardware
 ```
 H+++	=	I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.
-H++		=
+H++	=
 H+	=
 H	=
 H-	=	I have used hammers  metaphorically far more often than literally
@@ -324,23 +324,23 @@ Subcategories (give yourself a geek point if your first thought was 'actually, s
 
 For example –
 ```
-PS+++		=	Legalize drugs! Abolish the government. “Fuck the draft!”
-PS++		=	I give to liberal causes. I march for gay rights. I’m a card carrying member of the ACLU. Keep abortion safe and legal.
-PS+			=	My whole concept of liberalism is that nobody has the right to tell anybody else what to do, on either side of the political fence. If you don’t like it, turn the bloody channel.
-PS			=	I really don’t have an opinion; nobody’s messing with my freedoms right now.
-PS-			=	Label records! Keep dirty stuff off the TV and the Internet.
-PS--		=	Oppose sex education, abortion rights, gay rights. Rush Limbaugh is my spokesman.
-PS---		=	Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in ’96.
+PS+++	=	Legalize drugs! Abolish the government. “Fuck the draft!”
+PS++	=	I give to liberal causes. I march for gay rights. I’m a card carrying member of the ACLU. Keep abortion safe and legal.
+PS+	=	My whole concept of liberalism is that nobody has the right to tell anybody else what to do, on either side of the political fence. If you don’t like it, turn the bloody channel.
+PS	=	I really don’t have an opinion; nobody’s messing with my freedoms right now.
+PS-	=	Label records! Keep dirty stuff off the TV and the Internet.
+PS--	=	Oppose sex education, abortion rights, gay rights. Rush Limbaugh is my spokesman.
+PS---	=	Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in ’96.
 ```
 #### PE – Politics and Economic Issues
 Note this category has been reversed as of v4 to maintain the loose left+ and right- association from the PS category.
 ```
-PE+++		=	Capitalism is evil! Government should provide the services we really need. Nobody should be rich.
-PE++		=	Keep the government off the backs of businesses. Deregulate as much as possible.
-PE			=	Distrust both government and business.
-PE-			=	It’s ok to increase government spending, so we can help more poor people. Tax the rich! Cut the defense budget!
-PE--		=	Balance the budget with spending cuts and an amendment.
-PE---		=	Abolish antitrust legislation. Raise taxes on everyone but the rich so that the money can trickle-down to the masses.
+PE+++	=	Capitalism is evil! Government should provide the services we really need. Nobody should be rich.
+PE++	=	Keep the government off the backs of businesses. Deregulate as much as possible.
+PE	=	Distrust both government and business.
+PE-	=	It’s ok to increase government spending, so we can help more poor people. Tax the rich! Cut the defense budget!
+PE--	=	Balance the budget with spending cuts and an amendment.
+PE---	=	Abolish antitrust legislation. Raise taxes on everyone but the rich so that the money can trickle-down to the masses.
 ```
 ### ENTERTAINMENT
 
@@ -353,20 +353,21 @@ List what you think of a given series
 
 ```
 TD		=	Doctor Who
-TR&M 	=	rick&MORTY
+TR&M 		=	rick&MORTY
 TF 		=	Firefly
 TS		=	Stargate
 	TSa	=	Stargate Atlantis
 	TSu	=	Stargate Universe
-TBBT	=	The Big Bang Theory
+TBBT		=	The Big Bang Theory
 TB5		=	Babylon5
 TI		=	‘In search of…’ with Leonard Nimoy
 TM		=	Monty Python (series/films)
 TMM		=	Mad Max
 TSW		=	Star Wars
 	TSWcw	=	Star Wars Clone Wars
+	TSWm	=	The Mandalorian
 TGT		=	Game of Thrones
-TLOTR	=	Lord of the Rings
+TLOTR		=	Lord of the Rings
 TL		=	Lost
 Tt		=	Star Trek
 ````

@@ -468,9 +468,10 @@ Geeks have traditionally had problems with sex (ie, they never have any). Becaus
 
 This code also is used to denote the gender of the geek. Females use ‘x’ in this category, while males use ‘y’. Non-binary or those that do not wish to disclose their gender can use ‘z’. For example:
 ```
+q+	=	Non-binary person who has had sex
 x+	=	A female who has had sex
 y+	=	A male who has had sex.
-z+	=	A person (gender undisclosed, or non-binary) who has had sex.
+z+	=	A person (gender undisclosed) who has had sex.
 !z	=	neither my sex nor my sex life are any of your beeswax
 ```
 Some examples

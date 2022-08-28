@@ -414,7 +414,7 @@ Subcategories –
 	kM	=	Manga
 	kM!	=	Hentai
 ```
-### LIFESTYLE
+## LIFESTYLE
 
 Geeks, unlike the lower lifeforms known as nerds, have lives. They have things to do that are in the outside world. Of course, this is usually done with other geeks, but that’s not the point. The point is,, that geeks are not necessarily the outcasts society often believes they are. The fact is that society isn’t kool enough to be included in our activities.
 
@@ -454,42 +454,42 @@ h* I’m not sure where I live anymore. This lab/workplace seems like home to me
 While many geeks are highly successful at having relationships, a good many more are not. Give us the gritty details.
 ```
 r+++	=	Found someone, dated, and am now married.
-r++		=	I’ve dated my current S.O. for a long time.
-r+		=	I date frequently, bouncing from one relationship to another.
-r		=	I date periodically.
-r-		=	I have difficulty maintaining a relationship.
-r--		=	People just aren’t interested in dating me.
+r++	=	I’ve dated my current S.O. for a long time.
+r+	=	I date frequently, bouncing from one relationship to another.
+r	=	I date periodically.
+r-	=	I have difficulty maintaining a relationship.
+r--	=	People just aren’t interested in dating me.
 r---	=	I’m beginning to think that I’m a leper or something, the way people avoid me like the plague.
-!r		=	I’ve never had a relationship, OR not for public consumption
-r*		=	signifying membership in the SBCA (Sour Bachelor(ette)’s Club of America). The motto is ‘Bitter, but not Desperate’. First founded at Caltech.
-r%		=	I was going out with someone, but the asshole dumped me.
+!r	=	I’ve never had a relationship, OR not for public consumption
+r*	=	signifying membership in the SBCA (Sour Bachelor(ette)’s Club of America). The motto is ‘Bitter, but not Desperate’. First founded at Caltech.
+r%	=	I was going out with someone, but the asshole dumped me.
 ```
 #### Sex
 Geeks have traditionally had problems with sex (ie, they never have any). Because geeks are so wrapped up in their sexuality (or lack of sexuality for that matter), it is important that the geek be willing to quantify their sexual experiences.
 
 This code also is used to denote the gender of the geek. Females use ‘x’ in this category, while males use ‘y’. Non-binary or those that do not wish to disclose their gender can use ‘z’. For example:
 ```
-x+		=	A female who has had sex
-y+		=	A male who has had sex.
-z+		=	A person (gender undisclosed, or non-binary) who has had sex.
-!z		=	neither my sex nor my sex life are any of your beeswax
+x+	=	A female who has had sex
+y+	=	A male who has had sex.
+z+	=	A person (gender undisclosed, or non-binary) who has had sex.
+!z	=	neither my sex nor my sex life are any of your beeswax
 ```
 Some examples
 ```
 x+++++	=	I am Madonna
 y++++	=	I'm a guy with a few little rug rats to prove I’ve been there. Besides, with kids around, who has time for sex?
 z+++	=	I’m married, so I can get it (theoretically) whenever I want.
-z++		=	I was once referred to as ‘easy’. I have no idea where that might have come from though.
-z+		=	I’ve had real, live sex.
-z		=	I’ve had sex. Oh! You mean with someone else? Then no.
-z-		=	Not having sex by choice.
-z--		=	Not having sex because I just can’t get any…
+z++	=	I was once referred to as ‘easy’. I have no idea where that might have come from though.
+z+	=	I’ve had real, live sex.
+z	=	I’ve had sex. Oh! You mean with someone else? Then no.
+z-	=	Not having sex by choice.
+z--	=	Not having sex because I just can’t get any…
 z---	=	Not having sex because I’m a nun or a priest.
-z*		=	I’m a pervert.
-z**		=	I’ve been known to make perverts look like angels.
-!z		=	It’s none of your business what my sex life is like !
-z?		=	Sex? What’s that? I’ve had no sexual experiences.
-z>+		=	Desperate for experience
+z*	=	I’m a pervert.
+z**	=	I’ve been known to make perverts look like angels.
+!z	=	It’s none of your business what my sex life is like !
+z?	=	Sex? What’s that? I’ve had no sexual experiences.
+z>+	=	Desperate for experience
 ```
 CHANGELIST – What remains:
 

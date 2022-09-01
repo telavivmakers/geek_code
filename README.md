@@ -14,18 +14,20 @@ The geek code attempts a concise description of your being in ‘geek space’, 
 
 The code consists of a set of alphanumeric identifiers indicating the various categories (and subcategories), and qualifiers + and – following the identifiers indicating amount/size/level of proficiency/etc. These qualifiers can be stacked, e.g s+++ indicates a person of extreme height (the s indicating size).
 
-The broad categories encoded are: Wetware, Computers, Politics, Entertainment, Lifestyle. Most have subcategories and you can answer at any level of detail desired, thus eg. U++ indicates someone highly interested/proficient in Unix, while ULDU++ indicates someone into unix-linux-debian-ubuntu. Multiple subcategories can be indicated with a forward slash, e.g GH/C indicates a Geek of Humanities and Classics.
+The broad categories encoded are: Geek of, Wetware, Computers, Politics, Entertainment, Lifestyle. Most have subcategories and you can answer at any level of detail desired, thus eg. U++ indicates someone highly interested/proficient in Unix, while ULDU++ indicates someone into unix-linux-debian-ubuntu. Multiple subcategories can be indicated with a forward slash, e.g GH/C indicates a Geek of Humanities and Classics.
 
 Some categories will be irrelevant, so ignore them. Some of the qualifiers will not match with you exactly, so choose that qualifier that most closely matches you.
 
 Given a set of category/qualifier strings for any of the above (skip anything you dont want to answer/not relevant/classified/unknown/indeterminate/etc) it’s time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 
-A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net and looks like the following:
+A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed. It should look similar the following:
 ```
 -----BEGIN GEEK CODE VERSION 4.5 BLOCK-----
-GCS/GM a+(a?) bb c++(c-) d+:+ C++>++++ ULD++++$ Lj/LC#/Lvb/LP
-G:exarobibliologist
-FE++(--) BE+++(--) M-- PGP E++ H PSG PE TT+++/Tmon+++/TSW+++/Tf++/Tdw+ R+++(*)>$ B+++ kX+++ INTJ-A e++ h+ r+++ !y
+GCS/GM a++(a?) bb c++(c-) d+:+ C++(++++)
+ULD++++$ Lj/LC#/Lvb/LP G:exarobibliologist
+FE++(--) BE+++(--) M-- PGP E++ H PSG PE
+TT+++/Tmon+++/TSW+++/Tf++/Tdw+ R+++(*)>$
+B+++ kX+++ INTJ-A e++ h+ r+++ !y
 ------END GEEK CODE VERSION 4.5 BLOCK------ 
 ```
 ### Special characters
@@ -466,7 +468,14 @@ r%	=	I was going out with someone, but the asshole dumped me.
 ### Sex
 Geeks have traditionally had problems with sex (ie, they never have any). Because geeks are so wrapped up in their sexuality (or lack of sexuality for that matter), it is important that the geek be willing to quantify their sexual experiences.
 
-This code also is used to denote the gender of the geek. Females use ‘x’ in this category, while males use ‘y’. Non-binary or those that do not wish to disclose their gender can use ‘z’. For example:
+This code also is used to denote the gender of the geek.
+
+Females use 'x' in this category, while males use 'y'.
+
+Non-binary use q, or may type out their particular sexual preference in this section.
+
+Those that do not wish to disclose their gender can use ‘z’. For example:
+
 ```
 q+	=	Non-binary person who has had sex
 x+	=	A female who has had sex

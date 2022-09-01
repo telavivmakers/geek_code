@@ -319,9 +319,9 @@ Where, in general, your political views on different social issues fall. The + a
 
 Subcategories (give yourself a geek point if your first thought was 'actually, subsubcategories')
 
-	PSG – green politics/sustainability/climate
-	PSL – civil liberties
-	PSS – gender politics
+	PSG = green politics/sustainability/climate
+	PSL = civil liberties
+	PSS = gender politics
 
 For example –
 ```

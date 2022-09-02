@@ -36,7 +36,7 @@ It’s time to assemble your code for displaying to the world. Take the substrin
 -----BEGIN GEEK CODE VERSION 4.5 BLOCK-----
 GCS/GM a++(a?) bb c++(c-) d+:+ C++(++++) ULD++++$ Lj/LC#/Lvb/LP
 G:exarobibliologist FE++(--) BE+++(--) M-- PGP E++ H PSG PE
-TSTsnw+++/TSTld+++/TSTpic--/TSTdsc--/Tmon+++/TOB+++/Tf++/Tdw+
+TSTsnw+++/TSTld+++/TSTpic--/TSTdsc--/Tmon+++/TOB+++/TFF++/TDW+
 R+++(*)>$ B+++ kX+++ INTJ-A e++ h+ r+++ !y
 ------END GEEK CODE VERSION 4.5 BLOCK------ 
 ```

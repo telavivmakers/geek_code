@@ -45,29 +45,19 @@ B+++ kX+++ INTJ-A e++ h+ r+++ !y
 
 A few special characters allow for the (ultimately wrong but practically useful) notion that geeks can seldom be strictly quantified.
 
-@
+@		=	for this variable, said trait is not very rigid, may change with time or with individual interaction.
 
-for this variable, said trait is not very rigid, may change with time or with individual interaction. For example, Geeks who happen to very much enjoy Star Trek: The Next Generation, but dislike the old 60’s series might list themselves as t++@.
+For example, Geeks who happen to very much enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as TSTpic+++@.
 
-()
+()		=	for indicating “cross-overs” or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly “C+”) could use C+(—). @ is different from () in that () has finite limits within the category, while @ ranges all over.
 
-for indicating “cross-overs” or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly “C+”) could use C+(—). @ is different from () in that () has finite limits within the category, while @ ranges all over.
+'>'		=	for ‘wannabe’ ratings. Indicating that while the geek is currently at one rating, they are striving to reach another. For example, C++>$ indicating a geek that is currently computer savvy, but wants to someday make money at it.
 
-'>'
+$		=	Indicates that this particular category is done for a living. For example, UL+++$ indicates that the person utilizes Unix and gets paid for it. Quite a lucky geek, for sure.
 
-for ‘wannabe’ ratings. Indicating that while the geek is currently at one rating, they are striving to reach another. For example, C++>$ indicating a geek that is currently computer savvy, but wants to someday make money at it.
+?		=	Unless stated otherwise within the specific category, the ? is placed after the category identifier and indicates that the geek has no knowledge about that specific category. For example, a person that has never even heard of Babylon 5, would list their Babylon 5 category as 5?
 
-$
-
-Indicates that this particular category is done for a living. For example, UL+++$ indicates that the person utilizes Unix and gets paid for it. Quite a lucky geek, for sure.
-
-?
-
-Unless stated otherwise within the specific category, the ? is placed after the category identifier and indicates that the geek has no knowledge about that specific category. For example, a person that has never even heard of Babylon 5, would list their Babylon 5 category as 5?
-
-!
-
-Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate. For example, !E would be a person that just plain refuses to have anything to do with Emacs, while E? would be a person that doesn’t even know what Emacs is.
+!		=	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate. For example, !E would be a person that just plain refuses to have anything to do with Emacs, while E? would be a person that doesn’t even know what Emacs is.
 
 ## The categories
 
@@ -377,12 +367,30 @@ Tmon		=	Monty Python (series/films)
 TMM		=	Mad Max
 TSW		=	Star Wars
 	TSWcw	=	Star Wars Clone Wars
-	TSWm	=	The Mandalorian
+	TSWman	=	The Mandalorian
+	TSWand	=	Star Wars - Andor
+	TSWobi	=	Star Wars - Obi-Wan Kenobi
+	TSWbob	=	Star Wars - Book of Boba Fett
+	TSWv	=	Star Wars - Visions
+	TSWbb	=	Star Wars - The Bad Batch
+	TSWres	=	Star Wars - Resistance
+	TSWreb	=	Star Wars - Rebels
 TGT		=	Game of Thrones
 TLOTR		=	Lord of the Rings
 TL		=	Lost
 TOB		=	Orphan Black
-TT		=	Star Trek
+TST		=	Star Trek
+	TSTanm	=	Star Trek - Animated Series
+	TSTng	=	Star Trek - The Next Generation
+	TSTds9	=	Star Trek - Deep Space Nine
+	TSTv	=	Star Trek - Voyager
+	TSTe	=	Star Trek - Enterprise
+	TSTdsc	=	Star Trek - Discovery
+	TSTpic	=	Star Trek - Picard
+	TSTld	=	Star Trek - Lower Decks
+	TSTst	=	Star Trek - Short Treks
+	TSTpro	=	Star Trek - Prodigy
+	TSTsnw	=	Star Trek - Strange New Worlds
 ````
 Exemplary Star Trek info
 ```

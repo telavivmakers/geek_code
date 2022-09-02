@@ -2,25 +2,33 @@
 
 ## Geek Code 4.5 – RFC
 
-See V3.1 [Here](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html), generator here - https://www.joereiss.net/geek/geek.html
-
-Some categories have been removed , others added , some altered.  The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
-Changelist at end
- 
-
-# The Geek Code 4.5
+# What Is Geek Code?
+The Geek Code, developed in 1993, is a series of letters and symbols used by self-described "geeks" to inform fellow geeks about their personality, appearance, interests, skills, and opinions.
 
 The geek code attempts a concise description of your being in ‘geek space’, spanning key dimensions using a small set of categories and quantifying them with qualifiers ( or qualifying them with quantifiers, as you wish).
 
-The code consists of a set of alphanumeric identifiers indicating the various categories (and subcategories), and qualifiers + and – following the identifiers indicating amount/size/level of proficiency/etc. These qualifiers can be stacked, e.g s+++ indicates a person of extreme height (the s indicating size).
+The idea is that everything that makes a geek individual can be encoded in a compact format which only other geeks can read. This is deemed to be efficient in some sufficiently geeky manner.
 
-The broad categories encoded are: Geek of, Wetware, Computers, Politics, Entertainment, Lifestyle. Most have subcategories and you can answer at any level of detail desired, thus eg. U++ indicates someone highly interested/proficient in Unix, while ULDU++ indicates someone into unix-linux-debian-ubuntu. Multiple subcategories can be indicated with a forward slash, e.g GH/C indicates a Geek of Humanities and Classics.
+# Older Versions
+
+[Version 0.3](https://www.cs.cmu.edu/afs/cs/user/scotts/ftp/bulgarians/geek-code.html "This is perhaps the oldest still surviving example of Geek Code on the web!")
+[Version 3.1](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html)
+[Version 3.1 Generator](https://www.joereiss.net/geek/geek.html)
+[Version 3.1 Decoder](http://www.ebb.org/ungeek/ "Real geeks shouldn't need this though.")
+
+# Welcome to The Geek Code Version 4.5
+
+Some categories have been removed, others added, some altered. The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
+
+The code consists of a set of alphanumeric identifiers indicating the various categories (and subcategories), and qualifiers + and – following the identifiers indicating amount/size/level of proficiency/etc. These qualifiers can be stacked, e.g H+++ indicates a person of extremely skilled with hardware (the H indicating Hardware).
+
+The broad categories encoded are: Geek of, Wetware, Computers, Politics, Entertainment, Lifestyle. Most have subcategories and you can answer at any level of detail desired, thus eg. U++ indicates someone highly interested/proficient in Unix, while ULDU++ indicates someone into Unix/Linux/Debian/Ubuntu (each additional step is a derivative of the previous step). Multiple subcategories can be indicated with a forward slash, e.g GCS/GM indicates a Geek of Computer Science and Math.
 
 Some categories will be irrelevant, so ignore them. Some of the qualifiers will not match with you exactly, so choose that qualifier that most closely matches you.
 
-Given a set of category/qualifier strings for any of the above (skip anything you dont want to answer/not relevant/classified/unknown/indeterminate/etc) it’s time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
+Given a set of category/qualifier strings for any of the above (skip anything you dont want to answer/not relevant/classified/unknown/indeterminate/etc). A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed.
 
-A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed. It should look similar the following:
+It’s time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 ```
 -----BEGIN GEEK CODE VERSION 4.5 BLOCK-----
 GCS/GM a++(a?) bb c++(c-) d+:+ C++(++++)

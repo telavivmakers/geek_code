@@ -34,7 +34,7 @@ Given a set of category/qualifier strings for any of the above (skip anything yo
 It’s time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 ```
 -----BEGIN GEEK CODE VERSION 4.55 BLOCK-----
-GCS/GM a++(a?) bb c++(c-) d+:+ C++(++++) ULD++++$ Lj/LC#/Lvb/LP
+GCS^/GM^ a++(a?) bb c++(c-) d+:+ C++(++++) ULD++++$ Lj/LC#/Lvb/LP
 G:exarobibliologist FE++(--) BE+++(--) M-- PGP E++ H PSG PE
 TSTsnw+++/TSTld+++/TSTpic--/TSTdsc--/Tmon+++/TOB+++/TFF++/TDW+
 R+++(*)>$ B+++ kX+++ INTJ-A e++ h+ r+++ !y

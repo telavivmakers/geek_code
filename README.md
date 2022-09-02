@@ -1,62 +1,88 @@
 # geek_code
 
-## Geek Code 4.5 – RFC
+## Geek Code 4.55
 
-See V3.1 [Here](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html), generator here - https://www.joereiss.net/geek/geek.html
-
-Some categories have been removed , others added , some altered.  The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
-Changelist at end
- 
-
-# The Geek Code 4.5
+# What Is Geek Code?
+The Geek Code, developed in 1993, is a series of letters and symbols used by self-described "geeks" to inform fellow geeks about their personality, appearance, interests, skills, and opinions.
 
 The geek code attempts a concise description of your being in ‘geek space’, spanning key dimensions using a small set of categories and quantifying them with qualifiers ( or qualifying them with quantifiers, as you wish).
 
-The code consists of a set of alphanumeric identifiers indicating the various categories (and subcategories), and qualifiers + and – following the identifiers indicating amount/size/level of proficiency/etc. These qualifiers can be stacked, e.g s+++ indicates a person of extreme height (the s indicating size).
+The idea is that everything that makes a geek individual can be encoded in a compact format which only other geeks can read. This is deemed to be efficient in some sufficiently geeky manner.
 
-The broad categories encoded are: Geek of, Wetware, Computers, Politics, Entertainment, Lifestyle. Most have subcategories and you can answer at any level of detail desired, thus eg. U++ indicates someone highly interested/proficient in Unix, while ULDU++ indicates someone into unix-linux-debian-ubuntu. Multiple subcategories can be indicated with a forward slash, e.g GH/C indicates a Geek of Humanities and Classics.
+# Older Versions
+
+[Version 0.3](https://www.cs.cmu.edu/afs/cs/user/scotts/ftp/bulgarians/geek-code.html "This is perhaps the oldest still surviving example of Geek Code on the web!")
+
+[Version 3.1](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html)
+
+[Version 3.1 Generator](https://www.joereiss.net/geek/geek.html)
+
+[Version 3.1 Decoder](http://www.ebb.org/ungeek/ "Real geeks shouldn't need this though.")
+
+# Welcome to The Geek Code Version 4.55
+
+Some categories have been removed, others added, some altered. The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
+
+The code consists of a set of alphanumeric identifiers indicating the various categories (and subcategories), and qualifiers + and – following the identifiers indicating amount/size/level of proficiency/etc. These qualifiers can be stacked, e.g H+++ indicates a person of extremely skilled with hardware (the H indicating Hardware).
+
+The broad categories encoded are: Geek of, Wetware, Computers, Politics, Entertainment, Lifestyle. Most have subcategories and you can answer at any level of detail desired, thus eg. U++ indicates someone highly interested/proficient in Unix, while ULDU++ indicates someone into Unix/Linux/Debian/Ubuntu (each additional step is a derivative of the previous step). Multiple subcategories can be indicated with a forward slash, e.g GCS/GM indicates a Geek of Computer Science and Math.
 
 Some categories will be irrelevant, so ignore them. Some of the qualifiers will not match with you exactly, so choose that qualifier that most closely matches you.
 
-Given a set of category/qualifier strings for any of the above (skip anything you dont want to answer/not relevant/classified/unknown/indeterminate/etc) it’s time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
+Given a set of category/qualifier strings for any of the above (skip anything you dont want to answer/not relevant/classified/unknown/indeterminate/etc). A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed.
 
-A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed. It should look similar the following:
+It’s time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 ```
------BEGIN GEEK CODE VERSION 4.5 BLOCK-----
-GCS/GM a++(a?) bb c++(c-) d+:+ C++(++++)
-ULD++++$ Lj/LC#/Lvb/LP G:exarobibliologist
-FE++(--) BE+++(--) M-- PGP E++ H PSG PE
-TT+++/Tmon+++/TSW+++/Tf++/Tdw+ R+++(*)>$
-B+++ kX+++ INTJ-A e++ h+ r+++ !y
-------END GEEK CODE VERSION 4.5 BLOCK------ 
+-----BEGIN GEEK CODE VERSION 4.55 BLOCK-----
+GCS^/GM^ a++(a?) bb c++(c-) d+:+ C++(++++) ULD++++$ Lj/LC#/Lvb/LP
+G:exarobibliologist FE++(--) BE+++(--) M-- PGP E++ H PSG PE
+TSTsnw+++/TSTld+++/TSTpic--/TSTdsc--/Tmon+++/TOB+++/TFF++/TDW+
+R+++(*)>$ B+++ kX+++ INTJ-A e++ h+ r+++ !y
+------END GEEK CODE VERSION 4.55 BLOCK------ 
 ```
 ### Special characters
 
 A few special characters allow for the (ultimately wrong but practically useful) notion that geeks can seldom be strictly quantified.
 
-@
+```
+@	=	for this variable, said trait is not very rigid, may change with time or with individual interaction.
+```
 
-for this variable, said trait is not very rigid, may change with time or with individual interaction. For example, Geeks who happen to very much enjoy Star Trek: The Next Generation, but dislike the old 60’s series might list themselves as t++@.
+For example, Geeks who happen to very much enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as TSTpic+++@.
 
-()
+```
+()	=	for indicating “cross-overs” or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly “C+”) could use C+(—).
+```
 
-for indicating “cross-overs” or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly “C+”) could use C+(—). @ is different from () in that () has finite limits within the category, while @ ranges all over.
+@ is different from () in that () has finite limits within the category, while @ ranges all over.
 
-'>'
+```
+$	=	Indicates that this particular category is done for a living.
+```
 
-for ‘wannabe’ ratings. Indicating that while the geek is currently at one rating, they are striving to reach another. For example, C++>$ indicating a geek that is currently computer savvy, but wants to someday make money at it.
+For example, UL+++$ indicates that the person utilizes Unix and gets paid for it. Quite a lucky geek, for sure.
 
-$
+```
+^	=	Indicates that the geek has a degree or certificate in this area or field.
+```
 
-Indicates that this particular category is done for a living. For example, UL+++$ indicates that the person utilizes Unix and gets paid for it. Quite a lucky geek, for sure.
+For example, GCS^/GMU/GTW^ indicates that this is a Geek of Computer Science (with a degree in this field), a Geek of Music, and a Geek of Technical Writing (with a certificate in this field)
 
-?
+```
+>	=	for ‘wannabe’ ratings. Indicating that while the geek is currently at one rating, they are striving to reach another.
+```
 
-Unless stated otherwise within the specific category, the ? is placed after the category identifier and indicates that the geek has no knowledge about that specific category. For example, a person that has never even heard of Babylon 5, would list their Babylon 5 category as 5?
+For example, UL+++>$ indicating a geek that is currently Linux savvy, but wants to someday make money at it.
 
-!
+```
+?	=	Unless stated otherwise within the specific category, the ? is placed after the category identifier and indicates that the geek has no knowledge about that specific category.
+```
 
-Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate. For example, !E would be a person that just plain refuses to have anything to do with Emacs, while E? would be a person that doesn’t even know what Emacs is.
+```
+!	=	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate.
+```
+
+For example, !M would be a person that just plain refuses to have anything to do with Macintosh, while M? would be a person that doesn’t even know what Macintosh is.```
 
 ## The categories
 
@@ -353,10 +379,11 @@ In v4, tv/series are given its own category other than star trek which remains f
 List what you think of a given series
 
 ```
-Tdw		=	Doctor Who
-Tr&m 		=	rick&MORTY
-Tf 		=	Firefly
+TDW		=	Doctor Who
+TRM 		=	rick&MORTY
+TFF 		=	Firefly
 TSG		=	Stargate
+	TSG1	=	Stargate SG-1
 	TSGa	=	Stargate Atlantis
 	TSGu	=	Stargate Universe
 TBBT		=	The Big Bang Theory
@@ -366,12 +393,30 @@ Tmon		=	Monty Python (series/films)
 TMM		=	Mad Max
 TSW		=	Star Wars
 	TSWcw	=	Star Wars Clone Wars
-	TSWm	=	The Mandalorian
+	TSWman	=	The Mandalorian
+	TSWand	=	Star Wars - Andor
+	TSWobi	=	Star Wars - Obi-Wan Kenobi
+	TSWbob	=	Star Wars - Book of Boba Fett
+	TSWv	=	Star Wars - Visions
+	TSWbb	=	Star Wars - The Bad Batch
+	TSWres	=	Star Wars - Resistance
+	TSWreb	=	Star Wars - Rebels
 TGT		=	Game of Thrones
 TLOTR		=	Lord of the Rings
 TL		=	Lost
 TOB		=	Orphan Black
-TT		=	Star Trek
+TST		=	Star Trek
+	TSTanm	=	Star Trek - Animated Series
+	TSTng	=	Star Trek - The Next Generation
+	TSTds9	=	Star Trek - Deep Space Nine
+	TSTv	=	Star Trek - Voyager
+	TSTe	=	Star Trek - Enterprise
+	TSTdsc	=	Star Trek - Discovery
+	TSTpic	=	Star Trek - Picard
+	TSTld	=	Star Trek - Lower Decks
+	TSTst	=	Star Trek - Short Treks
+	TSTpro	=	Star Trek - Prodigy
+	TSTsnw	=	Star Trek - Strange New Worlds
 ````
 Exemplary Star Trek info
 ```

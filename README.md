@@ -1,6 +1,6 @@
 # geek_code
 
-## Geek Code 4.5 – RFC
+## Geek Code 4.5
 
 # What Is Geek Code?
 The Geek Code, developed in 1993, is a series of letters and symbols used by self-described "geeks" to inform fellow geeks about their personality, appearance, interests, skills, and opinions.

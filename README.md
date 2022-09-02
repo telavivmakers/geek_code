@@ -46,26 +46,36 @@ B+++ kX+++ INTJ-A e++ h+ r+++ !y
 A few special characters allow for the (ultimately wrong but practically useful) notion that geeks can seldom be strictly quantified.
 
 ```
-@			=	for this variable, said trait is not very rigid, may change with time or with individual interaction.
+@	=	for this variable, said trait is not very rigid, may change with time or with individual interaction.
 ```
 
 For example, Geeks who happen to very much enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as TSTpic+++@.
 
-```()			=	for indicating “cross-overs” or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly “C+”) could use C+(—).```
+```
+()	=	for indicating “cross-overs” or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly “C+”) could use C+(—).
+```
 
 @ is different from () in that () has finite limits within the category, while @ ranges all over.
 
-```$			=	Indicates that this particular category is done for a living.```
+```
+$	=	Indicates that this particular category is done for a living.
+```
 
 For example, UL+++$ indicates that the person utilizes Unix and gets paid for it. Quite a lucky geek, for sure.
 
-```>			=	for ‘wannabe’ ratings. Indicating that while the geek is currently at one rating, they are striving to reach another.```
+```
+>	=	for ‘wannabe’ ratings. Indicating that while the geek is currently at one rating, they are striving to reach another.
+```
 
 For example, UL+++>$ indicating a geek that is currently Linux savvy, but wants to someday make money at it.
 
-```?			=	Unless stated otherwise within the specific category, the ? is placed after the category identifier and indicates that the geek has no knowledge about that specific category.```
+```
+?	=	Unless stated otherwise within the specific category, the ? is placed after the category identifier and indicates that the geek has no knowledge about that specific category.
+```
 
-```!			=	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate.```
+```
+!	=	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate.
+```
 
 For example, !M would be a person that just plain refuses to have anything to do with Macintosh, while M? would be a person that doesn’t even know what Macintosh is.```
 

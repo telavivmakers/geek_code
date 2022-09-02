@@ -12,8 +12,11 @@ The idea is that everything that makes a geek individual can be encoded in a com
 # Older Versions
 
 [Version 0.3](https://www.cs.cmu.edu/afs/cs/user/scotts/ftp/bulgarians/geek-code.html "This is perhaps the oldest still surviving example of Geek Code on the web!")
+
 [Version 3.1](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html)
+
 [Version 3.1 Generator](https://www.joereiss.net/geek/geek.html)
+
 [Version 3.1 Decoder](http://www.ebb.org/ungeek/ "Real geeks shouldn't need this though.")
 
 # Welcome to The Geek Code Version 4.5

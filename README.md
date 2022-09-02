@@ -34,11 +34,10 @@ Given a set of category/qualifier strings for any of the above (skip anything yo
 It’s time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 ```
 -----BEGIN GEEK CODE VERSION 4.5 BLOCK-----
-GCS/GM a++(a?) bb c++(c-) d+:+ C++(++++)
-ULD++++$ Lj/LC#/Lvb/LP G:exarobibliologist
-FE++(--) BE+++(--) M-- PGP E++ H PSG PE
-TT+++/Tmon+++/TSW+++/Tf++/Tdw+ R+++(*)>$
-B+++ kX+++ INTJ-A e++ h+ r+++ !y
+GCS/GM a++(a?) bb c++(c-) d+:+ C++(++++) ULD++++$ Lj/LC#/Lvb/LP
+G:exarobibliologist FE++(--) BE+++(--) M-- PGP E++ H PSG PE
+TSTsnw+++/TSTld+++/TSTpic--/TSTdsc--/Tmon+++/TOB+++/Tf++/Tdw+
+R+++(*)>$ B+++ kX+++ INTJ-A e++ h+ r+++ !y
 ------END GEEK CODE VERSION 4.5 BLOCK------ 
 ```
 ### Special characters
@@ -374,10 +373,11 @@ In v4, tv/series are given its own category other than star trek which remains f
 List what you think of a given series
 
 ```
-Tdw		=	Doctor Who
-Tr&m 		=	rick&MORTY
-Tf 		=	Firefly
+TDW		=	Doctor Who
+TRM 		=	rick&MORTY
+TFF 		=	Firefly
 TSG		=	Stargate
+	TSG1	=	Stargate SG-1
 	TSGa	=	Stargate Atlantis
 	TSGu	=	Stargate Universe
 TBBT		=	The Big Bang Theory

@@ -1,6 +1,6 @@
 # geek_code
 
-## Geek Code 4.5
+## Geek Code 4.55
 
 # What Is Geek Code?
 The Geek Code, developed in 1993, is a series of letters and symbols used by self-described "geeks" to inform fellow geeks about their personality, appearance, interests, skills, and opinions.
@@ -19,7 +19,7 @@ The idea is that everything that makes a geek individual can be encoded in a com
 
 [Version 3.1 Decoder](http://www.ebb.org/ungeek/ "Real geeks shouldn't need this though.")
 
-# Welcome to The Geek Code Version 4.5
+# Welcome to The Geek Code Version 4.55
 
 Some categories have been removed, others added, some altered. The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
 
@@ -33,12 +33,12 @@ Given a set of category/qualifier strings for any of the above (skip anything yo
 
 It’s time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 ```
------BEGIN GEEK CODE VERSION 4.5 BLOCK-----
+-----BEGIN GEEK CODE VERSION 4.55 BLOCK-----
 GCS/GM a++(a?) bb c++(c-) d+:+ C++(++++) ULD++++$ Lj/LC#/Lvb/LP
 G:exarobibliologist FE++(--) BE+++(--) M-- PGP E++ H PSG PE
 TSTsnw+++/TSTld+++/TSTpic--/TSTdsc--/Tmon+++/TOB+++/TFF++/TDW+
 R+++(*)>$ B+++ kX+++ INTJ-A e++ h+ r+++ !y
-------END GEEK CODE VERSION 4.5 BLOCK------ 
+------END GEEK CODE VERSION 4.55 BLOCK------ 
 ```
 ### Special characters
 
@@ -61,6 +61,12 @@ $	=	Indicates that this particular category is done for a living.
 ```
 
 For example, UL+++$ indicates that the person utilizes Unix and gets paid for it. Quite a lucky geek, for sure.
+
+```
+^	=	Indicates that the geek has a degree or certificate in this area or field.
+```
+
+For example, GCS^/GMU/GTW^ indicates that this is a Geek of Computer Science (with a degree in this field), a Geek of Music, and a Geek of Technical Writing (with a certificate in this field)
 
 ```
 >	=	for ‘wannabe’ ratings. Indicating that while the geek is currently at one rating, they are striving to reach another.

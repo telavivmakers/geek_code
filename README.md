@@ -239,34 +239,39 @@ U---	=	Unix geeks are actually nerds in disguise.
 ```
 
 ### L – Programming languages .
-List a series of languages and your facility/opinion thereupon, for example Lp++/R+ would indicate high proficiency in python and above average knowledge of R.
+List a series of languages and your facility/opinion thereupon, for example Lpy++/R+ would indicate high proficiency in python and above average knowledge of R.
 
 ```
-Lj		=	java
+Lasm 		=	Assembly
+Lbash		=	Bourne Again Shell
 LC		=	C programming lang
 LCpp		=	C plus plus
 LC#		=	C sharp
-Lvb		=	visual basic
-Lp		=	Python
+Lgo 		=	Go
+Lj		=	Java
 Ljs		=	Javascript
-Lphp		=	php
-LOC 		=	objective C
-Lsql 		=	sql
+Llll		=	Low-level Lisp
+Llua		=	Lua
+LM 		=	MATLAB
+LoC 		=	Objective C
 LP 		=	Perl
-LRu 		=	Ruby
-LM 		=	matlab
-Lasm 		=	assembly
-Lgo 		=	go
+Lphp		=	PHP
+Lpy		=	Python
+LQ#		=	Q sharp
 LR 		=	R
+LRu 		=	Ruby
+Lsql 		=	SQL
+Lvb		=	Visual Basic
+Lwps		=	Windows PowerShell
 ````
 For example:
 ```
-Lp+++		=	I am Guido
-Lp++		=	I maintain/contribute to the python code base
-Lp+		=	I am a pythonista – love python and use it all the time , consider whether things I say are ‘pythonic’
-Lp		=	I am neutral on python , its ok for some things.
-Lp-		=	Python is for hobbies
-Lp-- 		=	I do not like python, it is an ugly aberration for people incapable of grasping the subtle power of [C|Lisp|assembly]
+Lpy+++		=	I am Guido
+Lpy++		=	I maintain/contribute to the python code base
+Lpy+		=	I am a pythonista – love python and use it all the time , consider whether things I say are ‘pythonic’
+Lpy		=	I am neutral on python , its ok for some things.
+Lpy-		=	Python is for hobbies
+Lpy-- 		=	I do not like python, it is an ugly aberration for people incapable of grasping the subtle power of [C|Lisp|assembly]
 ```
 ### G: - github handle
 Your github username, after the G: If you use bitbucket use GB: instead, if some other public repo write the name like Gbeanstalk:rutman. E.g.

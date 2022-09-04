@@ -39,7 +39,7 @@ ULD++++$ Lbash+++/LC#+/Lj+/Lpy++/Lvb
 G:exarobibliologist FE++(--) BE+++(--) M-- PGP E++
 H PSG PE TSTsnw+++/TSTld+++/TSTpic--/TSTdsc--
 /Tmon+++/TOB+++/TFF++/TDW+ R+++(*)>$ B+++
-kX+++ INTJ-A e++ h+ r+++ !y
+kX+++ INTJ-A e++ h-- r+++ !y
 ----END GEEK CODE VERSION 4.55 BLOCK----
 ```
 ### Special characters
@@ -496,9 +496,9 @@ h+++	=	Living in a cave with 47 computers and an Internet feed, located near a D
 h++	=	Living alone, get out once a week to buy food, no more than once a month to do laundry. All surfaces covered.
 h+	=	Friends come over to visit every once in a while to talk about Geek things. There is a place for them to sit.
 h	=	Living with one or more registered Geeks.
-h--	=	Living with one or more people who know nothing about being a Geek and refuse to watch Babylon 5.
-h---	=	Married, (persons living romantically with someone might as well label themselves h—, you're as good as there already.)
-h----	=	Married with children – Al Bundy can sympathize
+h-	=	Living with one or more people who know nothing about being a Geek and refuse to watch geeky shows on TV.
+h--	=	Married, (persons living romantically with someone might as well label themselves h--, you're as good as there already.)
+h---	=	Married with children – Al Bundy can sympathize
 
 h! I am stuck living with my parents!
 h* I'm not sure where I live anymore. This lab/workplace seems like home to me.

@@ -568,7 +568,6 @@ CHANGELIST – What remains:
     startrek
     Role Playing
     Books
-    The Geek Code
     Lifestyle
 	MBTI
     Education
@@ -586,7 +585,8 @@ Removed
     OS/2
     VMS
     Cypherpunk
-    Babylon5 (moved)
+    The Geek Code
+	Babylon5 (moved)
     X-Files (moved)
     Television
     Dilbert (moved)
@@ -595,6 +595,7 @@ Removed
 
 New
 
+	^ (denotes that geek has a degree or certificate in a field)
 	MBTI
 	Sex (non-binary support added)
 

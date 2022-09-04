@@ -53,7 +53,7 @@ A few special characters allow for the (ultimately wrong but practically useful)
 For example, Geeks who happen to very much enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as TSTpic+++@.
 
 ```
-()	=	for indicating “cross-overs” or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly “C+”) could use C+(—).
+()	=	for indicating "cross-overs" or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly "C+") could use C+(—).
 ```
 
 @ is different from () in that () has finite limits within the category, while @ ranges all over.
@@ -91,7 +91,7 @@ For example, !M would be a person that just plain refuses to have anything to do
 ==============================================================
 ## G – Geek of - training/degree/interest/job
 
-To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a “G” to denote “GEEK”, followed by one or two letters to denote the geek's occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
+To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a "G" to denote "GEEK", followed by one or two letters to denote the geek's occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
 ```
 GB 	= Geek of Business
@@ -190,7 +190,7 @@ d---:--- 	=	I take a phone book with me when I go out so I can see to eat dinner
 There is a record of geeks that don't use computers. Unfortunately, they are all dead, having lived in an era of no computers. All modern geeks have some exposure to computers. If you don't know what a computer is, you need to go back into your shell.
 
 Computers
-Most geeks identify themselves by their use of computers and computer networks. In order to quantify your geekiness level on computers, consult the following (consider the term 'computers' synonymous with 'computer network'). This category represents “general” computer aptitude. Categories below will get into specifics.
+Most geeks identify themselves by their use of computers and computer networks. In order to quantify your geekiness level on computers, consult the following (consider the term 'computers' synonymous with 'computer network'). This category represents "general" computer aptitude. Categories below will get into specifics.
 
 ```
 C++++ 		=	I'll be first in line to get the new cybernetic interface installed into my skull.
@@ -230,7 +230,7 @@ It seems that a Unix-based operating system is the OS of choice among most geeks
         U* = Some other one not listed
 some examples
 ```
-U++++	=	I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an “accidental” computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.
+U++++	=	I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an "accidental" computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.
 U+++	=	I don't need to crack /etc/passwd because I just modified su so that it doesn't prompt me. The admin staff doesn't know I'm here.
 U++	=	I've get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to.
 U+	=	I enjoy shell scripting and understand the fundamental importance of the difference between ' and `
@@ -316,7 +316,7 @@ Pretty Good Privacy (aka PGP) is a program available on many platforms that will
 PGP++++		=	I am Philip Zimmerman
 PGP+++  	=	I don't send or answer mail that is not encrypted, or at the very least signed. If you are reading this without decrypting it first, something is wrong. IT DIDN'T COME FROM ME!
 PGP++  		=	I have the most recent version and use it regularly
-PGP+  		=	“Finger me for my public key”
+PGP+  		=	"Finger me for my public key"
 PGP  		=	I've used it, but stopped long ago.
 PGP- 		=	I don't have anything to hide.
 PGP-- 		=	I feel that the glory of the Internet is in the anarchic, trusting environment that so nurtures the exchange of information. Encryption just bogs that down.
@@ -339,13 +339,13 @@ H+++	=	I smithed my own chainmail from iron I smelted with ore mined by means of
 H++	=
 H+	=
 H	=
-H-	=	I have used hammers  metaphorically far more often than literally
+H-	=	I have used hammers metaphorically far more often than literally
 H--	=	I prefer to take my laptop to the shop when the hardware acts up 
 ```
 
 ## P – POLITICS
 
-The last few years has seen the rise of the political geek. This phenomena is little understood, but some theorize that it has come about because of the popular media's attempts to demonize the Internet and computer use in general, and the government's willingness to go along with it. Others propose that the aging geek population has simply started taking an interest in the world around them. Some support the “Sun Spot” theory. As of v4 some new subcategories are added to the PS and PE categories.
+The last few years has seen the rise of the political geek. This phenomena is little understood, but some theorize that it has come about because of the popular media's attempts to demonize the Internet and computer use in general, and the government's willingness to go along with it. Others propose that the aging geek population has simply started taking an interest in the world around them. Some support the "Sun Spot" theory. As of v4 some new subcategories are added to the PS and PE categories.
 
 ### PS – Political and Social Issues
 Where, in general, your political views on different social issues fall. The + and – ratings here roughly indicate left/right on the political spectrum.
@@ -358,7 +358,7 @@ Subcategories (give yourself a geek point if your first thought was 'actually, s
 
 For example –
 ```
-PS+++	=	Legalize drugs! Abolish the government. “Fuck the draft!”
+PS+++	=	Legalize drugs! Abolish the government. "Fuck the draft!"
 PS++	=	I give to liberal causes. I march for gay rights. I'm a card carrying member of the ACLU. Keep abortion safe and legal.
 PS+	=	My whole concept of liberalism is that nobody has the right to tell anybody else what to do, on either side of the political fence. If you don't like it, turn the bloody channel.
 PS	=	I really don't have an opinion; nobody's messing with my freedoms right now.
@@ -487,7 +487,7 @@ e	=	Graduated High School / GED
 e-	=	In High School
 e--	=	In Middle School
 e---	=	In Elementary School
-e*	=	I learned everything there is to know about life from the “Hitchhiker's Trilogy”.
+e*	=	I learned everything there is to know about life from the "Hitchhiker's Trilogy".
 ```
 ### Housing
 Tell us about your geeky home.

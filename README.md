@@ -207,7 +207,7 @@ To share your exact age, place the number after 'a'. For example: a42
 ### b – beardliness/facial hair
 As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population.
 
-The hair code is divided into 5 parts, delimited by a colon. The parts are (head:beard:brows:mustache:sideburns)
+The hair code is divided into 5 parts, delimited by a colon. The parts are (Head : Beard : Brows : Mustache : Sideburns)
 
 ```
 +++	=	Some people look at me and think I'm Sasquatch I have so much hair

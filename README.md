@@ -152,6 +152,7 @@ GCA 	= Geek of Commercial Arts
 GCM 	= Geek of Computer Management
 GCS	= Geek of Computer Science
 GCC 	= Geek of Communications
+GDVO	=	Geek of DevOps
 GE 	= Geek of Engineering
 GED 	= Geek of Education
 GFA 	= Geek of Fine Arts

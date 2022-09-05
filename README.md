@@ -273,7 +273,11 @@ CM--- 		=	Computer? Not interested. That's those machines with demons in them, r
 
 ### M = MICROSOFT
 
-A good many geeks suffer through the use of various versions of Microsoft's Windows. Rate your Windows geekiness, if desired include versions.
+A good many geeks suffer through the use of various versions of Microsoft's Windows.
+
+Rate your Windows geekiness, and if desired you can include the versions of Windows you have used or are currently using.
+
+For example: w11+++ means that you are very proficient with Windows 11.
 
 ```
 w++++	=	I am a MS Windows programming god.
@@ -286,7 +290,8 @@ w--	=	MS Windows is a joke operating system. No one can find the error codes any
 w---	=	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.
 ```
 
-### U – UNIX
+### U = UNIX
+
 It seems that a Unix-based operating system is the OS of choice among most geeks. In addition to telling us about your Unix abilities, you can also show which specific Unix OS you are using. To accomplish this, you include a letter showing the brand with your rating. For example: UL++++ would indicate a sysadmin running Linux.
 
 	U = Unix
@@ -322,6 +327,18 @@ U	=	I have a Unix account to do my stuff in
 U-	=	I have a VMS account.
 U--	=	I've seen Unix and didn't like it. DEC rules!
 U---	=	Unix geeks are actually nerds in disguise.
+```
+
+### MC = Macintosh
+
+Many geeks have jumped the PC ship and moved over to using Apple products. Give notification of your Mac rating.
+
+```
+M++	=	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I'll write the damn software to do it.
+M+	=	A Mac has it's uses and I use it quite often.
+M  	=	I use a Mac, but I'm pretty indifferent about it.
+M- 	=	Macs suck. All real geeks have a character prompt.
+M-- 	= 	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.
 ```
 
 ### L – Programming languages .
@@ -382,16 +399,6 @@ BE	=
 BE-	=
 BE--	=
 BE---	=	Keep the dirty stuff under the hood, building a cool GUI is where its at
-```
-
-### M – Macintosh
-Many geeks have abandoned the character-based computer altogether and moved over to the Macintosh. It in important to give notification of your Mac rating.
-```
-M++	=	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I'll write the damn software to do it.
-M+	=	A Mac has it's uses and I use it quite often.
-M  	=	I use a Mac, but I'm pretty indifferent about it.
-M- 	=	Macs suck. All real geeks have a character prompt.
-M-- 	= 	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.
 ```
 
 ### PGP

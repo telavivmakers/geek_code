@@ -94,6 +94,8 @@ For example, !M would be a person that just plain refuses to have anything to do
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a "G" to denote "GEEK", followed by one or two letters to denote the geek's occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
 ```
+GAI		=	Geek of Artificial Intelligence
+GBIO	=	Geek of Biomedical Engineering
 GB 	= Geek of Business
 GC 	= Geek of Classics
 GCA 	= Geek of Commercial Arts
@@ -103,6 +105,7 @@ GCC 	= Geek of Communications
 GE 	= Geek of Engineering
 GED 	= Geek of Education
 GFA 	= Geek of Fine Arts
+GFS		=	Geek of Forensic Science
 GG 	= Geek of Government
 GH 	= Geek of Humanities
 GIT 	= Geek of Information Technology
@@ -118,6 +121,7 @@ GP 	= Geek of Philosophy
 GS 	= Geek of Science (Physics, Chemistry, Biology, etc.)
 GSS 	= Geek of Social Science (Psychology, Sociology, etc.)
 GTW 	= Geek of Technical Writing
+GVDD	=	Geek of Video Game Design
 GO 	= Geek of Other. Some types of geeks deviate from the normal geek activities. This is encouraged as true geeks come from all walks of life.
 GU 	= Geek of 'Undecided'. This is a popular vocation with incoming freshmen.
 G! 	= Geek of no qualifications nor interests; likely, cannot exist
@@ -129,7 +133,7 @@ GAT 	= Geek of All Trades. For those geeks that can do anything and everything. 
 
 They say you never get a second chance to make a first impression.
 
-The Geek, of course, doesn't believe any of that crap; on the internet, no one knows you're a dog, according to ancient meme. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense.
+The Geek, of course, doesn't believe any of that crap; on the internet, no one knows you're a dog, according to ancient meme. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense. Also it lets us start off with 'abcd' for age/beard/clothing/dimensions.
 
 ### a – Age
 
@@ -149,7 +153,7 @@ a?	=	immortal
 In addition, if you wish to give your exact age, you can place the number after the 'a' identifier. For example: a42
 ```
 ### b – beardliness/facial hair
-As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population. Also it lets us start off with 'abcd' for age/beard/clothing/dimensions
+As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population.
 
 ```
 b 	=	beard

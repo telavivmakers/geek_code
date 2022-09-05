@@ -83,6 +83,20 @@ kX+++ INTJ-A e++ h-- r+++ !y
 A few special characters allow for the (ultimately wrong but practically useful) notion that geeks can seldom be strictly quantified.
 
 ```
++	=	indicates an increased amount of geekiness in a particular area. Each additional + raises the level further.
+```
+
+```
+_	=	(Optional) indicates a baseline answer. _ is one step above -, and one step below +. Therefore, _ is never combined with + or - when describing a single category
+```
+
+For example, instead of leaving it blank/empty, a geek of average shape and size could write d_:_ to indicate they are at the baseline.
+
+```
+-	=	indicates a decreased amount of geekiness in a particular area. Each additional - reduces the level further.
+```
+
+```
 @	=	for this variable, said trait is not very rigid, may change with time or with individual interaction.
 ```
 

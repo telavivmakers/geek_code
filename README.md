@@ -1,6 +1,6 @@
 # geek_code
 
-## Geek Code 4.55
+## Geek Code 5.x
 
 # What Is Geek Code?
 The Geek Code, developed in 1993, is a series of letters and symbols used by self-described "geeks" to inform fellow geeks about their personality, appearance, interests, skills, and opinions.
@@ -11,7 +11,25 @@ The idea is that everything that makes a geek individual can be encoded in a com
 
 # Older Versions
 
-[Version 0.3](https://www.cs.cmu.edu/afs/cs/user/scotts/ftp/bulgarians/geek-code.html "This is perhaps the oldest still surviving example of Geek Code on the web!")
+Version 0.1 was created and written by Robert A. Hayden, then a student of Stanford. It consisted of only about five categories.
+
+Version 0.2 was mostly a spelling and bug fix.
+
+Version 0.3 added a couple more categories.
+
+[Click here to see Version 0.3 on the web!](https://www.cs.cmu.edu/afs/cs/user/scotts/ftp/bulgarians/geek-code.html "This is perhaps the oldest still surviving example of Geek Code on the web!")
+
+Version 1.0 was released about 4 months after 0.3 on July 17, 1993 and added several more categories as well as the rules for cross-overs and variables. 1.0.1 was a bug-fix released later that day.
+
+[Click here to see Version 1.0.1 here!](http://www.textfiles.com/100/codegeek.txt)
+
+Version 2.0 was released one year after version 1.0 on July 17, 1994. Version 2.0 and represents the recommendations of many dozens of people, and at least 75 additions were added in that version.
+
+Version 2.1 was released one day later, and was mostly bugfixes to make Geek Code internally consistent with itself.
+
+[Click here to see version 2.1 on the web!](http://www.aleph.se/Nada/nerdiness/geek2)
+
+Version 3.x of Geek Code was released on March 5, 1996. It was a huge refinement over version 2.x! One of the main problems with 2.x was that it was too long, and much of its length was attributed to non-geek categories. One of the goals of 3.x is to eliminate many of the non-geeky and unimportant categories in order to make room for geeky traits. "More geek, less bullshit" was a good motto for this version. It removed some categories from 2.x that were just downright odd (like automobiles, nutrition, and **Barney**?)
 
 [Version 3.1](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html)
 
@@ -19,9 +37,27 @@ The idea is that everything that makes a geek individual can be encoded in a com
 
 [Version 3.1 Decoder](http://www.ebb.org/ungeek/ "Real geeks shouldn't need this though.")
 
-# Welcome to The Geek Code Version 4.55
+Version 3.12 is the version used for the `geekcode` Linux package still available on Debian and Ubuntu. The Linux package only contains the basic version 3 Geek Code, and does not support crossovers and variables.
 
-Some categories have been removed, others added, some altered. The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
+Version 4.x was released on GitHub on October 18, 2019. Some categories have been removed, others added, some altered. The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
+
+[Click here to see Version 4.0!](https://github.com/telavivmakers/geek_code/blob/8903d925d6660d9afa661d6cb99f13976d95242f/README.md)
+
+Version 4.5 was mostly bugfixes to make the current geek code internally consistent, and correct any older 3.x code that was lurking in the shadows.
+
+# Welcome to The Geek Code Version 5.0
+
+The code is no longer case-sensitive, and can now be written in UPPERCASE or lowercase. To accomplish this, some categories and letters have been changed. Letter groupings are used so that there was no repetition of single letters among the categories.
+
+Some categories were merged, and couple new symbols were added. The header of the GEEK CODE BLOCK (which used to mimic the output of a GPG BLOCK) now merges both header and version in a single line.
+
+In version 5.x, each category is designed to help uniquely identify a geek with less parallelism existing among categories. There are no categories that refer backwards to previously defined categories.
+
+And there's never a need to define "sex" in three different ways!
+
+In our own way, this version also adheres to the motto "more geek, less crap". And this has really enhanced the "seasoned outlook" that v4.x adopted in its code.
+
+## How Does It Work?
 
 The code consists of a set of alphanumeric identifiers indicating the various categories (and subcategories), and qualifiers + and – following the identifiers indicating amount/size/level of proficiency/etc. These qualifiers can be stacked, e.g H+++ indicates a person of extremely skilled with hardware (the H indicating Hardware).
 
@@ -200,11 +236,11 @@ Most geeks identify themselves by their use of computers and computer networks. 
 C++++ 		=	I'll be first in line to get the new cybernetic interface installed into my skull.
 C+++		=	You mean there is life outside of Internet? You're shittin' me! I haven't dragged myself to class in weeks.
 C++ 		=	Computers are a large part of my existence. I code in at least one language
-C+ 		=	Computers are fun and I enjoy using them. 
+C+ 		=	Computers are fun and I enjoy using them. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'.
 C		=	Computers are a tool, nothing more. I use it when it serves my purpose.
 C- 		=	Anything more complicated than my calculator and I'm screwed.
 C-- 		=	Where's the on switch?
-C--- 		=	If you even mention computers, I will rip your head off!
+C--- 		=	Computer? Not interested. That's those machines with demons in them, right?
 ```
 ### U – UNIX
 It seems that a Unix-based operating system is the OS of choice among most geeks. In addition to telling us about your Unix abilities, you can also show which specific Unix OS you are using. To accomplish this, you include a letter showing the brand with your rating. For example: UL++++ would indicate a sysadmin running Linux.

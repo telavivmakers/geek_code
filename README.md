@@ -222,7 +222,7 @@ The hair code is divided into 5 parts, delimited by a colon. The parts are (head
 Thus b_:++:+:++:_ means that geek has an average head of hair, with an impressive beard, thick brows, an equally impressive mustachio, and ordinary sideburns.
 
 
-### c – Clothing
+### C – Clothing
 ```
 c++  	=	I tend to wear conservative dress such as a business suit or worse, a tie.
 c+  	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
@@ -236,7 +236,7 @@ c?	=	I have no idea what I am wearing right now, let alone what I wore yesterday
 cpu	=	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
 ```
 
-### d – dimensions
+### D – Dimensions
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent.
 ```
 d+++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
@@ -252,23 +252,40 @@ Thus d+++:--- indicates extremely tall and thin.
 
 ==============================================================
 
-## C- COMPUTERS
+## CM	=	COMPUTERS
 
-There is a record of geeks that don't use computers. Unfortunately, they are all dead, having lived in an era of no computers. All modern geeks have some exposure to computers. If you don't know what a computer is, you need to go back into your shell.
+There is a record of geeks that don't use computers. Unfortunately, they are all dead, having lived in an era of no computers.
 
-Computers
+All modern geeks have some exposure to computers. If you don't know what a computer is, you need to go back into your shell.
+
 Most geeks identify themselves by their use of computers and computer networks. In order to quantify your geekiness level on computers, consult the following (consider the term 'computers' synonymous with 'computer network'). This category represents "general" computer aptitude. Categories below will get into specifics.
 
 ```
-C++++ 		=	I'll be first in line to get the new cybernetic interface installed into my skull.
-C+++		=	You mean there is life outside of Internet? You're shittin' me! I haven't dragged myself to class in weeks.
-C++ 		=	Computers are a large part of my existence. I code in at least one language
-C+ 		=	Computers are fun and I enjoy using them. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'.
-C		=	Computers are a tool, nothing more. I use it when it serves my purpose.
-C- 		=	Anything more complicated than my calculator and I'm screwed.
-C-- 		=	Where's the on switch?
-C--- 		=	Computer? Not interested. That's those machines with demons in them, right?
+CM++++ 		=	I'll be first in line to get the new cybernetic interface installed into my skull.
+CM+++		=	You mean there is life outside of Internet? You're shittin' me! I haven't dragged myself to class in weeks.
+CM++ 		=	Computers are a large part of my existence. I code in at least one language
+CM+ 		=	Computers are fun and I enjoy using them. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'.
+CM		=	Computers are a tool, nothing more. I use it when it serves my purpose.
+CM- 		=	Anything more complicated than my calculator and I'm screwed.
+CM-- 		=	Where's the on switch?
+CM--- 		=	Computer? Not interested. That's those machines with demons in them, right?
 ```
+
+### M = MICROSOFT
+
+A good many geeks suffer through the use of various versions of Microsoft's Windows. Rate your Windows geekiness, if desired include versions.
+
+```
+w++++	=	I am a MS Windows programming god.
+w+++	=	I write/compile Microsoft code.
+w++	=	I have 'hacked' my Windows REGEDIT to unlock or fix various bugs on my machine.
+w+	=	I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. I have a hundred fonts that I've installed but never used.
+w	=	I only use Windows for one specific purpose (like running Steam games), but I don't have to like it.
+w-	=	I'm still trying to install MS Windows and have at least one peripheral that never works right
+w--	=	MS Windows is a joke operating system. No one can find the error codes anymore, and even if they could no one can read hexadecimal to understand them!
+w---	=	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.
+```
+
 ### U – UNIX
 It seems that a Unix-based operating system is the OS of choice among most geeks. In addition to telling us about your Unix abilities, you can also show which specific Unix OS you are using. To accomplish this, you include a letter showing the brand with your rating. For example: UL++++ would indicate a sysadmin running Linux.
 

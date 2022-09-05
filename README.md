@@ -144,10 +144,10 @@ For example, !M would be a person that just plain refuses to have anything to do
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a "G" to denote "GEEK", followed by one or two letters to denote the geek's occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
 ```
-GAI		=	Geek of Artificial Intelligence
+GAI	=	Geek of Artificial Intelligence
 GBIO	=	Geek of Biomedical Engineering
-GB 	= Geek of Business
-GC 	= Geek of Classics
+GB 	= 	Geek of Business
+GC 	= 	Geek of Classics
 GCA 	= Geek of Commercial Arts
 GCM 	= Geek of Computer Management
 GCS	= Geek of Computer Science

@@ -87,7 +87,7 @@ A few special characters allow for the (ultimately wrong but practically useful)
 ```
 
 ```
-_	=	(Optional) indicates a baseline answer. _ is one step above -, and one step below +. Therefore, _ is never combined with + or - when describing a single category
+_	=	(Optional) indicates a baseline answer. _ is one step above -, and one step below +. Therefore, _ is never combined with + or -
 ```
 
 For example, instead of leaving it blank/empty, a geek of average shape and size could write d_:_ to indicate they are at the baseline.

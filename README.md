@@ -211,11 +211,11 @@ The hair code is divided into 5 parts, delimited by a colon. The parts are (head
 
 ```
 +++	=	Some people look at me and think I'm Sasquatch I have so much hair
-++		=	Amazing hair growth!
-+		=	Some hair growth
-		=	Average
--		=	Less than normal, partially shaved
---		=	Bald / Shaved
+++	=	Amazing hair growth!
++	=	Some hair growth
+	=	Average
+-	=	Less than normal, partially shaved
+--	=	Bald / Shaved
 ---	=	Alopecia / Unable to grow hair there
 ```
 

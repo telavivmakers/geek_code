@@ -195,25 +195,32 @@ a++++	=	60 and up
 a+++	=	50-59
 a++	=	40-49
 a+	=	30-39
-a	=	25-29
+a_	=	25-29
 a-	=	20-24
 a--	=	15-19
 a---	=	10-14
 a----	=	9 and under (Geek in training?)
 a?	=	immortal
 !a	=	it's none of your business how old I am
-In addition, if you wish to give your exact age, you can place the number after the 'a' identifier. For example: a42
+To share your exact age, place the number after 'a'. For example: a42
 ```
 ### b – beardliness/facial hair
 As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population.
 
+The hair code is divided into 5 parts, delimited by a colon. The parts are (head:beard:brows:mustache:sideburns)
+
 ```
-b 	=	beard
-bm 	=	mustache
-bs 	=	sideburns
-bb 	=	bushy eyebrows
++++	=	Some people look at me and think I'm Sasquatch I have so much hair
+++		=	Amazing hair growth!
++		=	Some hair growth
+		=	Average
+-		=	Less than normal, partially shaved
+--		=	Bald / Shaved
+---	=	Alopecia / Unable to grow hair there
 ```
-Thus b++/bm++ means impressive beard with equally consequential mustachio. Leave blank for no facial hair.
+
+Thus b_:++:+:++:_ means that geek has an average head of hair, with an impressive beard, thick brows, an equally impressive mustachio, and ordinary sideburns.
+
 
 ### c – Clothing
 ```
@@ -228,8 +235,9 @@ c?	=	I have no idea what I am wearing right now, let alone what I wore yesterday
 !c	=	No clothing. Quite a fashion statement, don't you think?
 cpu	=	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
 ```
+
 ### d – dimensions
-Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent. Thus d+++:--- indicates extremely tall and thin.
+Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent.
 ```
 d+++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
 d++:++ 		=	I'm a basketball/linebacker candidate.
@@ -239,6 +247,9 @@ d-:-		=	I look up to most people. Everyone tells me to gain a few pounds.
 d--:-- 		=	I look up to damn near everybody. I tend to have to fight against a strong breeze.
 d---:--- 	=	I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.
 ```
+
+Thus d+++:--- indicates extremely tall and thin.
+
 ==============================================================
 
 ## C- COMPUTERS

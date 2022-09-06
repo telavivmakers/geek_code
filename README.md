@@ -625,22 +625,22 @@ Those that do not wish to disclose their gender can use 'Z'. For example:
 
 Some examples
 ```
-x+++++	=	I am Madonna
-y++++	=	I'm a guy with a few little rug rats to prove I've been there. Besides, with kids around, who has time for sex?
-z+++	=	I'm married, so I can get it (theoretically) whenever I want.
-z++	=	I was once referred to as 'easy'. I have no idea where that might have come from though.
-q+	=	Non-binary person who has had sex
-x+	=	A female who has had sex
-y+	=	A male who has had sex.
-z+	=	A person (gender undisclosed) who has had sex.
-z	=	I've had sex. Oh! You mean with someone else? Then no.
-z-	=	Not having sex by choice.
-z--	=	People just aren't interested in dating me...
-z---	=	Not having sex because I'm a nun or a priest.
-x%	=	signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'.
-z*	=	I'm a pervert.
-z**	=	I've been known to make perverts look like angels.
-!z	=	It's none of your business what my gender or sex life is like !
-z?	=	Sex? What's that? I've had no sexual experiences.
-z>+	=	Desperate for experience
+X+++++	=	I am Madonna
+Y++++	=	I'm a guy with a few little rug rats to prove I've been there. Besides, with kids around, who has time for sex?
+Z+++	=	I'm married, so I can get it (theoretically) whenever I want.
+Z++	=	I was once referred to as 'easy'. I have no idea where that might have come from though.
+Q+	=	Non-binary person who has had sex
+X+	=	A female who has had sex
+Y+	=	A male who has had sex.
+Z+	=	A person (gender undisclosed) who has had sex.
+Z	=	I've had sex. Oh! You mean with someone else? Then no.
+Z-	=	Not having sex by choice.
+Z--	=	People just aren't interested in dating me...
+Z---	=	Not having sex because I'm a nun or a priest.
+X%	=	signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'.
+Z*	=	I'm a pervert.
+Z**	=	I've been known to make perverts look like angels.
+!Z	=	It's none of your business what my gender or sex life is like !
+Z?	=	Sex? What's that? I've had no sexual experiences.
+Z>+	=	Desperate for experience
 ```

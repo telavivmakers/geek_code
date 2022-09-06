@@ -9,9 +9,11 @@ The geek code attempts a concise description of your being in 'geek space', span
 
 The idea is that everything that makes a geek individual can be encoded in a compact format which only other geeks can read. This is deemed to be efficient in some sufficiently geeky manner.
 
+Share your geek code with friends and acquaintances! Help them understand that "The geeks of today are the trendsetters of tomorrow."
+
 # Older Versions
 
-Version 0.1 was created and written by Robert A. Hayden, then a student of Stanford. It consisted of only about five categories.
+Version 0.1 was created and written by Robert A. Hayden, a student (and later graduate) of Mankato State University. It consisted of only about five categories.
 
 Version 0.2 was mostly a spelling and bug fix.
 
@@ -67,9 +69,16 @@ The broad categories encoded are: Geek of, Wetware, Computers, Politics, Enterta
 
 Some categories will be irrelevant, so ignore them. Some of the qualifiers will not match with you exactly, so choose that qualifier that most closely matches you.
 
-Given a set of category/qualifier strings for any of the above (skip anything you dont want to answer/not relevant/classified/unknown/indeterminate/etc). A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed.
+Given a set of category/qualifier strings for any of the above (skip anything you dont want to answer/not relevant/classified/unknown/indeterminate/etc).
 
 It's time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
+
+```
+GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11_(+++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb IO+++:---(+) G:exarobibliologist  E++ H+ PGP PSG PE TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- Y+++
+```
+
+A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed.
+
 ```
 -----BEGIN GEEK CODE BLOCK VERSION 5.0-----
 GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++)
@@ -79,6 +88,7 @@ TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
 TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- Y+++
 -----END GEEK CODE BLOCK VERSION 5.0-----
 ```
+
 ### Special characters
 
 A few special characters allow for the (ultimately wrong but practically useful) notion that geeks can seldom be strictly quantified.

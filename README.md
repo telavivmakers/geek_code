@@ -188,7 +188,7 @@ They say you never get a second chance to make a first impression.
 
 The Geek, of course, doesn't believe any of that crap; on the internet, no one knows you're a dog, according to ancient meme. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense. Also it lets us start off with 'abcd' for age/beard/clothing/dimensions.
 
-### A = Age
+### A = AGE
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10 , wise guys.
 ```
@@ -206,7 +206,7 @@ A?	=	immortal
 A=	=	Share your exact age by placing a number after. For example: A=42
 ```
 
-### B = beardliness/facial hair
+### B = BEARDLINESS/HAIR
 As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population.
 
 The hair code is divided into 5 parts, delimited by a colon. The parts are (Head : Beard : Brows : Mustache : Sideburns)
@@ -224,7 +224,7 @@ The hair code is divided into 5 parts, delimited by a colon. The parts are (Head
 Thus B_:++:+:++:_ means that geek has an average head of hair, with an impressive beard, thick brows, an equally impressive mustachio, and ordinary sideburns.
 
 
-### C – Clothing
+### C = CLOTHING
 ```
 C++  	=	I tend to wear conservative dress such as a business suit or worse, a tie.
 C+  	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
@@ -238,7 +238,7 @@ C?	=	I have no idea what I am wearing right now, let alone what I wore yesterday
 Cpu	=	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
 ```
 
-### D – Dimensions
+### D = DIMENSIONS
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent.
 ```
 D+++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
@@ -254,7 +254,7 @@ Example: D+++:--- indicates extremely tall and thin.
 
 ==============================================================
 
-## CM	=	COMPUTERS
+## CM = COMPUTERS
 
 There is a record of geeks that don't use computers. Unfortunately, they are all dead, having lived in an era of no computers.
 
@@ -331,19 +331,20 @@ U--	=	I've seen Unix and didn't like it. DEC rules!
 U---	=	Unix geeks are actually nerds in disguise.
 ```
 
-### MC = Macintosh
+### MC = MAC
 
 Many geeks have jumped the PC ship and moved over to using Apple products. Give notification of your Mac rating.
 
 ```
-M++	=	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I'll write the damn software to do it.
-M+	=	A Mac has it's uses and I use it quite often.
-M  	=	I use a Mac, but I'm pretty indifferent about it.
-M- 	=	Macs suck. All real geeks have a character prompt.
-M-- 	= 	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.
+MC++	=	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I'll write the damn software to do it.
+MC+	=	A Mac has it's uses and I use it quite often.
+MC  	=	I use a Mac, but I'm pretty indifferent about it.
+MC- 	=	Macs suck. All real geeks have a character prompt.
+MC-- 	= 	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.
 ```
 
-### L – Programming languages .
+### L = PROGRAMMING LANGUAGES
+
 List a series of languages and your facility/opinion thereupon, for example Lpy++/R+ would indicate high proficiency in python and above average knowledge of R.
 
 ```
@@ -411,7 +412,7 @@ Your github username, after the G: If you use bitbucket use GB: instead, if some
 G:exarobibliologist
 ```
 
-### E – Electronics
+### E = ELECTRONICS
 ```
 E+++	=	I am lady ada
 E++	=	I have fixed broken toasters without removing the plug, such is my skill and need for speed.  
@@ -421,7 +422,7 @@ E-	=
 E--	=	Electrons are interesting as theoretical constructs
 ```
 
-### H – Hardware
+### H = HARDWARE
 ```
 H+++	=	I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.
 H++	=
@@ -430,7 +431,6 @@ H	=
 H-	=	I have used hammers metaphorically far more often than literally
 H--	=	I prefer to take my laptop to the shop when the hardware acts up
 ```
-
 
 ### PGP
 Pretty Good Privacy (aka PGP) is a program available on many platforms that will encrypt files so that prying eyes (particularly governmental) can't look at them.
@@ -482,11 +482,12 @@ PE-	=	It's ok to increase government spending, so we can help more poor people. 
 PE--	=	Balance the budget with spending cuts and an amendment.
 PE---	=	Abolish antitrust legislation. Raise taxes on everyone but the rich so that the money can trickle-down to the masses.
 ```
+
 ## ENTERTAINMENT
 
 Geeks love to play. No matter their age, all geeks enjoy playing. Of course, the object of this entertainment takes a myriad of different forms. What is it that pushes a geek to play? Is it simply a desire to relive their childhood? Or perhaps there is a piece of geeky genetic code that requires intellectual stimulation. Who knows, maybe it's a Freudian thing…
 
-### TV shows/series/movies
+### T = TV
 List what you think of a given series
 
 ```
@@ -547,7 +548,7 @@ TST--	=	Star Trek is just another Space Opera. William Shatner isn't an actor, h
 TST---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t—)
 ````
 
-### ROLE-PLAYING
+### RPG = ROLEPLAYING
 Role-playing games such as Dungeons & Dragons have long been a part of the traditional geek life. Because geeks often become so involved in their role-playing that they lose touch with reality, include one of the following role-playing codes.
 ```
 RPG+++	=	I've written and published my own gaming materials.
@@ -560,7 +561,7 @@ RPG---	=	I work for T$R.
 RPG*	=	I thought life WAS role-playing?
 ```
 
-### BOOKS
+### BK = BOOKS
 In addition (or maybe on the other hand), many geeks have lives that revolve around books.
 
 ```
@@ -574,7 +575,7 @@ BK--	=	I take in knowledge by osmosis
 BK---	=	I did not actually READ the geek code, I just had someone tell me.
 ```
 
-### K = Comics
+### K = COMICS
 Subcategories
 ```
 	KD	=	Dilbert
@@ -590,7 +591,7 @@ Geeks, unlike the lower lifeforms known as nerds, have lives. They have things t
 Most geeks have at one time or other taken a Myers & Briggs Type Indicator test. If you want to, include your letters in the code here.
 
 
-### RESIDENCE
+### R = RESIDENCE
 
 Tell us about your geeky home.
 

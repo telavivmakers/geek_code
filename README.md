@@ -376,44 +376,39 @@ Lpy		=	I am neutral on python , its ok for some things.
 Lpy-		=	Python is for hobbies
 Lpy-- 		=	I do not like python, it is an ugly aberration for people incapable of grasping the subtle power of [C|Lisp|assembly]
 ```
+
+### IO = Input/Output
+
+How do you take your data? How do you present your data to others? Input/Output is a single entry with two sections delimited by a colon describing how user-friendly or not you present information.
+
+```
+Input Side
+IO+++	=	I wrote my own database system as current performance limitations were irking me
+IO++	=
+IO+	=
+IO	=
+IO-	=
+IO--	=
+IO---	=	Keep the dirty stuff under the hood, building a cool GUI is where its at
+
+Output Side
+IO+++	=	I am a java bean
+IO++	=
+IO+	=
+IO	=
+IO-	=
+IO--	=	My user interface is a text-only Terminal. Don't even touch the mouse
+IO---	=	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques
+```
+
+For example: IO+++:--- likely means you send and recieve data in as raw a form as possible.
+
 ### G: - github handle
 Your github username, after the G: If you use bitbucket use GB: instead, if some other public repo write the name like Gbeanstalk:rutman. E.g.
 ```
 G:exarobibliologist
 ```
 
-### FE – Frontend
-```
-FE++	=	I am a java bean
-FE+	=
-FE	=
-FE-	=
-FE--	=	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques
-```
-### BE – Backend
-```
-BE+++	=	I wrote my own database system as current performance limitations were irking me
-BE++	=
-BE+	=
-BE	=
-BE-	=
-BE--	=
-BE---	=	Keep the dirty stuff under the hood, building a cool GUI is where its at
-```
-
-### PGP
-Pretty Good Privacy (aka PGP) is a program available on many platforms that will encrypt files so that prying eyes (particularly governmental) can't look at them.
-```
-PGP++++		=	I am Philip Zimmerman
-PGP+++  	=	I don't send or answer mail that is not encrypted, or at the very least signed. If you are reading this without decrypting it first, something is wrong. IT DIDN'T COME FROM ME!
-PGP++  		=	I have the most recent version and use it regularly
-PGP+  		=	"Finger me for my public key"
-PGP  		=	I've used it, but stopped long ago.
-PGP- 		=	I don't have anything to hide.
-PGP-- 		=	I feel that the glory of the Internet is in the anarchic, trusting environment that so nurtures the exchange of information. Encryption just bogs that down.
-PGP--- 		=	If you support encryption on the Internet, you must be a drug dealer or terrorist or something like that.
-PGP---- 	=	Oh, here is something you all can use that is better (insert Clipper here).
-```
 ### E – Electronics
 ```
 E+++	=	I am lady ada
@@ -431,7 +426,22 @@ H++	=
 H+	=
 H	=
 H-	=	I have used hammers metaphorically far more often than literally
-H--	=	I prefer to take my laptop to the shop when the hardware acts up 
+H--	=	I prefer to take my laptop to the shop when the hardware acts up
+```
+
+
+### PGP
+Pretty Good Privacy (aka PGP) is a program available on many platforms that will encrypt files so that prying eyes (particularly governmental) can't look at them.
+```
+PGP++++		=	I am Philip Zimmerman
+PGP+++  	=	I don't send or answer mail that is not encrypted, or at the very least signed. If you are reading this without decrypting it first, something is wrong. IT DIDN'T COME FROM ME!
+PGP++  		=	I have the most recent version and use it regularly
+PGP+  		=	"Finger me for my public key"
+PGP  		=	I've used it, but stopped long ago.
+PGP- 		=	I don't have anything to hide.
+PGP-- 		=	I feel that the glory of the Internet is in the anarchic, trusting environment that so nurtures the exchange of information. Encryption just bogs that down.
+PGP--- 		=	If you support encryption on the Internet, you must be a drug dealer or terrorist or something like that.
+PGP---- 	=	Oh, here is something you all can use that is better (insert Clipper here).
 ```
 
 ## P – POLITICS
@@ -477,32 +487,27 @@ In v4, tv/series are given its own category other than star trek which remains f
 List what you think of a given series
 
 ```
+TBBT		=	The Big Bang Theory
+TB5		=	Babylon5
 TDW		=	Doctor Who
-TRM 		=	rick&MORTY
+TEX		=	The Expanse
 TFF 		=	Firefly
+TGT		=	Game of Thrones
+THRO	=	Heroes
+TI		=	'In search of…' with Leonard Nimoy
+TLV		=	Leverage
+	TLVr	=	Leverage: Redemption
+Tmon		=	Monty Python (series/films)
+TMM		=	Mad Max
+TLOTR		=	Lord of the Rings
+TL		=	Lost
+TOB		=	Orphan Black
+TRM 		=	rick&MORTY
 TSG		=	Stargate
 	TSG1	=	Stargate SG-1
 	TSGa	=	Stargate Atlantis
 	TSGu	=	Stargate Universe
-TBBT		=	The Big Bang Theory
-TB5		=	Babylon5
-TI		=	'In search of…' with Leonard Nimoy
-Tmon		=	Monty Python (series/films)
-TMM		=	Mad Max
-TSW		=	Star Wars
-	TSWcw	=	Star Wars Clone Wars
-	TSWman	=	The Mandalorian
-	TSWand	=	Star Wars - Andor
-	TSWobi	=	Star Wars - Obi-Wan Kenobi
-	TSWbob	=	Star Wars - Book of Boba Fett
-	TSWv	=	Star Wars - Visions
-	TSWbb	=	Star Wars - The Bad Batch
-	TSWres	=	Star Wars - Resistance
-	TSWreb	=	Star Wars - Rebels
-TGT		=	Game of Thrones
-TLOTR		=	Lord of the Rings
-TL		=	Lost
-TOB		=	Orphan Black
+	TSGoc	=	Stargate Origins Catherine
 TST		=	Star Trek
 	TSTanm	=	Star Trek - Animated Series
 	TSTng	=	Star Trek - The Next Generation
@@ -515,41 +520,57 @@ TST		=	Star Trek
 	TSTst	=	Star Trek - Short Treks
 	TSTpro	=	Star Trek - Prodigy
 	TSTsnw	=	Star Trek - Strange New Worlds
+TSW		=	Star Wars
+	TSWcw	=	Star Wars Clone Wars
+	TSWman	=	The Mandalorian
+	TSWand	=	Star Wars - Andor
+	TSWobi	=	Star Wars - Obi-Wan Kenobi
+	TSWbob	=	Star Wars - Book of Boba Fett
+	TSWv	=	Star Wars - Visions
+	TSWbb	=	Star Wars - The Bad Batch
+	TSWres	=	Star Wars - Resistance
+	TSWreb	=	Star Wars - Rebels
+TW13	=	Warehouse 13
+
 ````
-Exemplary Star Trek info
+Example Star Trek info
 ```
-TT+++	=	It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.
-TT++	=	It's the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I've built a few of the model kits too. But you'll never catch me at one of those conventions. Those people are kooks.
-TT+	=	It's a damn fine TV show and is one of the only things good on television any more.
-TT	=	It's just another TV show
-TT-	=	Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I'm missing something but I just think it is bad drama.
-TT--	=	Star Trek is just another Space Opera. William Shatner isn't an actor, he's a poser! And what's with this Jean-Luc Picard? A Frenchman with a British accent? Come on. Isn't Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons? Come on. I'd only watch this show if my remote control broke.
-TT---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t—)
+TST+++	=	It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.
+TST++	=	It's the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I've built a few of the model kits too. But you'll never catch me at one of those conventions. Those people are kooks.
+TST+	=	It's a damn fine TV show and is one of the only things good on television any more.
+TST	=	It's just another TV show
+TST-	=	Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I'm missing something but I just think it is bad drama.
+TST--	=	Star Trek is just another Space Opera. William Shatner isn't an actor, he's a poser! And what's with this Jean-Luc Picard? A Frenchman with a British accent? Come on. Isn't Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons? Come on. I'd only watch this show if my remote control broke.
+TST---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t—)
 ````
-### R – Role Playing
+
+### RPG = Role Playing
 Role-playing games such as Dungeons & Dragons have long been a part of the traditional geek life. Because geeks often become so involved in their role-playing that they lose touch with reality, include one of the following role-playing codes.
 ```
-R+++	=	I've written and published my own gaming materials.
-R++	=	There is no life outside the role of the die. I know all of piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players.
-R+	=	I've got my weekly sessions set up and a character that I know better than I know myself.
-R	=	Role-Playing? That's just something to do to kill a Saturday afternoon
-R-	=	Gosh, what an utter waste of time!
-R--	=	Role-Players are instruments of pure evil.
-R---	=	I work for T$R.
-R*	=	I thought life WAS role-playing?
+RPG+++	=	I've written and published my own gaming materials.
+RPG++	=	There is no life outside the role of the die. I know all of piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players.
+RPG+	=	I've got my weekly sessions set up and a character that I know better than I know myself.
+RPG	=	Role-Playing? That's just something to do to kill a Saturday afternoon
+RPG-	=	Gosh, what an utter waste of time!
+RPG--	=	Role-Players are instruments of pure evil.
+RPG---	=	I work for T$R.
+RPG*	=	I thought life WAS role-playing?
 ```
-### B – Books
+
+### BK = Books
 In addition (or maybe on the other hand), many geeks have lives that revolve around books.
 
 ```
-B++++	=	I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I've ordered books from another country to get my Favorite Author Fix.
-B+++	=	I consume a few books a week as part of a staple diet.
-B++	=	I find the time to get through at least one new book a month.
-B+	=	I enjoy reading, but don't get the time very often.
-B	=	I read the newspaper and the occasional book.
-B-	=	I read when there is no other way to get the information.
-B--	=	I did not actually READ the geek code, I just had someone tell me.
+BK++++	=	I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I've ordered books from another country to get my Favorite Author Fix.
+BK+++	=	I consume a few books a week as part of a staple diet.
+BK++	=	I find the time to get through at least one new book a month.
+BK+	=	I enjoy reading, but don't get the time very often.
+BK	=	I read the newspaper and the occasional book.
+BK-	=	I read when there is no other way to get the information.
+BK--	=	I take in knowledge by osmosis
+BK---	=	I did not actually READ the geek code, I just had someone tell me.
 ```
+
 ### k – Comics
 Subcategories –
 ```
@@ -566,49 +587,25 @@ Geeks, unlike the lower lifeforms known as nerds, have lives. They have things t
 Most geeks have at one time or other taken a Myers & Briggs Type Indicator test. If you want to, include your letters in the code here.
 
 
-### e - Education
-All geeks have a varying amount of education.
-```
-e+++++	=	I am Stephen Hawking
-e++++	=	Managed to get my Ph.D.
-e+++	=	Got a Masters degree
-e++	=	Got a Bachelors degree
-e+	=	Got an Associates degree
-e	=	Graduated High School / GED
-e-	=	In High School
-e--	=	In Middle School
-e---	=	In Elementary School
-e*	=	I learned everything there is to know about life from the "Hitchhiker's Trilogy".
-```
-### Housing
-Tell us about your geeky home.
-```
-h+++	=	Living in a cave with 47 computers and an Internet feed, located near a Dominoes pizza. See !d.
-h++	=	Living alone, get out once a week to buy food, no more than once a month to do laundry. All surfaces covered.
-h+	=	Friends come over to visit every once in a while to talk about Geek things. There is a place for them to sit.
-h	=	Living with one or more registered Geeks.
-h-	=	Living with one or more people who know nothing about being a Geek and refuse to watch geeky shows on TV.
-h--	=	Married, (persons living romantically with someone might as well label themselves h--, you're as good as there already.)
-h---	=	Married with children – Al Bundy can sympathize
+### R = Residence
 
-h! I am stuck living with my parents!
-h* I'm not sure where I live anymore. This lab/workplace seems like home to me.
+Tell us about your geeky home.
+
 ```
-### Relationships
-While many geeks are highly successful at having relationships, a good many more are not. Give us the gritty details.
+R+++	=	Living in a cave with 47 computers and an Internet feed, located near a Dominoes pizza. See !d.
+R++	=	Living alone, get out once a week to buy food, no more than once a month to do laundry. All surfaces covered.
+R+	=	Friends come over to visit every once in a while to talk about Geek things. There is a place for them to sit.
+R	=	Living with one or more registered Geeks.
+R-	=	Living with one or more people who know nothing about being a Geek and refuse to watch geeky shows on TV.
+R--	=	Married, (persons living romantically with someone might as well label themselves h--, you're as good as there already.)
+R---	=	Married with children – Al Bundy can sympathize
+
+R! I am stuck living with my parents!
+R* I'm not sure where I live anymore. This lab/workplace seems like home to me.
 ```
-r+++	=	Found someone, dated, and am now married.
-r++	=	I've dated my current S.O. for a long time.
-r+	=	I date frequently, bouncing from one relationship to another.
-r	=	I date periodically.
-r-	=	I have difficulty maintaining a relationship.
-r--	=	People just aren't interested in dating me.
-r---	=	I'm beginning to think that I'm a leper or something, the way people avoid me like the plague.
-!r	=	I've never had a relationship, OR not for public consumption
-r*	=	signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'. First founded at Caltech.
-r%	=	I was going out with someone, but the asshole dumped me.
-```
-### Sex
+### Relationships and Sex
+While many geeks are highly successful at having relationships, a good many more are not.
+
 Geeks have traditionally had problems with sex (ie, they never have any). Because geeks are so wrapped up in their sexuality (or lack of sexuality), it is important that the geek be willing to quantify their sexual experiences.
 
 This code also is used to denote the gender of the geek.
@@ -637,8 +634,9 @@ z++	=	I was once referred to as 'easy'. I have no idea where that might have com
 z+	=	I've had real, live sex.
 z	=	I've had sex. Oh! You mean with someone else? Then no.
 z-	=	Not having sex by choice.
-z--	=	Not having sex because I just can't get any…
+z--	=	People just aren't interested in dating me...
 z---	=	Not having sex because I'm a nun or a priest.
+x%	=	signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'.
 z*	=	I'm a pervert.
 z**	=	I've been known to make perverts look like angels.
 !z	=	It's none of your business what my sex life is like !

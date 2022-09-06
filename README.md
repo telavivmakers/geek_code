@@ -41,6 +41,8 @@ Version 3.12 is the version used for the `geekcode` Linux package still availabl
 
 Version 4.x was released on GitHub on October 18, 2019. Some categories have been removed, others added, some altered. The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
 
+In version 4, tv/series are given its own category (since geeks may watch something else besides Star Trek)
+
 [Click here to see Version 4.0!](https://github.com/telavivmakers/geek_code/blob/8903d925d6660d9afa661d6cb99f13976d95242f/README.md)
 
 Version 4.5 was mostly bugfixes to make the current geek code internally consistent, and correct any older 3.x code that was lurking in the shadows.
@@ -74,7 +76,7 @@ GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++)
 MW11_(+++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
 IO+++:---(+) G:exarobibliologist  E++ H+ PGP PSG PE
 TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
-TSTdsc-- RPG+++(*)>$ BK+++ kX+++ INTJ-A R-- y+++
+TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- Y+++
 -----END GEEK CODE BLOCK VERSION 5.0-----
 ```
 ### Special characters
@@ -133,7 +135,7 @@ For example, UL+++>$ indicating a geek that is currently Linux savvy, but wants 
 !	=	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate.
 ```
 
-For example, !M would be a person that just plain refuses to have anything to do with Macintosh, while M? would be a person that doesn't even know what Macintosh is.```
+For example, !MC would be a person that just plain refuses to have anything to do with Macintosh, while MC? would be a person that doesn't even know what Macintosh is.```
 
 ## The categories
 
@@ -444,11 +446,12 @@ PGP--- 		=	If you support encryption on the Internet, you must be a drug dealer 
 PGP---- 	=	Oh, here is something you all can use that is better (insert Clipper here).
 ```
 
-## P – POLITICS
+## POLITICS
 
 The last few years has seen the rise of the political geek. This phenomena is little understood, but some theorize that it has come about because of the popular media's attempts to demonize the Internet and computer use in general, and the government's willingness to go along with it. Others propose that the aging geek population has simply started taking an interest in the world around them. Some support the "Sun Spot" theory. As of v4 some new subcategories are added to the PS and PE categories.
 
-### PS – Political and Social Issues
+### Politics and Social Issues
+
 Where, in general, your political views on different social issues fall. The + and – ratings here roughly indicate left/right on the political spectrum.
 
 Subcategories (give yourself a geek point if your first thought was 'actually, subsubcategories')
@@ -457,7 +460,6 @@ Subcategories (give yourself a geek point if your first thought was 'actually, s
 	PSL = civil liberties
 	PSS = gender politics
 
-For example –
 ```
 PS+++	=	Legalize drugs! Abolish the government. "Fuck the draft!"
 PS++	=	I give to liberal causes. I march for gay rights. I'm a card carrying member of the ACLU. Keep abortion safe and legal.
@@ -467,8 +469,11 @@ PS-	=	Label records! Keep dirty stuff off the TV and the Internet.
 PS--	=	Oppose sex education, abortion rights, gay rights. Rush Limbaugh is my spokesman.
 PS---	=	Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in '96.
 ```
-### PE – Politics and Economic Issues
+
+### Politics and Economic Issues
+
 Note this category has been reversed as of v4 to maintain the loose left+ and right- association from the PS category.
+
 ```
 PE+++	=	Capitalism is evil! Government should provide the services we really need. Nobody should be rich.
 PE++	=	Keep the government off the backs of businesses. Deregulate as much as possible.
@@ -481,9 +486,7 @@ PE---	=	Abolish antitrust legislation. Raise taxes on everyone but the rich so t
 
 Geeks love to play. No matter their age, all geeks enjoy playing. Of course, the object of this entertainment takes a myriad of different forms. What is it that pushes a geek to play? Is it simply a desire to relive their childhood? Or perhaps there is a piece of geeky genetic code that requires intellectual stimulation. Who knows, maybe it's a Freudian thing…
 
-In v4, tv/series are given its own category other than star trek which remains for backwards compatibility.
-
-### T – TV shows/series/movies
+### TV shows/series/movies
 List what you think of a given series
 
 ```
@@ -544,7 +547,7 @@ TST--	=	Star Trek is just another Space Opera. William Shatner isn't an actor, h
 TST---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t—)
 ````
 
-### RPG = Role Playing
+### ROLE-PLAYING
 Role-playing games such as Dungeons & Dragons have long been a part of the traditional geek life. Because geeks often become so involved in their role-playing that they lose touch with reality, include one of the following role-playing codes.
 ```
 RPG+++	=	I've written and published my own gaming materials.
@@ -557,7 +560,7 @@ RPG---	=	I work for T$R.
 RPG*	=	I thought life WAS role-playing?
 ```
 
-### BK = Books
+### BOOKS
 In addition (or maybe on the other hand), many geeks have lives that revolve around books.
 
 ```
@@ -571,23 +574,23 @@ BK--	=	I take in knowledge by osmosis
 BK---	=	I did not actually READ the geek code, I just had someone tell me.
 ```
 
-### k – Comics
-Subcategories –
+### K = Comics
+Subcategories
 ```
-	kD	=	Dilbert
-	kX	=	XKCD
-	kM	=	Manga
-	kM!	=	Hentai
+	KD	=	Dilbert
+	KX	=	XKCD
+	KM	=	Manga
+	KM!	=	Hentai
 ```
 ## LIFESTYLE
 
 Geeks, unlike the lower lifeforms known as nerds, have lives. They have things to do that are in the outside world. Of course, this is usually done with other geeks, but that's not the point. The point is,, that geeks are not necessarily the outcasts society often believes they are. The fact is that society isn't kool enough to be included in our activities.
 
-### mbti - Personality
+### MBTI / PERSONALITY
 Most geeks have at one time or other taken a Myers & Briggs Type Indicator test. If you want to, include your letters in the code here.
 
 
-### R = Residence
+### RESIDENCE
 
 Tell us about your geeky home.
 
@@ -603,35 +606,33 @@ R---	=	Married with children – Al Bundy can sympathize
 R! I am stuck living with my parents!
 R* I'm not sure where I live anymore. This lab/workplace seems like home to me.
 ```
-### Relationships and Sex
+
+### RELATIONSHIPS AND SEX
+
 While many geeks are highly successful at having relationships, a good many more are not.
 
 Geeks have traditionally had problems with sex (ie, they never have any). Because geeks are so wrapped up in their sexuality (or lack of sexuality), it is important that the geek be willing to quantify their sexual experiences.
 
 This code also is used to denote the gender of the geek.
 
-Females use 'x' in this category.
+Females use 'X' in this category.
 
-Males use 'y'.
+Males use 'Y'.
 
-Non-binary use 'q', or may type out their particular sexual preference in this section.
+Non-binary use 'Q', or may type out their particular sexual preference in this section.
 
-Those that do not wish to disclose their gender can use 'z'. For example:
+Those that do not wish to disclose their gender can use 'Z'. For example:
 
-```
-q+	=	Non-binary person who has had sex
-x+	=	A female who has had sex
-y+	=	A male who has had sex.
-z+	=	A person (gender undisclosed) who has had sex.
-!z	=	neither my sex nor my sex life are any of your beeswax
-```
 Some examples
 ```
 x+++++	=	I am Madonna
 y++++	=	I'm a guy with a few little rug rats to prove I've been there. Besides, with kids around, who has time for sex?
 z+++	=	I'm married, so I can get it (theoretically) whenever I want.
 z++	=	I was once referred to as 'easy'. I have no idea where that might have come from though.
-z+	=	I've had real, live sex.
+q+	=	Non-binary person who has had sex
+x+	=	A female who has had sex
+y+	=	A male who has had sex.
+z+	=	A person (gender undisclosed) who has had sex.
 z	=	I've had sex. Oh! You mean with someone else? Then no.
 z-	=	Not having sex by choice.
 z--	=	People just aren't interested in dating me...
@@ -639,55 +640,7 @@ z---	=	Not having sex because I'm a nun or a priest.
 x%	=	signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'.
 z*	=	I'm a pervert.
 z**	=	I've been known to make perverts look like angels.
-!z	=	It's none of your business what my sex life is like !
+!z	=	It's none of your business what my gender or sex life is like !
 z?	=	Sex? What's that? I've had no sexual experiences.
 z>+	=	Desperate for experience
 ```
-CHANGELIST – What remains:
-
-    Type (qualifications/training)
-    Dress
-    Age
-    Computers
-    Unix
-    Macintosh
-    Politics
-    Politics and Soc Issues
-    Politics and Economic Issues
-    PGP
-    Entertainment
-    startrek
-    Role Playing
-    Books
-    Lifestyle
-	MBTI
-    Education
-    Relationships
-    Sex 
-
-Removed
-
-    Emacs
-    WWW
-    Perl
-    Usenet/Usenet Oracle
-    Kibo
-    MS Windows
-    OS/2
-    VMS
-    Cypherpunk
-    The Geek Code
-	Babylon5 (moved)
-    X-Files (moved)
-    Television
-    Dilbert (moved)
-    Doom
-    Linux moved under unix
-
-New
-
-	^ (denotes that geek has a degree or certificate in a field)
-	MBTI
-	Sex (non-binary support added)
-
-

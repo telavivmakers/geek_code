@@ -140,7 +140,7 @@ For example, !MC would be a person that just plain refuses to have anything to d
 ## The categories
 
 ==============================================================
-## G – Geek of - training/degree/interest/job
+## G = Geek of - training/degree/interest/job
 
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a "G" to denote "GEEK", followed by one or two letters to denote the geek's occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 

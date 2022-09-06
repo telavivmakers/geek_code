@@ -74,16 +74,16 @@ Given a set of category/qualifier strings for any of the above (skip anything yo
 It's time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 
 ```
-GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11_(+++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb IO+++:---(+) G:exarobibliologist  E++ H+ PGP PSG PE TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- Y+++
+GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11_(+++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- Y+++
 ```
 
-A GEEK CODE BLOCK similar to the output created by PGP attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed.
+A GEEK CODE BLOCK parodies the output created by PGP, and attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed (but 
 
 ```
 -----BEGIN GEEK CODE BLOCK VERSION 5.0-----
 GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++)
 MW11_(+++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
-IO+++:---(+) G:exarobibliologist  E++ H+ PGP PSG PE
+IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE
 TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
 TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- Y+++
 -----END GEEK CODE BLOCK VERSION 5.0-----
@@ -236,10 +236,10 @@ Thus B_:++:+:++:_ means that geek has an average head of hair, with an impressiv
 
 ### C = CLOTHING
 ```
-C++  	=	I tend to wear conservative dress such as a business suit or worse, a tie.
-C+  	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
+C++ 	=	I tend to wear conservative dress such as a business suit or worse, a tie.
+C+ 	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
 C	=	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
-C-  	=	I'm usually in jeans and a t-shirt.
+C- 	=	I'm usually in jeans and a t-shirt.
 C--	=	My t-shirts go a step further and have a trendy political message on them.
 C---	=	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
 Cx	=	Cross Dresser
@@ -322,13 +322,13 @@ It seems that a Unix-based operating system is the OS of choice among most geeks
 			ULG = Gentoo
 				ULGC = ChromeOS / ChromiumOS
 			ULS = Slackware
-            UL* = other
-        US = Sun OS/Solaris
-        UA = AIX
-        UH = HPUX
-        UI = IRIX
-        UC = SCO Unix
-        U* = Some other one not listed
+		UL*	= other
+		US	= Sun OS/Solaris
+		UA	= AIX
+		UH	= HPUX
+		UI	= IRIX
+		UC	= SCO Unix
+	U* = Some other one not listed
 some examples
 ```
 U++++	=	I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an "accidental" computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.

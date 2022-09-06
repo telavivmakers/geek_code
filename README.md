@@ -51,7 +51,7 @@ Version 4.5 was mostly bugfixes to make the current geek code internally consist
 
 # Welcome to The Geek Code Version 5.0
 
-The code is no longer uses case-sensitive categories. To accomplish this, some categories and letters have been changed. Letter groupings are used so that there was no repetition of single letters among the categories.
+The code no longer uses case-sensitive categories. To accomplish this, some categories and letters have been changed. Letter groupings are used so that there was no repetition of single letters among the categories.
 
 Some categories were merged, and couple new symbols were added. The header of the GEEK CODE BLOCK (which used to mimic the output of a GPG BLOCK) now merges both header and version in a single line.
 

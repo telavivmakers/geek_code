@@ -322,7 +322,7 @@ It seems that a Unix-based operating system is the OS of choice among most geeks
 			ULG = Gentoo
 				ULGC = ChromeOS / ChromiumOS
 			ULS = Slackware
-		UL* = other
+			UL* = other
 		US = Sun OS/Solaris
 		UA = AIX
 		UH = HPUX

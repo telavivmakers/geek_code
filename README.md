@@ -47,7 +47,7 @@ Version 4.5 was mostly bugfixes to make the current geek code internally consist
 
 # Welcome to The Geek Code Version 5.0
 
-The code is no longer case-sensitive, and can now be written in UPPERCASE or lowercase. To accomplish this, some categories and letters have been changed. Letter groupings are used so that there was no repetition of single letters among the categories.
+The code is no longer uses case-sensitive categories. To accomplish this, some categories and letters have been changed. Letter groupings are used so that there was no repetition of single letters among the categories.
 
 Some categories were merged, and couple new symbols were added. The header of the GEEK CODE BLOCK (which used to mimic the output of a GPG BLOCK) now merges both header and version in a single line.
 
@@ -69,14 +69,13 @@ Given a set of category/qualifier strings for any of the above (skip anything yo
 
 It's time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 ```
-----BEGIN GEEK CODE VERSION 4.55 BLOCK----
-GCS^/GM^ a++(a?) bb c++(c-) d+:+ C++(++++)
-ULD++++$ Lbash+++/LC#+/Lj+/Lpy++/Lvb
-G:exarobibliologist FE++(--) BE+++(--) M-- PGP E++
-H PSG PE TSTsnw+++/TSTld+++/TSTpic--/TSTdsc--
-/Tmon+++/TOB+++/TFF++/TDW+ R+++(*)>$ B+++
-kX+++ INTJ-A e++ h-- r+++ !y
-----END GEEK CODE VERSION 4.55 BLOCK----
+-----BEGIN GEEK CODE BLOCK VERSION 5.0-----
+GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++)
+MW11_(+++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
+IO+++:---(+) G:exarobibliologist  E++ H+ PGP PSG PE
+TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
+TSTdsc-- RPG+++(*)>$ BK+++ kX+++ INTJ-A R-- y+++
+-----END GEEK CODE BLOCK VERSION 5.0-----
 ```
 ### Special characters
 
@@ -181,30 +180,31 @@ GAT 	=	Geek of All Trades. For those geeks that can do anything and everything. 
 ```
 ==============================================================
 
-## a,b,c,d - WETWARE (age/beard/clothing/dimensions)
+## WETWARE (A,B,C,D) (age/beard/clothing/dimensions)
 
 They say you never get a second chance to make a first impression.
 
 The Geek, of course, doesn't believe any of that crap; on the internet, no one knows you're a dog, according to ancient meme. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense. Also it lets us start off with 'abcd' for age/beard/clothing/dimensions.
 
-### a – Age
+### A = Age
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10 , wise guys.
 ```
-a++++	=	60 and up
-a+++	=	50-59
-a++	=	40-49
-a+	=	30-39
-a_	=	25-29
-a-	=	20-24
-a--	=	15-19
-a---	=	10-14
-a----	=	9 and under (Geek in training?)
-a?	=	immortal
-!a	=	it's none of your business how old I am
-To share your exact age, place the number after 'a'. For example: a42
+A++++	=	60 and up
+A+++	=	50-59
+A++	=	40-49
+A+	=	30-39
+A	=	25-29
+A-	=	20-24
+A--	=	15-19
+A---	=	10-14
+A----	=	9 and under (Geek in training?)
+A?	=	immortal
+!A	=	it's none of your business how old I am
+A=	=	Share your exact age by placing a number after. For example: A=42
 ```
-### b – beardliness/facial hair
+
+### B = beardliness/facial hair
 As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population.
 
 The hair code is divided into 5 parts, delimited by a colon. The parts are (Head : Beard : Brows : Mustache : Sideburns)
@@ -219,36 +219,36 @@ The hair code is divided into 5 parts, delimited by a colon. The parts are (Head
 ---	=	Alopecia / Unable to grow hair there
 ```
 
-Thus b_:++:+:++:_ means that geek has an average head of hair, with an impressive beard, thick brows, an equally impressive mustachio, and ordinary sideburns.
+Thus B_:++:+:++:_ means that geek has an average head of hair, with an impressive beard, thick brows, an equally impressive mustachio, and ordinary sideburns.
 
 
 ### C – Clothing
 ```
-c++  	=	I tend to wear conservative dress such as a business suit or worse, a tie.
-c+  	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
-c	=	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
-c-  	=	I'm usually in jeans and a t-shirt.
-c--	=	My t-shirts go a step further and have a trendy political message on them.
-c---	=	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
-cx	=	Cross Dresser
-c?	=	I have no idea what I am wearing right now, let alone what I wore yesterday.
-!c	=	No clothing. Quite a fashion statement, don't you think?
-cpu	=	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
+C++  	=	I tend to wear conservative dress such as a business suit or worse, a tie.
+C+  	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
+C	=	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
+C-  	=	I'm usually in jeans and a t-shirt.
+C--	=	My t-shirts go a step further and have a trendy political message on them.
+C---	=	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
+Cx	=	Cross Dresser
+C?	=	I have no idea what I am wearing right now, let alone what I wore yesterday.
+!C	=	No clothing. Quite a fashion statement, don't you think?
+Cpu	=	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
 ```
 
 ### D – Dimensions
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent.
 ```
-d+++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
-d++:++ 		=	I'm a basketball/linebacker candidate.
-d+:+ 		=	I'm a little taller/rounder than most.
-d: 		=	I'm an average geek
-d-:-		=	I look up to most people. Everyone tells me to gain a few pounds.
-d--:-- 		=	I look up to damn near everybody. I tend to have to fight against a strong breeze.
-d---:--- 	=	I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.
+D+++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
+D++:++ 		=	I'm a basketball/linebacker candidate.
+D+:+ 		=	I'm a little taller/rounder than most.
+D: 		=	I'm an average geek
+D-:-		=	I look up to most people. Everyone tells me to gain a few pounds.
+D--:-- 		=	I look up to damn near everybody. I tend to have to fight against a strong breeze.
+D---:--- 	=	I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.
 ```
 
-Thus d+++:--- indicates extremely tall and thin.
+Example: D+++:--- indicates extremely tall and thin.
 
 ==============================================================
 
@@ -271,23 +271,23 @@ CM-- 		=	Where's the on switch?
 CM--- 		=	Computer? Not interested. That's those machines with demons in them, right?
 ```
 
-### M = MICROSOFT
+### MW = MICROSOFT WINDOWS
 
-A good many geeks suffer through the use of various versions of Microsoft's Windows.
+A good many geeks suffer through the use of various versions of Microsoft Windows.
 
 Rate your Windows geekiness, and if desired you can include the versions of Windows you have used or are currently using.
 
-For example: w11+++ means that you are very proficient with Windows 11.
+For example: MW11+++ means that you are very proficient with Windows 11.
 
 ```
-w++++	=	I am a MS Windows programming god.
-w+++	=	I write/compile Microsoft code.
-w++	=	I have 'hacked' my Windows REGEDIT to unlock or fix various bugs on my machine.
-w+	=	I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. I have a hundred fonts that I've installed but never used.
-w	=	I only use Windows for one specific purpose (like running Steam games), but I don't have to like it.
-w-	=	I'm still trying to install MS Windows and have at least one peripheral that never works right
-w--	=	MS Windows is a joke operating system. No one can find the error codes anymore, and even if they could no one can read hexadecimal to understand them!
-w---	=	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.
+MW++++	=	I am a MS Windows programming god.
+MW+++	=	I write/compile Microsoft code.
+MW++	=	I have 'hacked' my Windows REGEDIT to unlock or fix various bugs on my machine.
+MW+	=	I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. I have a hundred fonts that I've installed but never used.
+MW	=	I only use Windows for one specific purpose (like running Steam games), but I don't have to like it.
+MW-	=	I'm still trying to install MS Windows and have at least one peripheral that never works right
+MW--	=	MS Windows is a joke operating system. No one can find the error codes anymore, and even if they could no one can read hexadecimal to understand them!
+MW---	=	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.
 ```
 
 ### U = UNIX

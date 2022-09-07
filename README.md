@@ -274,8 +274,8 @@ Most geeks identify themselves by their use of computers and computer networks. 
 
 ```
 CM++++ 		=	I'll be first in line to get the new cybernetic interface installed into my skull.
-CM+++		=	You mean there is life outside of Internet? You're shittin' me! I haven't dragged myself to class in weeks.
-CM++ 		=	Computers are a large part of my existence. I code in at least one language
+CM+++		=	You mean there is life outside of Internet? I haven't logged out in weeks. I answer questions on StackOverflow.
+CM++ 		=	Computers are a large part of my existence. I code in at least one language. I have StackOverflow bookmarked so I can find answers to my programming questions.
 CM+ 		=	Computers are fun and I enjoy using them. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'.
 CM		=	Computers are a tool, nothing more. I use it when it serves my purpose.
 CM- 		=	Anything more complicated than my calculator and I'm screwed.
@@ -292,7 +292,7 @@ Rate your Windows geekiness, and if desired you can include the versions of Wind
 For example: MW11+++ means that you are very proficient with Windows 11.
 
 ```
-MW++++	=	I am a MS Windows programming god.
+MW++++	=	I am a MS Windows programming god. I have designed/compiled 1+ .exe, .msi, or .dll
 MW+++	=	I write/compile Microsoft code.
 MW++	=	I have 'hacked' my Windows REGEDIT to unlock or fix various bugs on my machine.
 MW+	=	I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. I have a hundred fonts that I've installed but never used.
@@ -392,7 +392,7 @@ Lpy-- 		=	I do not like python, it is an ugly aberration for people incapable of
 
 ### IO = Input/Output
 
-How do you take your data? How do you present your data to others? Input/Output is a single entry with two sections delimited by a colon describing how user-friendly or not you present information.
+How do you take your data? How do you present your data to others? Input/Output is a single entry with two sections delimited by a colon describing how user-friendly or not you are.
 
 ```
 Input Side

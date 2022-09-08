@@ -87,7 +87,7 @@ A GEEK CODE BLOCK parodies the output created by PGP, and attempts to universali
 -----BEGIN GEEK CODE BLOCK VERSION 5.0-----
 GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++)
 MW11_(++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
-IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE
+IO+++:---(+) PGP G:exarobibliologist E++ H+ PSG PE
 TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
 TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- Y+++
 -----END GEEK CODE BLOCK VERSION 5.0-----
@@ -434,6 +434,23 @@ IO---	=	I couldnt care less about the 'user experience'; users can be approximat
 
 For example: IO+++:--- likely means you send and recieve data in as raw a form as possible.
 
+
+PGP
+------
+
+Pretty Good Privacy (aka PGP) is a program available on many platforms that will encrypt files so that prying eyes (particularly governmental) can't look at them.
+```
+PGP++++		=	I am Philip Zimmerman
+PGP+++		=	I don't send or answer mail that is not encrypted, or at the very least signed. If you are reading this without decrypting it first, something is wrong. IT DIDN'T COME FROM ME!
+PGP++ 		=	I have the most recent version and use it regularly
+PGP+ 		=	"Finger me for my public key"
+PGP 		=	I've used it, but stopped long ago.
+PGP- 		=	I don't have anything to hide.
+PGP-- 		=	I feel that the glory of the Internet is in the anarchic, trusting environment that so nurtures the exchange of information. Encryption just bogs that down.
+PGP--- 		=	If you support encryption on the Internet, you must be a drug dealer or terrorist or something like that.
+PGP---- 	=	Oh, here is something you all can use that is better (insert Clipper here).
+```
+
 G = GitHub Username
 ------
 
@@ -478,21 +495,6 @@ H-	=	I have used hammers metaphorically far more often than literally
 H--	=	I prefer to take my laptop to the shop when the hardware acts up
 ```
 
-PGP
-------
-
-Pretty Good Privacy (aka PGP) is a program available on many platforms that will encrypt files so that prying eyes (particularly governmental) can't look at them.
-```
-PGP++++		=	I am Philip Zimmerman
-PGP+++		=	I don't send or answer mail that is not encrypted, or at the very least signed. If you are reading this without decrypting it first, something is wrong. IT DIDN'T COME FROM ME!
-PGP++ 		=	I have the most recent version and use it regularly
-PGP+ 		=	"Finger me for my public key"
-PGP 		=	I've used it, but stopped long ago.
-PGP- 		=	I don't have anything to hide.
-PGP-- 		=	I feel that the glory of the Internet is in the anarchic, trusting environment that so nurtures the exchange of information. Encryption just bogs that down.
-PGP--- 		=	If you support encryption on the Internet, you must be a drug dealer or terrorist or something like that.
-PGP---- 	=	Oh, here is something you all can use that is better (insert Clipper here).
-```
 
 POLITICS
 ======

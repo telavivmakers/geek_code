@@ -145,12 +145,13 @@ For example, UL+++>$ indicating a geek that is currently Linux savvy, but wants 
 !	=	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate.
 ```
 
-For example, !MC would be a person that just plain refuses to have anything to do with Macintosh, while MC? would be a person that doesn't even know what Macintosh is.```
+For example, !MC would be a person that just plain refuses to have anything to do with Macintosh, while MC? would be a person that doesn't even know what Macintosh is.
 
 ## The categories
 
-==============================================================
-## G = Geek of - training/degree/interest/job
+======
+
+### G = Geek of - training/degree/interest/job
 
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a "G" to denote "GEEK", followed by one or two letters to denote the geek's occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
@@ -190,7 +191,7 @@ GU 	=	Geek of 'Undecided'. This is a popular vocation with incoming freshmen.
 G! 	=	Geek of no qualifications nor interests; likely, cannot exist
 GAT 	=	Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.
 ```
-==============================================================
+======
 
 ## WETWARE (A,B,C,D) (age/beard/clothing/dimensions)
 
@@ -198,6 +199,7 @@ They say you never get a second chance to make a first impression.
 
 The Geek, of course, doesn't believe any of that crap; on the internet, no one knows you're a dog, according to ancient meme. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense. Also it lets us start off with 'abcd' for age/beard/clothing/dimensions.
 
+------
 ### A = AGE
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10 , wise guys.
@@ -216,6 +218,7 @@ A?	=	immortal
 A=	=	Share your exact age by placing a number after. For example: A=42
 ```
 
+------
 ### B = BEARDLINESS/HAIR
 As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population.
 

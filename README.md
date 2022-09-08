@@ -149,7 +149,7 @@ For example, !MC would be a person that just plain refuses to have anything to d
 
 ## The categories
 
-======
+------
 
 ### G = Geek of - training/degree/interest/job
 
@@ -191,7 +191,7 @@ GU 	=	Geek of 'Undecided'. This is a popular vocation with incoming freshmen.
 G! 	=	Geek of no qualifications nor interests; likely, cannot exist
 GAT 	=	Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.
 ```
-======
+------
 
 ## WETWARE (A,B,C,D) (age/beard/clothing/dimensions)
 

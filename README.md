@@ -12,7 +12,7 @@ The idea is that everything that makes a geek individual can be encoded in a com
 Share your geek code with friends and acquaintances! Help them understand that "The geeks of today are the trendsetters of tomorrow."
 
 Older Versions
-======
+------
 
 Version 0.1 was created and written by Robert A. Hayden, a student (and later graduate) of Mankato State University. It consisted of only about five categories.
 

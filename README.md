@@ -199,8 +199,8 @@ They say you never get a second chance to make a first impression.
 
 The Geek, of course, doesn't believe any of that crap; on the internet, no one knows you're a dog, according to ancient meme. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense. Also it lets us start off with 'abcd' for age/beard/clothing/dimensions.
 
-------
 ### A = AGE
+------
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10 , wise guys.
 ```
@@ -218,8 +218,9 @@ A?	=	immortal
 A=	=	Share your exact age by placing a number after. For example: A=42
 ```
 
-------
 ### B = BEARDLINESS/HAIR
+------
+
 As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population.
 
 The hair code is divided into 5 parts, delimited by a colon. The parts are (Head : Beard : Brows : Mustache : Sideburns)
@@ -238,6 +239,8 @@ Thus B_:++:+:++:_ means that geek has an average head of hair, with an impressiv
 
 
 ### C = CLOTHING
+------
+
 ```
 C++ 	=	I tend to wear conservative dress such as a business suit or worse, a tie.
 C+ 	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
@@ -252,6 +255,8 @@ Cpu	=	I wear the same clothes all the time, no matter the occasion, forgetting t
 ```
 
 ### D = DIMENSIONS
+------
+
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent.
 ```
 D+++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
@@ -268,6 +273,7 @@ Example: D+++:--- indicates extremely tall and thin.
 ==============================================================
 
 ## CM = COMPUTERS
+------
 
 There is a record of geeks that don't use computers. Unfortunately, they are all dead, having lived in an era of no computers.
 
@@ -287,6 +293,7 @@ CM--- 		=	Computer? Not interested. That's those machines with demons in them, r
 ```
 
 ### MW = MICROSOFT WINDOWS
+------
 
 A good many geeks suffer through the use of various versions of Microsoft Windows.
 
@@ -306,6 +313,7 @@ MW---	=	Windows has set back the computing industry by at least 10 years. Bill G
 ```
 
 ### U = UNIX
+------
 
 It seems that a Unix-based operating system is the OS of choice among most geeks. In addition to telling us about your Unix abilities, you can also show which specific Unix OS you are using. To accomplish this, you include a letter showing the brand with your rating. For example: UL++++ would indicate a sysadmin running Linux.
 
@@ -345,6 +353,7 @@ U---	=	Unix geeks are actually nerds in disguise.
 ```
 
 ### MC = MAC
+------
 
 Many geeks have jumped the PC ship and moved over to using Apple products. Give notification of your Mac rating.
 
@@ -357,6 +366,7 @@ MC-- 	= 	Macs do more than suck. They make a user stupid by allowing them to use
 ```
 
 ### L = PROGRAMMING LANGUAGES
+------
 
 List a series of languages and your facility/opinion thereupon, for example Lpy++/R+ would indicate high proficiency in python and above average knowledge of R.
 
@@ -394,6 +404,7 @@ Lpy-- 		=	I do not like python, it is an ugly aberration for people incapable of
 ```
 
 ### IO = Input/Output
+------
 
 How do you take your data? How do you present your data to others? Input/Output is a single entry with two sections delimited by a colon describing how user-friendly or not you are.
 
@@ -420,12 +431,16 @@ IO---	=	I couldnt care less about the 'user experience'; users can be approximat
 For example: IO+++:--- likely means you send and recieve data in as raw a form as possible.
 
 ### G: - github handle
+------
+
 Your github username, after the G: If you use bitbucket use GB: instead, if some other public repo write the name like Gbeanstalk:rutman. E.g.
 ```
 G:exarobibliologist
 ```
 
 ### E = ELECTRONICS
+------
+
 ```
 E+++	=	I am lady ada
 E++	=	I have fixed broken toasters without removing the plug, such is my skill and need for speed. 
@@ -436,6 +451,8 @@ E--	=	Electrons are interesting as theoretical constructs
 ```
 
 ### H = HARDWARE
+------
+
 ```
 H+++	=	I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.
 H++	=
@@ -446,6 +463,8 @@ H--	=	I prefer to take my laptop to the shop when the hardware acts up
 ```
 
 ### PGP
+------
+
 Pretty Good Privacy (aka PGP) is a program available on many platforms that will encrypt files so that prying eyes (particularly governmental) can't look at them.
 ```
 PGP++++		=	I am Philip Zimmerman
@@ -460,10 +479,12 @@ PGP---- 	=	Oh, here is something you all can use that is better (insert Clipper 
 ```
 
 ## POLITICS
+------
 
 The last few years has seen the rise of the political geek. This phenomena is little understood, but some theorize that it has come about because of the popular media's attempts to demonize the Internet and computer use in general, and the government's willingness to go along with it. Others propose that the aging geek population has simply started taking an interest in the world around them. Some support the "Sun Spot" theory. As of v4 some new subcategories are added to the PS and PE categories.
 
 ### Politics and Social Issues
+------
 
 Where, in general, your political views on different social issues fall. The + and – ratings here roughly indicate left/right on the political spectrum.
 
@@ -484,6 +505,7 @@ PS---	=	Repent left-wing sinners and change your wicked evil ways. Buchanan/Robe
 ```
 
 ### Politics and Economic Issues
+------
 
 Note this category has been reversed as of v4 to maintain the loose left+ and right- association from the PS category.
 
@@ -497,11 +519,14 @@ PE---	=	Abolish antitrust legislation. Raise taxes on everyone but the rich so t
 ```
 
 ## ENTERTAINMENT
+------
 
 Geeks love to play. No matter their age, all geeks enjoy playing. Of course, the object of this entertainment takes a myriad of different forms. What is it that pushes a geek to play? Is it simply a desire to relive their childhood? Or perhaps there is a piece of geeky genetic code that requires intellectual stimulation. Who knows, maybe it's a Freudian thing…
 
 ### T = TV
-List what you think of a given series
+------
+
+List what you think of the series you geek out to
 
 ```
 TBBT		=	The Big Bang Theory
@@ -562,6 +587,8 @@ TST---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you tr
 ````
 
 ### RPG = ROLEPLAYING
+------
+
 Role-playing games such as Dungeons & Dragons have long been a part of the traditional geek life. Because geeks often become so involved in their role-playing that they lose touch with reality, include one of the following role-playing codes.
 ```
 RPG+++	=	I've written and published my own gaming materials.
@@ -575,6 +602,8 @@ RPG*	=	I thought life WAS role-playing?
 ```
 
 ### BK = BOOKS
+------
+
 In addition (or maybe on the other hand), many geeks have lives that revolve around books.
 
 ```
@@ -589,6 +618,8 @@ BK---	=	I did not actually READ the geek code, I just had someone tell me.
 ```
 
 ### K = COMICS
+------
+
 Subcategories
 ```
 	KD	=	Dilbert
@@ -596,15 +627,20 @@ Subcategories
 	KM	=	Manga
 	KM!	=	Hentai
 ```
+
 ## LIFESTYLE
+------
 
 Geeks, unlike the lower lifeforms known as nerds, have lives. They have things to do that are in the outside world. Of course, this is usually done with other geeks, but that's not the point. The point is,, that geeks are not necessarily the outcasts society often believes they are. The fact is that society isn't kool enough to be included in our activities.
 
 ### MBTI / PERSONALITY
+------
+
 Most geeks have at one time or other taken a Myers & Briggs Type Indicator test. If you want to, include your letters in the code here.
 
 
 ### R = RESIDENCE
+------
 
 Tell us about your geeky home.
 
@@ -622,6 +658,7 @@ R* I'm not sure where I live anymore. This lab/workplace seems like home to me.
 ```
 
 ### RELATIONSHIPS AND SEX
+------
 
 While many geeks are highly successful at having relationships, a good many more are not.
 

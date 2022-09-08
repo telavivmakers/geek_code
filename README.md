@@ -444,7 +444,7 @@ Gb	=	BitBucket
 Gbk	=	Bitkeeper
 Gbn	=	Beanstalk
 Gsvn	=	Subversion
-Gtfs	= Team Foundation Server
+Gtfs	= 	Team Foundation Server
 ```
 
 Write your username, after the code, like the following examples:

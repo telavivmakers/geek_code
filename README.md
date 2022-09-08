@@ -155,7 +155,7 @@ For example, !MC would be a person that just plain refuses to have anything to d
 The categories
 ======
 
-G = Geek of - training/degree/interest/job
+G = GEEK OF - training/degree/interest/job
 ======
 
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a "G" to denote "GEEK", followed by one or two letters to denote the geek's occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
@@ -204,7 +204,7 @@ They say you never get a second chance to make a first impression.
 
 The Geek, of course, doesn't believe any of that crap; on the internet, no one knows you're a dog, according to ancient meme. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense. Also it lets us start off with 'abcd' for age/beard/clothing/dimensions.
 
-A = AGE
+A = Age
 ------
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10 , wise guys.
@@ -223,7 +223,7 @@ A?	=	immortal
 A=	=	Share your exact age by placing a number after. For example: A=42
 ```
 
-B = BEARDLINESS/HAIR
+B = Beardliness/Hair
 ------
 
 As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population.
@@ -243,7 +243,7 @@ The hair code is divided into 5 parts, delimited by a colon. The parts are (Head
 Thus B_:++:+:++:_ means that geek has an average head of hair, with an impressive beard, thick brows, an equally impressive mustachio, and ordinary sideburns.
 
 
-C = CLOTHING
+C = Clothing
 ------
 
 ```
@@ -259,7 +259,7 @@ C?	=	I have no idea what I am wearing right now, let alone what I wore yesterday
 Cpu	=	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
 ```
 
-D = DIMENSIONS
+D = Dimensions
 ------
 
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent.
@@ -296,7 +296,7 @@ CM-- 		=	Where's the on switch?
 CM--- 		=	Computer? Not interested. That's those machines with demons in them, right?
 ```
 
-MW = MICROSOFT WINDOWS
+MW = Microsoft Windows
 ------
 
 A good many geeks suffer through the use of various versions of Microsoft Windows.
@@ -316,7 +316,7 @@ MW--	=	MS Windows is a joke operating system. No one can find the error codes an
 MW---	=	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.
 ```
 
-U = UNIX
+U = Unix
 ------
 
 It seems that a Unix-based operating system is the OS of choice among most geeks. In addition to telling us about your Unix abilities, you can also show which specific Unix OS you are using. To accomplish this, you include a letter showing the brand with your rating. For example: UL++++ would indicate a sysadmin running Linux.
@@ -356,7 +356,7 @@ U--	=	I've seen Unix and didn't like it. DEC rules!
 U---	=	Unix geeks are actually nerds in disguise.
 ```
 
-MC = MAC
+MC = Mac/Apple
 ------
 
 Many geeks have jumped the PC ship and moved over to using Apple products. Give notification of your Mac rating.
@@ -369,7 +369,7 @@ MC- 	=	Macs suck. All real geeks have a character prompt.
 MC-- 	= 	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.
 ```
 
-L = PROGRAMMING LANGUAGES
+L = Programming Languages
 ------
 
 List a series of languages and your facility/opinion thereupon, for example Lpy++/LR+ would indicate high proficiency in python and above average knowledge of R.
@@ -454,7 +454,7 @@ G:exarobibliologist
 Gbn:rutman
 ```
 
-E = ELECTRONICS
+E = Electronics
 ------
 
 ```
@@ -466,7 +466,7 @@ E-	=
 E--	=	Electrons are interesting as theoretical constructs
 ```
 
-H = HARDWARE
+H = Hardware
 ------
 
 ```
@@ -603,7 +603,7 @@ TST--	=	Star Trek is just another Space Opera. William Shatner isn't an actor, h
 TST---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t—)
 ````
 
-RPG = ROLEPLAYING
+RPG = Roleplaying
 ------
 
 Role-playing games such as Dungeons & Dragons have long been a part of the traditional geek life. Because geeks often become so involved in their role-playing that they lose touch with reality, include one of the following role-playing codes.
@@ -618,7 +618,7 @@ RPG---	=	I work for T$R.
 RPG*	=	I thought life WAS role-playing?
 ```
 
-BK = BOOKS
+BK = Books
 ------
 
 In addition (or maybe on the other hand), many geeks have lives that revolve around books.
@@ -634,7 +634,7 @@ BK--	=	I take in knowledge by osmosis
 BK---	=	I did not actually READ the geek code, I just had someone tell me.
 ```
 
-K = COMICS
+K = Comics
 ------
 
 Subcategories
@@ -656,7 +656,7 @@ MBTI / PERSONALITY
 Most geeks have at one time or other taken a Myers & Briggs Type Indicator test. If you want to, include your letters in the code here.
 
 
-R = RESIDENCE
+R = Residence
 ------
 
 Tell us about your geeky home.

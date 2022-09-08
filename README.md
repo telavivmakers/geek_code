@@ -372,7 +372,7 @@ MC-- 	= 	Macs do more than suck. They make a user stupid by allowing them to use
 L = PROGRAMMING LANGUAGES
 ------
 
-List a series of languages and your facility/opinion thereupon, for example Lpy++/R+ would indicate high proficiency in python and above average knowledge of R.
+List a series of languages and your facility/opinion thereupon, for example Lpy++/LR+ would indicate high proficiency in python and above average knowledge of R.
 
 ```
 Lasm 		=	Assembly
@@ -434,12 +434,24 @@ IO---	=	I couldnt care less about the 'user experience'; users can be approximat
 
 For example: IO+++:--- likely means you send and recieve data in as raw a form as possible.
 
-G: - github handle
+G = GitHub Username
 ------
 
-Your github username, after the G: If you use bitbucket use GB: instead, if some other public repo write the name like Gbeanstalk:rutman. E.g.
+Good Version Control systems are a priority for most geeks coders. List which version control system you use, and your username so we can find you.
+```
+G	=	GitHub
+Gb	=	BitBucket
+Gbk	=	Bitkeeper
+Gbn	=	Beanstalk
+Gsvn	=	Subversion
+Gtfs = Team Foundation Server
+```
+
+Write your username, after the code, like the following examples:
+
 ```
 G:exarobibliologist
+Gbn:rutman
 ```
 
 E = ELECTRONICS

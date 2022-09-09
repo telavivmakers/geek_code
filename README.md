@@ -669,7 +669,7 @@ R++	=	Living alone, get out once a week to buy food, no more than once a month t
 R+	=	Friends come over to visit every once in a while to talk about Geek things. There is a place for them to sit.
 R	=	Living with one or more registered Geeks.
 R-	=	Living with one or more people who know nothing about being a Geek and refuse to watch geeky shows on TV.
-R--	=	Married, (persons living romantically with someone might as well label themselves h--, you're as good as there already.)
+R--	=	Married (or living romantically with someone.)
 R---	=	Married with children – Al Bundy can sympathize
 
 R! I am stuck living with my parents!

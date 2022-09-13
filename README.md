@@ -693,7 +693,7 @@ Pronouns should always be lowercase to prevent them from being mistaken for curr
 *	=	I'm a pervert
 **	=	I've been known to make perverts look like angels.
 ++++	=	I've got a few rugrats to prove I've been there.
-+++		=	Married, so I can get it (theoretically) whenever I want.
++++	=	Married, so I can get it (theoretically) whenever I want.
 ++	=	I was once referred to as 'easy'. I have no idea where that might have come from though.
 +	=	I've had sex
 _	=	I've had sex. Oh! You mean with someone else? Then no.

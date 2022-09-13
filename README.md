@@ -84,13 +84,13 @@ GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11_(++) ULD++++$ MC-- Lba
 A GEEK CODE BLOCK parodies the output created by PGP, and attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed (but 
 
 ```
------BEGIN GEEK CODE BLOCK VERSION 5.0-----
+-----BEGIN GEEK CODE BLOCK VERSION 5.1-----
 GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++)
 MW11_(++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
 IO+++:---(+) PGP G:exarobibliologist E++ H+ PSG PE
 TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
-TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- Y+++
------END GEEK CODE BLOCK VERSION 5.0-----
+TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
+-----END GEEK CODE BLOCK VERSION 5.1-----
 ```
 
 Special characters
@@ -207,7 +207,7 @@ The Geek, of course, doesn't believe any of that crap; on the internet, no one k
 A = Age
 ------
 
-The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10 , wise guys.
+The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10, wise guys.
 ```
 A++++	=	60 and up
 A+++	=	50-59
@@ -685,32 +685,29 @@ Geeks have traditionally had problems with sex (ie, they never have any). Becaus
 
 This code also is used to denote the gender of the geek.
 
-Females use 'X' in this category.
+Share your pronouns followed by the modifier to show how succesful you have been with relationships and sex.
 
-Males use 'Y'.
+Pronouns should always be lowercase to prevent them from being mistaken for current or future geekcode (which is capitalized in most cases).
 
-Non-binary use 'Q', or may type out their particular sexual preference in this section.
-
-Those that do not wish to disclose their gender can use 'Z'. For example:
-
-Some examples
 ```
-X+++++	=	I am Madonna
-Y++++	=	I'm a guy with a few little rug rats to prove I've been there. Besides, with kids around, who has time for sex?
-Z+++	=	I'm married, so I can get it (theoretically) whenever I want.
-Z++	=	I was once referred to as 'easy'. I have no idea where that might have come from though.
-Q+	=	Non-binary person who has had sex
-X+	=	A female who has had sex
-Y+	=	A male who has had sex.
-Z+	=	A person (gender undisclosed) who has had sex.
-Z	=	I've had sex. Oh! You mean with someone else? Then no.
-Z-	=	Not having sex by choice.
-Z--	=	People just aren't interested in dating me...
-Z---	=	Not having sex because I'm a nun or a priest.
-X%	=	signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'.
-Z*	=	I'm a pervert.
-Z**	=	I've been known to make perverts look like angels.
-!Z	=	It's none of your business what my gender or sex life is like !
-Z?	=	Sex? What's that? I've had no sexual experiences.
-Z>+	=	Desperate for experience
+*	=	I'm a pervert
+**	=	I've been known to make perverts look like angels.
+++++	=	I've got a few rugrats to prove I've been there.
++++		=	Married, so I can get it (theoretically) whenever I want.
+++	=	I was once referred to as 'easy'. I have no idea where that might have come from though.
++	=	I've had sex
+_	=	I've had sex. Oh! You mean with someone else? Then no.
+-	=	Not having sex by choice.
+--	=	People just aren't interested in dating me...
+---	=	Not having sex because I'm a nun or a priest.
+%	=	signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'.
+!	=	None of your business what my sex life is like!
+>+	=	Desperate for experience
 ```
+
+For example:
+
+he/him+++
+
+(Deprecated / Optional)
+Females may use 'X' in this category. Males may use 'Y'. Other genders may use 'Q'. Those that do not wish to disclose their gender can use 'Z'.

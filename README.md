@@ -78,7 +78,7 @@ Given a set of category/qualifier strings for any of the above (skip anything yo
 It's time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
 
 ```
-GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11_(++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- Y+++
+GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11_(++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
 ```
 
 A GEEK CODE BLOCK parodies the output created by PGP, and attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed (but 

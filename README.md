@@ -392,6 +392,7 @@ Lphp		=	PHP
 Lpy		=	Python
 LQ#		=	Q sharp
 LR 		=	R
+LRs		=	Rust
 LRu 		=	Ruby
 Lsql 		=	SQL
 Lvb		=	Visual Basic

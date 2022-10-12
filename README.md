@@ -208,9 +208,9 @@ A = Age
 ------
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10, wise guys.
-| --- | --- |
-|A++++	=	|60 and up|
-|A+++	=	|50-59|
+```
+A++++	=	60 and up
+A+++	=	50-59
 A++	=	40-49
 A+	=	30-39
 A	=	25-29

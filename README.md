@@ -242,24 +242,24 @@ The hair code is divided into 5 parts, delimited by a colon. The parts are (Head
 ---	=	Alopecia / Unable to grow hair there
 ```
 
-Thus B_:++:+:++:_ means that geek has an average head of hair, with an impressive beard, thick brows, an equally impressive mustachio, and ordinary sideburns.
+Thus `B_:++:+:++:_` means that geek has an average head of hair, with an impressive beard, thick brows, an equally impressive mustachio, and ordinary sideburns.
 
 
 C = Clothing
 ------
 
-```
-C++ 	=	I tend to wear conservative dress such as a business suit or worse, a tie.
-C+ 	=	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.
-C	=	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.
-C- 	=	I'm usually in jeans and a t-shirt.
-C--	=	My t-shirts go a step further and have a trendy political message on them.
-C---	=	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.
-Cx	=	Cross Dresser
-C?	=	I have no idea what I am wearing right now, let alone what I wore yesterday.
-!C	=	No clothing. Quite a fashion statement, don't you think?
-Cpu	=	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.
-```
+|	C		|	=		|	Clothing	|
+|:---		|	:---:	|	---:		|
+|	C++		|	=		|	I tend to wear conservative dress such as a business suit or worse, a tie.	|
+|	C+ 		|	=		|	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.	|
+|	C		|	=		|	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.	|
+|	C-		| 	=		|	I'm usually in jeans and a t-shirt.	|
+|	C--		|	=		|	My t-shirts go a step further and have a trendy political message on them.	|
+|	C---	|	=		|	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.	|
+|	Cx		|	=		|	Cross Dresser	|
+|	C?		|	=		|	I have no idea what I am wearing right now, let alone what I wore yesterday.	|
+|	!C		|	=		|	No clothing. Quite a fashion statement, don't you think?	|
+|	Cpu		|	=		|	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.	|
 
 D = Dimensions
 ------

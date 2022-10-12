@@ -249,7 +249,7 @@ C = Clothing
 ------
 
 |	C		|	=		|	Clothing	|
-|:---		|	:---:	|	---:		|
+|:---		|	:---:	|	:---		|
 |	C++		|	=		|	I tend to wear conservative dress such as a business suit or worse, a tie.	|
 |	C+ 		|	=		|	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.	|
 |	C		|	=		|	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.	|
@@ -266,17 +266,16 @@ D = Dimensions
 
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent.
 ```
-D+++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
-D++:++ 		=	I'm a basketball/linebacker candidate.
-D+:+ 		=	I'm a little taller/rounder than most.
-D: 		=	I'm an average geek
-D-:-		=	I look up to most people. Everyone tells me to gain a few pounds.
-D--:-- 		=	I look up to damn near everybody. I tend to have to fight against a strong breeze.
-D---:--- 	=	I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.
++++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
+++:++ 		=	I'm a basketball/linebacker candidate.
++:+ 		=	I'm a little taller/rounder than most.
+: 		=	I'm an average geek
+-:-		=	I look up to most people. Everyone tells me to gain a few pounds.
+--:-- 		=	I look up to damn near everybody. I tend to have to fight against a strong breeze.
+---:--- 	=	I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.
 ```
 
 Example: D+++:--- indicates extremely tall and thin.
-
 
 CM = COMPUTERS
 ======
@@ -287,16 +286,16 @@ All modern geeks have some exposure to computers. If you don't know what a compu
 
 Most geeks identify themselves by their use of computers and computer networks. In order to quantify your geekiness level on computers, consult the following (consider the term 'computers' synonymous with 'computer network'). This category represents "general" computer aptitude. Categories below will get into specifics.
 
-```
-CM++++ 		=	I'll be first in line to get the new cybernetic interface installed into my skull.
-CM+++		=	You mean there is life outside of Internet? I haven't logged out in weeks. I answer questions on StackOverflow.
-CM++ 		=	Computers are a large part of my existence. I code in at least one language. I have StackOverflow bookmarked so I can find answers to my programming questions.
-CM+ 		=	Computers are fun and I enjoy using them. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'.
-CM		=	Computers are a tool, nothing more. I use it when it serves my purpose.
-CM- 		=	Anything more complicated than my calculator and I'm screwed.
-CM-- 		=	Where's the on switch?
-CM--- 		=	Computer? Not interested. That's those machines with demons in them, right?
-```
+|	CM		|	=		|	Computers	|
+|:---		|	:---:	|	:---		|
+|	CM++++ 	|	=		|	I'll be first in line to get the new cybernetic interface installed into my skull.	|
+|	CM+++	|	=		|	You mean there is life outside of Internet? I haven't logged out in weeks. I answer questions on StackOverflow.	|
+|	CM++ 	|	=		|	Computers are a large part of my existence. I code in at least one language. I have StackOverflow bookmarked so I can find answers to my programming questions.	|
+|	CM+		|	=		|	Computers are fun and I enjoy using them. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'.	|
+|	CM		|	=		|	Computers are a tool, nothing more. I use it when it serves my purpose.	|
+|	CM-		|	=		|	Anything more complicated than my calculator and I'm screwed.	|
+|	CM--	|	=		|	Where's the on switch?	|
+|	CM---	|	=		|	Computer? Not interested. That's those machines with demons in them, right?	|
 
 MW = Microsoft Windows
 ------

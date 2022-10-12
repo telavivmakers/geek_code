@@ -225,15 +225,15 @@ D = Dimensions
 
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent.
 
-|				|			|				|
-|:---			|	:---:	|	:---		|
-|	`+++:+++` 	|	=		|	I usually have to duck through doors/I take up three movie seats.	|
-|	`++:++` 	|	=		|	I'm a basketball/linebacker candidate.	|
-|	`+:+` 		|	=		|	I'm a little taller/rounder than most.	|
-|	`:` 		|	=		|	I'm an average geek	|
-|	`-:-`		|	=		|	I look up to most people. Everyone tells me to gain a few pounds.	|
-|	`--:--` 	|	=		|	I look up to damn near everybody. I tend to have to fight against a strong breeze.	|
-|	`---:---` 	|	=		|	I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.	|
+|				|			|	Vertical Extent							|	Horizontal Extent				|
+|:---			|	:---:	|	:---									|	:---							|
+|	`+++:+++` 	|	=		|	I usually have to duck through doors	|	I take up three movie seats.	|
+|	`++:++` 	|	=		|	I'm a basketball candidate.				|	I'm a linebacker candidate		|
+|	`+:+` 		|	=		|	I'm a little taller than most.			|	I'm a little rounder than most	|
+|	`:` 		|	=		|	Geek of average height					|	Geek of average width			|
+|	`-:-`		|	=		|	I look up to most people. 				|	Everyone tells me to gain a few pounds.	|
+|	`--:--` 	|	=		|	I look up to damn near everybody.		|	I tend to have to fight against a strong breeze.	|
+|	`---:---` 	|	=		|	I take a phone book with me when I go out so I can see to eat dinner. 	|	My bones are poking through my skin.	|
 
 Example: D+++:--- indicates extremely tall and thin.
 

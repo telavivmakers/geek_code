@@ -232,15 +232,15 @@ As facial hair plays some sort of role in geek space, serving as an expression o
 
 The hair code is divided into 5 parts, delimited by a colon. The parts are (Head : Beard : Brows : Mustache : Sideburns)
 
-```
-+++	=	Some people look at me and think I'm Sasquatch I have so much hair
-++	=	Amazing hair growth!
-+	=	Some hair growth
-	=	Average
--	=	Less than normal, partially shaved
---	=	Bald / Shaved
----	=	Alopecia / Unable to grow hair there
-```
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	+++		|	=		|	Some people look at me and think I'm Sasquatch I have so much hair	|
+|	++		|	=		|	Amazing hair growth!	|
+|	+		|	=		|	Some hair growth	|
+|			|	=		|	Average	|
+|	-		|	=		|	Less than normal, partially shaved	|
+|	--		|	=		|	Bald / Shaved	|
+|	---		|	=		|	Alopecia / Unable to grow hair there	|
 
 Thus `B_:++:+:++:_` means that geek has an average head of hair, with an impressive beard, thick brows, an equally impressive mustachio, and ordinary sideburns.
 
@@ -729,7 +729,7 @@ Pronouns should always be lowercase to prevent them from being mistaken for curr
 |	+++		|	=		|	Married, so I can get it (theoretically) whenever I want.	|
 |	++		|	=		|	I was once referred to as 'easy'. I have no idea where that might have come from though.	|
 |	+		|	=		|	I've had sex	|
-|	_		|	=		|	I've had sex. Oh! You mean with someone else? Then no.	|
+|			|	=		|	I've had sex. Oh! You mean with someone else? Then no.	|
 |	-		|	=		|	Not having sex by choice.	|
 |	--		|	=		|	People just aren't interested in dating me...	|
 |	---		|	=		|	Not having sex because I'm a nun or a priest.	|

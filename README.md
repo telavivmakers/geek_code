@@ -286,7 +286,7 @@ All modern geeks have some exposure to computers. If you don't know what a compu
 
 Most geeks identify themselves by their use of computers and computer networks. In order to quantify your geekiness level on computers, consult the following (consider the term 'computers' synonymous with 'computer network'). This category represents "general" computer aptitude. Categories below will get into specifics.
 
-|	CM		|	=		|	Computers	|
+|	Computers	|
 |:---		|	:---:	|	:---		|
 |	CM++++ 	|	=		|	I'll be first in line to get the new cybernetic interface installed into my skull.	|
 |	CM+++	|	=		|	You mean there is life outside of Internet? I haven't logged out in weeks. I answer questions on StackOverflow.	|

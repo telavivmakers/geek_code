@@ -210,19 +210,19 @@ A = Age
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10, wise guys.
 
-|:----------|--------------:|
-|	A++++	|	60 and up	|
-|	A+++	|	50-59		|
-|	A++		|	40-49		|
-|	A+		|	30-39		|
-|	A		|	25-29		|
-|	A-		|	20-24		|
-|	A--		|	15-19		|
-|	A---	|	10-14		|
-|	A----	|	9 and under (Geek in training?)	|
-|	A?		|	immortal?	|
-|	!A		|	it's none of your business how old I am	|
-|	A=##	|	Share your exact age by placing a number after. For example: A=42	|
+|:---		|				---:|
+|A++++	|	60 and up	|
+|A+++	|	50-59		|
+|A++	|	40-49		|
+|A+		|	30-39		|
+|A		|	25-29		|
+|A-		|	20-24		|
+|A--	|	15-19		|
+|A---	|	10-14		|
+|A----	|	9 and under (Geek in training?)	|
+|A?		|	immortal?	|
+|!A		|	it's none of your business how old I am	|
+|A=##	|	Share your exact age by placing a number after. For example: A=42	|
 
 B = Beardliness/Hair
 ------

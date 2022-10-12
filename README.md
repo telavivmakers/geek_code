@@ -169,20 +169,20 @@ A = Age
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10, wise guys.
 
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	A++++	|	=		|	60+			|
-|	A+++	|	=		|	50-59		|
-|	A++		|	=		|	40-49		|
-|	A+		|	=		|	30-39		|
-|	A		|	=		|	25-29		|
-|	A-		|	=		|	20-24		|
-|	A--		|	=		|	15-19		|
-|	A---	|	=		|	10-14		|
-|	A----	|	=		|	9 and under (Geek in training?)	|
-|	A?		|	=		|	immortal?	|
-|	!A		|	=		|	it's none of your business how old I am	|
-|	A=##	|	=		|	Share your exact age by placing a number after. For example: A=42	|
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`A++++`		|	=		|	60+			|
+|	`A+++`		|	=		|	50-59		|
+|	`A++`		|	=		|	40-49		|
+|	`A+`		|	=		|	30-39		|
+|	`A`			|	=		|	25-29		|
+|	`A-`		|	=		|	20-24		|
+|	`A--`		|	=		|	15-19		|
+|	`A---`		|	=		|	10-14		|
+|	`A----`		|	=		|	9 and under (Geek in training?)	|
+|	`A?`		|	=		|	immortal?	|
+|	`!A`		|	=		|	it's none of your business how old I am	|
+|	`A=##`		|	=		|	Share your exact age by placing a number after. For example: A=42	|
 
 B = Beardliness/Hair
 ------
@@ -191,15 +191,15 @@ As facial hair plays some sort of role in geek space, serving as an expression o
 
 The hair code is divided into 5 parts, delimited by a colon. The parts are (Head : Beard : Brows : Mustache : Sideburns)
 
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	+++		|	=		|	Some people look at me and think I'm Sasquatch I have so much hair	|
-|	++		|	=		|	Amazing hair growth!	|
-|	+		|	=		|	Some hair growth	|
-|			|	=		|	Average	|
-|	-		|	=		|	Less than normal, partially shaved	|
-|	--		|	=		|	Bald / Shaved	|
-|	---		|	=		|	Alopecia / Unable to grow hair there	|
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`+++`		|	=		|	Some people look at me and think I'm Sasquatch I have so much hair	|
+|	`++`		|	=		|	Amazing hair growth!	|
+|	`+`			|	=		|	Some hair growth	|
+|				|	=		|	Average	|
+|	`-`			|	=		|	Less than normal, partially shaved	|
+|	`--`		|	=		|	Bald / Shaved	|
+|	`---`		|	=		|	Alopecia / Unable to grow hair there	|
 
 Thus `B_:++:+:++:_` means that geek has an average head of hair, with an impressive beard, thick brows, an equally impressive mustachio, and ordinary sideburns.
 
@@ -207,32 +207,33 @@ Thus `B_:++:+:++:_` means that geek has an average head of hair, with an impress
 C = Clothing
 ------
 
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	C++		|	=		|	I tend to wear conservative dress such as a business suit or worse, a tie.	|
-|	C+ 		|	=		|	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.	|
-|	C		|	=		|	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.	|
-|	C-		| 	=		|	I'm usually in jeans and a t-shirt.	|
-|	C--		|	=		|	My t-shirts go a step further and have a trendy political message on them.	|
-|	C---	|	=		|	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.	|
-|	Cx		|	=		|	Cross Dresser	|
-|	C?		|	=		|	I have no idea what I am wearing right now, let alone what I wore yesterday.	|
-|	!C		|	=		|	No clothing. Quite a fashion statement, don't you think?	|
-|	Cpu		|	=		|	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.	|
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`C++`		|	=		|	I tend to wear conservative dress such as a business suit or worse, a tie.	|
+|	`C+` 		|	=		|	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.	|
+|	`C`			|	=		|	I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.	|
+|	`C-`		| 	=		|	I'm usually in jeans and a t-shirt.	|
+|	`C--`		|	=		|	My t-shirts go a step further and have a trendy political message on them.	|
+|	`C---`		|	=		|	Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.	|
+|	`Cx`		|	=		|	Cross Dresser	|
+|	`C?`		|	=		|	I have no idea what I am wearing right now, let alone what I wore yesterday.	|
+|	`!C`		|	=		|	No clothing. Quite a fashion statement, don't you think?	|
+|	`Cpu`		|	=		|	I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.	|
 
 D = Dimensions
 ------
 
 Geeks come in many shapes and sizes. Shape code is divided into two parts delimited by a colon, the first indicating vertical, and the second horizontal extent.
-```
-+++:+++ 	=	I usually have to duck through doors/I take up three movie seats.
-++:++ 		=	I'm a basketball/linebacker candidate.
-+:+ 		=	I'm a little taller/rounder than most.
-: 		=	I'm an average geek
--:-		=	I look up to most people. Everyone tells me to gain a few pounds.
---:-- 		=	I look up to damn near everybody. I tend to have to fight against a strong breeze.
----:--- 	=	I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.
-```
+
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`+++:+++` 	|	=		|	I usually have to duck through doors/I take up three movie seats.	|
+|	`++:++` 	|	=		|	I'm a basketball/linebacker candidate.	|
+|	`+:+` 		|	=		|	I'm a little taller/rounder than most.	|
+|	`:` 		|	=		|	I'm an average geek	|
+|	`-:-`		|	=		|	I look up to most people. Everyone tells me to gain a few pounds.	|
+|	`--:--` 	|	=		|	I look up to damn near everybody. I tend to have to fight against a strong breeze.	|
+|	`---:---` 	|	=		|	I take a phone book with me when I go out so I can see to eat dinner. My bones are poking through my skin.	|
 
 Example: D+++:--- indicates extremely tall and thin.
 
@@ -245,16 +246,16 @@ All modern geeks have some exposure to computers. If you don't know what a compu
 
 Most geeks identify themselves by their use of computers and computer networks. In order to quantify your geekiness level on computers, consult the following (consider the term 'computers' synonymous with 'computer network'). This category represents "general" computer aptitude. Categories below will get into specifics.
 
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	CM++++ 	|	=		|	I'll be first in line to get the new cybernetic interface installed into my skull.	|
-|	CM+++	|	=		|	You mean there is life outside of Internet? I haven't logged out in weeks. I answer questions on StackOverflow.	|
-|	CM++ 	|	=		|	Computers are a large part of my existence. I code in at least one language. I have StackOverflow bookmarked so I can find answers to my programming questions.	|
-|	CM+		|	=		|	Computers are fun and I enjoy using them. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'.	|
-|	CM		|	=		|	Computers are a tool, nothing more. I use it when it serves my purpose.	|
-|	CM-		|	=		|	Anything more complicated than my calculator and I'm screwed.	|
-|	CM--	|	=		|	Where's the on switch?	|
-|	CM---	|	=		|	Computer? Not interested. That's those machines with demons in them, right?	|
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`CM++++` 	|	=		|	I'll be first in line to get the new cybernetic interface installed into my skull.	|
+|	`CM+++`		|	=		|	You mean there is life outside of Internet? I haven't logged out in weeks. I answer questions on StackOverflow.	|
+|	`CM++` 		|	=		|	Computers are a large part of my existence. I code in at least one language. I have StackOverflow bookmarked so I can find answers to my programming questions.	|
+|	`CM+`		|	=		|	Computers are fun and I enjoy using them. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'.	|
+|	`CM`		|	=		|	Computers are a tool, nothing more. I use it when it serves my purpose.	|
+|	`CM-`		|	=		|	Anything more complicated than my calculator and I'm screwed.	|
+|	`CM--`		|	=		|	Where's the on switch?	|
+|	`CM---`		|	=		|	Computer? Not interested. That's those machines with demons in them, right?	|
 
 MW = Microsoft Windows
 ------
@@ -265,22 +266,23 @@ Rate your Windows geekiness, and if desired you can include the versions of Wind
 
 For example: MW11+++ means that you are very proficient with Windows 11.
 
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	MW++++	|	=		|	I am a MS Windows programming god. I have designed/compiled 1+ .exe, .msi, or .dll	|
-|	MW+++	|	=		|	I write/compile Microsoft code.	|
-|	MW++	|	=		|	I have 'hacked' my Windows REGEDIT to unlock or fix various bugs on my machine.	|
-|	MW+		|	=		|	I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. I have a hundred fonts that I've installed but never used.	|
-|	MW		|	=		|	I only use Windows for one specific purpose (like running Steam games), but I don't have to like it.	|
-|	MW-		|	=		|	I'm still trying to install MS Windows and have at least one peripheral that never works right	|
-|	MW--	|	=		|	MS Windows is a joke operating system. No one can find the error codes anymore, and even if they could no one can read hexadecimal to understand them!	|
-|	MW---	|	=		|	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.	|
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`MW++++`	|	=		|	I am a MS Windows programming god. I have designed/compiled 1+ .exe, .msi, or .dll	|
+|	`MW+++`		|	=		|	I write/compile Microsoft code.	|
+|	`MW++`		|	=		|	I have 'hacked' my Windows REGEDIT to unlock or fix various bugs on my machine.	|
+|	`MW+`		|	=		|	I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. I have a hundred fonts that I've installed but never used.	|
+|	`MW`		|	=		|	I only use Windows for one specific purpose (like running Steam games), but I don't have to like it.	|
+|	`MW-`		|	=		|	I'm still trying to install MS Windows and have at least one peripheral that never works right	|
+|	`MW--`		|	=		|	MS Windows is a joke operating system. No one can find the error codes anymore, and even if they could no one can read hexadecimal to understand them!	|
+|	`MW---`		|	=		|	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.	|
 
 U = Unix
 ------
 
 It seems that a Unix-based operating system is the OS of choice among most geeks. In addition to telling us about your Unix abilities, you can also show which specific Unix OS you are using. To accomplish this, you include a letter showing the brand with your rating. For example: UL++++ would indicate a sysadmin running Linux.
 
+````
 	U = Unix
 		UL = Linux
 			ULA = Arch
@@ -304,32 +306,32 @@ It seems that a Unix-based operating system is the OS of choice among most geeks
 		UI = IRIX
 		UC = SCO Unix
 	U* = Some other one not listed
-
+````
 some examples
 
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	U++++	|	=		|	I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an "accidental" computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.	|
-|	U+++	|	=		|	I don't need to crack /etc/passwd because I just modified su so that it doesn't prompt me. The admin staff doesn't know I'm here.	|
-|	U++		|	=		|	I've get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to.	|
-|	U+		|	=		|	I enjoy shell scripting and understand the fundamental importance of the difference between ' and `	|
-|	U		|	=		|	I have a Unix account to do my stuff in	|
-|	U-		|	=		|	I have a VMS account.	|
-|	U--		|	=		|	I've seen Unix and didn't like it. DEC rules!	|
-|	U---	|	=		|	Unix geeks are actually nerds in disguise.	|
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`U++++`		|	=		|	I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an "accidental" computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.	|
+|	`U+++`		|	=		|	I don't need to crack /etc/passwd because I just modified su so that it doesn't prompt me. The admin staff doesn't know I'm here.	|
+|	`U++`		|	=		|	I've get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to.	|
+|	`U+`		|	=		|	I enjoy shell scripting and understand the fundamental importance of the difference between ' and `	|
+|	`U`			|	=		|	I have a Unix account to do my stuff in	|
+|	`U-`		|	=		|	I have a VMS account.	|
+|	`U--`		|	=		|	I've seen Unix and didn't like it. DEC rules!	|
+|	`U---`		|	=		|	Unix geeks are actually nerds in disguise.	|
 
 MC = Mac/Apple
 ------
 
 Many geeks have jumped the PC ship and moved over to using Apple products. Give notification of your Mac rating.
 
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	MC++	|	=		|	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I'll write the damn software to do it.	|
-|	MC+		|	=		|	A Mac has it's uses and I use it quite often.	|
-|	MC 		|	=		|	I use a Mac, but I'm pretty indifferent about it.	|
-|	MC- 	|	=		|	Macs suck. All real geeks have a character prompt.	|
-|	MC--	| 	= 		|	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.	|
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`MC++`		|	=		|	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I'll write the damn software to do it.	|
+|	`MC+`		|	=		|	A Mac has it's uses and I use it quite often.	|
+|	`MC` 		|	=		|	I use a Mac, but I'm pretty indifferent about it.	|
+|	`MC-` 		|	=		|	Macs suck. All real geeks have a character prompt.	|
+|	`MC--`		| 	= 		|	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.	|
 
 L = Programming Languages
 ------

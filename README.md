@@ -639,43 +639,46 @@ RPG = Roleplaying
 ------
 
 Role-playing games such as Dungeons & Dragons have long been a part of the traditional geek life. Because geeks often become so involved in their role-playing that they lose touch with reality, include one of the following role-playing codes.
-```
-RPG+++	=	I've written and published my own gaming materials.
-RPG++	=	There is no life outside the role of the die. I know all of piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players.
-RPG+	=	I've got my weekly sessions set up and a character that I know better than I know myself.
-RPG	=	Role-Playing? That's just something to do to kill a Saturday afternoon
-RPG-	=	Gosh, what an utter waste of time!
-RPG--	=	Role-Players are instruments of pure evil.
-RPG---	=	I work for T$R.
-RPG*	=	I thought life WAS role-playing?
-```
+
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	RPG+++	|	=		|	I've written and published my own gaming materials.	|
+|	RPG++	|	=		|	There is no life outside the role of the die. I know all of piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players.	|
+|	RPG+	|	=		|	I've got my weekly sessions set up and a character that I know better than I know myself.	|
+|	RPG		|	=		|	Role-Playing? That's just something to do to kill a Saturday afternoon	|
+|	RPG-	|	=		|	Gosh, what an utter waste of time!	|
+|	RPG--	|	=		|	Role-Players are instruments of pure evil.	|
+|	RPG---	|	=		|	I work for T$R.	|
+|	RPG?	|	=		|	I thought life WAS role-playing?	|
+
 
 BK = Books
 ------
 
 In addition (or maybe on the other hand), many geeks have lives that revolve around books.
 
-```
-BK++++	=	I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I've ordered books from another country to get my Favorite Author Fix.
-BK+++	=	I consume a few books a week as part of a staple diet.
-BK++	=	I find the time to get through at least one new book a month.
-BK+	=	I enjoy reading, but don't get the time very often.
-BK	=	I read the newspaper and the occasional book.
-BK-	=	I read when there is no other way to get the information.
-BK--	=	I take in knowledge by osmosis
-BK---	=	I did not actually READ the geek code, I just had someone tell me.
-```
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	BK++++	|	=		|	I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I've ordered books from another country to get my Favorite Author Fix.	|
+|	BK+++	|	=		|	I consume a few books a week as part of a staple diet.	|
+|	BK++	|	=		|	I find the time to get through at least one new book a month.	|
+|	BK+		|	=		|	I enjoy reading, but don't get the time very often.	|
+|	BK		|	=		|	I read the newspaper and the occasional book.	|
+|	BK-		|	=		|	I read when there is no other way to get the information.	|
+|	BK--	|	=		|	I take in knowledge by osmosis	|
+|	BK---	|	=		|	I did not actually READ the geek code, I just had someone tell me.	|
 
 K = Comics
 ------
 
-Subcategories
-```
-	KD	=	Dilbert
-	KX	=	XKCD
-	KM	=	Manga
-	KM!	=	Hentai
-```
+|			|			|			|
+|:---		|	:---:	|	:---	|
+|	KD		|	=		|	Dilbert	|
+|	KX		|	=		|	XKCD	|
+|	KM		|	=		|	Manga	|
+|	KM!		|	=		|	Hentai	|
+
+You may append the code for comics with a modifier from --- to +++ to indicate how much of a fan you are.
 
 LIFESTYLE
 ======
@@ -693,18 +696,17 @@ R = Residence
 
 Tell us about your geeky home.
 
-```
-R+++	=	Living in a cave with 47 computers and an Internet feed, located near a Dominoes pizza. See !d.
-R++	=	Living alone, get out once a week to buy food, no more than once a month to do laundry. All surfaces covered.
-R+	=	Friends come over to visit every once in a while to talk about Geek things. There is a place for them to sit.
-R	=	Living with one or more registered Geeks.
-R-	=	Living with one or more people who know nothing about being a Geek and refuse to watch geeky shows on TV.
-R--	=	Married (or living romantically with someone.)
-R---	=	Married with children – Al Bundy can sympathize
-
-R! I am stuck living with my parents!
-R* I'm not sure where I live anymore. This lab/workplace seems like home to me.
-```
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	R+++	|	=		|	Living in a cave with 47 computers and an Internet feed, located near a Dominoes pizza.	|
+|	R++		|	=		|	Living alone, get out once a week to buy food, no more than once a month to do laundry. All surfaces covered.	|
+|	R+		|	=		|	Friends come over to visit every once in a while to talk about Geek things. There is a place for them to sit.	|
+|	R		|	=		|	Living with one or more registered Geeks.	|
+|	R-		|	=		|	Living with one or more people who know nothing about being a Geek and refuse to watch geeky shows on TV.	|
+|	R--		|	=		|	Married (or living romantically with someone.)	|
+|	R---	|	=		|	Married with children – Al Bundy can sympathize	|
+|	R! 		|	=		|	I am stuck living with my parents!	|
+|	R? 		|	=		|	I'm not sure where I live anymore. This lab/workplace seems like home to me.	|
 
 RELATIONSHIPS, SEX, AND GENDER
 ======
@@ -719,21 +721,21 @@ Share your pronouns followed by the modifier to show how succesful you have been
 
 Pronouns should always be lowercase to prevent them from being mistaken for current or future geekcode (which is capitalized in most cases).
 
-```
-*	=	I'm a pervert
-**	=	I've been known to make perverts look like angels.
-++++	=	I've got a few rugrats to prove I've been there.
-+++	=	Married, so I can get it (theoretically) whenever I want.
-++	=	I was once referred to as 'easy'. I have no idea where that might have come from though.
-+	=	I've had sex
-_	=	I've had sex. Oh! You mean with someone else? Then no.
--	=	Not having sex by choice.
---	=	People just aren't interested in dating me...
----	=	Not having sex because I'm a nun or a priest.
-%	=	signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'.
-!	=	None of your business what my sex life is like!
->+	=	Desperate for experience
-```
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	*		|	=		|	I'm a pervert	|
+|	**		|	=		|	I've been known to make perverts look like angels.	|
+|	++++	|	=		|	I've got a few rugrats to prove I've been there.	|
+|	+++		|	=		|	Married, so I can get it (theoretically) whenever I want.	|
+|	++		|	=		|	I was once referred to as 'easy'. I have no idea where that might have come from though.	|
+|	+		|	=		|	I've had sex	|
+|	_		|	=		|	I've had sex. Oh! You mean with someone else? Then no.	|
+|	-		|	=		|	Not having sex by choice.	|
+|	--		|	=		|	People just aren't interested in dating me...	|
+|	---		|	=		|	Not having sex because I'm a nun or a priest.	|
+|	%		|	=		|	signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'.	|
+|	!		|	=		|	None of your business what my sex life is like!	|
+|	>+		|	=		|	Desperate for experience	|
 
 For example:
 

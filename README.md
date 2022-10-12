@@ -380,13 +380,12 @@ IO = Input/Output
 
 How do you take your data? How do you present your data to others? Input/Output is a single entry with two sections delimited by a colon describing how user-friendly or not you are.
 
-`Input Side`
 |			|			|	Input		|		Output		|
 |:---		|	:---:	|	:---		| 	:---			|
 |	`+++`	|	=		|	I wrote my own database system as current performance limitations were irking me	|	I am a java bean 	|
 |	`++`	|	=		|				|					|
 |	`+`		|	=		|				|					|
-|			|	=		|				|					|
+|			|	=		|	Uses mouse and keyboard equally	|	Uses mouse and keyboard equally	|
 |	`-`		|	=		|				|					|
 |	`--`	|	=		|				|	My user interface is a text-only Terminal. Don't even touch the mouse	|
 |	`---`	|	=		|	Keep the dirty stuff under the hood, building a cool GUI is where its at	|	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques	|
@@ -482,9 +481,9 @@ Subcategories (give yourself a geek point if your first thought was 'actually, s
 |	PS--	|	=		|	Oppose sex education, abortion rights, gay rights. Rush Limbaugh is my spokesman.	|
 |	PS---	|	=		|	Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in '96.	|
 
+
 Politics and Economic Issues
 ------
-
 Note this category has been reversed as of v4 to maintain the loose left+ and right- association from the PS category.
 
 |			|			|				|

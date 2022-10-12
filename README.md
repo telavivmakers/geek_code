@@ -338,41 +338,41 @@ L = Programming Languages
 
 List a series of languages and your facility/opinion thereupon, for example Lpy++/LR+ would indicate high proficiency in python and above average knowledge of R.
 
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	Lasm 	|	=		|	Assembly			|
-|	Lbash	|	=		|	Bourne Again Shell	|
-|	LC		|	=		|	C programming lang	|
-|	LCpp	|	=		|	C plus plus			|
-|	LC#		|	=		|	C sharp				|
-|	Lgo 	|	=		|	Go					|
-|	Lj		|	=		|	Java				|
-|	Ljs		|	=		|	Javascript			|
-|	Llll	|	=		|	Low-level Lisp		|
-|	Llua	|	=		|	Lua					|
-|	LM 		|	=		|	MATLAB				|
-|	LoC 	|	=		|	Objective C			|
-|	LP 		|	=		|	Perl				|
-|	Lphp	|	=		|	PHP					|
-|	Lpy		|	=		|	Python				|
-|	LQ#		|	=		|	Q sharp				|
-|	LR 		|	=		|	R					|
-|	LRs		|	=		|	Rust				|
-|	LRu 	|	=		|	Ruby				|
-|	Lsql 	|	=		|	SQL					|
-|	Lvb		|	=		|	Visual Basic		|
-|	Lwps	|	=		|	Windows PowerShell	|
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`Lasm` 		|	=		|	Assembly			|
+|	`Lbash`		|	=		|	Bourne Again Shell	|
+|	`LC`		|	=		|	C programming lang	|
+|	`LCpp`		|	=		|	C plus plus			|
+|	`LC#`		|	=		|	C sharp				|
+|	`Lgo` 		|	=		|	Go					|
+|	`Lj`		|	=		|	Java				|
+|	`Ljs`		|	=		|	Javascript			|
+|	`Llll`		|	=		|	Low-level Lisp		|
+|	`Llua`		|	=		|	Lua					|
+|	`LM` 		|	=		|	MATLAB				|
+|	`LoC` 		|	=		|	Objective C			|
+|	`LP` 		|	=		|	Perl				|
+|	`Lphp`		|	=		|	PHP					|
+|	`Lpy`		|	=		|	Python				|
+|	`LQ#`		|	=		|	Q sharp				|
+|	`LR` 		|	=		|	R					|
+|	`LRs`		|	=		|	Rust				|
+|	`LRu`		|	=		|	Ruby				|
+|	`Lsql` 		|	=		|	SQL					|
+|	`Lvb`		|	=		|	Visual Basic		|
+|	`Lwps`		|	=		|	Windows PowerShell	|
 
 For example:
 
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	Lpy+++	|	=		|	I am Guido	|
-|	Lpy++	|	=		|	I maintain/contribute to the python code base	|
-|	Lpy+	|	=		|	I am a pythonista – love python and use it all the time , consider whether things I say are 'pythonic'	|
-|	Lpy		|	=		|	I am neutral on python , its ok for some things.	|
-|	Lpy-	|	=		|	Python is for hobbies	|
-|	Lpy-- 	|	=		|	I do not like python, it is an ugly aberration for people incapable of grasping the subtle power of [C|Lisp|assembly]	|
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`Lpy+++`	|	=		|	I am Guido	|
+|	`Lpy++`		|	=		|	I maintain/contribute to the python code base	|
+|	`Lpy+`		|	=		|	I am a pythonista – love python and use it all the time , consider whether things I say are 'pythonic'	|
+|	`Lpy`		|	=		|	I am neutral on python , its ok for some things.	|
+|	`Lpy-`		|	=		|	Python is for hobbies	|
+|	`Lpy--` 	|	=		|	I do not like python, it is an ugly aberration for people incapable of grasping the subtle power of [C|Lisp|assembly]	|
 
 
 IO = Input/Output
@@ -381,26 +381,15 @@ IO = Input/Output
 How do you take your data? How do you present your data to others? Input/Output is a single entry with two sections delimited by a colon describing how user-friendly or not you are.
 
 `Input Side`
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	IO+++	|	=		|	I wrote my own database system as current performance limitations were irking me	|
-|	IO++	|	=		|				|
-|	IO+		|	=		|				|
-|	IO		|	=		|				|
-|	IO-		|	=		|				|
-|	IO--	|	=		|				|
-|	IO---	|	=		|	Keep the dirty stuff under the hood, building a cool GUI is where its at	|
-
-`Output Side`
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	IO+++	|	=		|	I am a java bean	|
-|	IO++	|	=		|				|
-|	IO+		|	=		|				|
-|	IO		|	=		|				|
-|	IO-		|	=		|				|
-|	IO--	|	=		|	My user interface is a text-only Terminal. Don't even touch the mouse	|
-|	IO---	|	=		|	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques	|
+|			|			|	Input		|		Output		|
+|:---		|	:---:	|	:---		| 	:---			|
+|	`+++`	|	=		|	I wrote my own database system as current performance limitations were irking me	|	I am a java bean 	|
+|	`++`	|	=		|				|					|
+|	`+`		|	=		|				|					|
+|			|	=		|				|					|
+|	`-`		|	=		|				|					|
+|	`--`	|	=		|				|	My user interface is a text-only Terminal. Don't even touch the mouse	|
+|	`---`	|	=		|	Keep the dirty stuff under the hood, building a cool GUI is where its at	|	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques	|
 
 For example: IO+++:--- likely means you send and recieve data in as raw a form as possible.
 

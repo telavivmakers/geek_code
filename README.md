@@ -98,46 +98,18 @@ Special characters
 
 A few special characters allow for the (ultimately wrong but practically useful) notion that geeks can seldom be strictly quantified.
 
-|			|			|				|
-|:---		|	:---:	|	:---		|
-|	+		|	=		|	indicates an increased amount of geekiness in a particular area. Each additional + raises the level further.	|
-|	_		|	=		|	(Optional) indicates a baseline answer. _ is one step above -, and one step below +. Therefore, _ is never combined with + or -	. For example, instead of leaving it blank/empty, a geek of average shape and size could write d_:_ to indicate they are at the baseline.	|
-|	-		|	=		|	indicates a decreased amount of geekiness in a particular area. Each additional - reduces the level further.	|
-|	@		|	=		|	for this variable, said trait is not very rigid, may change with time or with individual interaction. For example, Geeks who happen to very much enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as TSTpic+++@.	|
-
-```
-()	=	for indicating "cross-overs" or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly "C+") could use C+(—).
-```
-
-@ is different from () in that () has finite limits within the category, while @ ranges all over.
-
-```
-$	=	Indicates that this particular category is done for a living.
-```
-
-For example, UL+++$ indicates that the person utilizes Unix and gets paid for it. Quite a lucky geek, for sure.
-
-```
-^	=	Indicates that the geek has a degree or certificate in this area or field.
-```
-
-For example, GCS^/GMU/GTW^ indicates that this is a Geek of Computer Science (with a degree in this field), a Geek of Music, and a Geek of Technical Writing (with a certificate in this field)
-
-```
->	=	for 'wannabe' ratings. Indicating that while the geek is currently at one rating, they are striving to reach another.
-```
-
-For example, UL+++>$ indicating a geek that is currently Linux savvy, but wants to someday make money at it.
-
-```
-?	=	Unless stated otherwise within the specific category, the ? is placed after the category identifier and indicates that the geek has no knowledge about that specific category.
-```
-
-```
-!	=	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate.
-```
-
-For example, !MC would be a person that just plain refuses to have anything to do with Macintosh, while MC? would be a person that doesn't even know what Macintosh is.
+|		|			|				|
+|:---	|	:---:	|	:---		|
+|	+	|	=		|	indicates an increased amount of geekiness in a particular area. Each additional + raises the level further.	|
+|	_	|	=		|	(Optional) indicates a baseline answer. _ is one step above -, and one step below +. Therefore, _ is never combined with + or -	. For example, instead of leaving it blank/empty, a geek of average shape and size could write d_:_ to indicate they are at the baseline.	|
+|	-	|	=		|	indicates a decreased amount of geekiness in a particular area. Each additional - reduces the level further.	|
+|	@	|	=		|	for this variable, said trait is not very rigid, may change with time or with individual interaction. For example, Geeks who happen to very much enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as TSTpic+++@.	|
+|	()	|	=		|	for indicating "cross-overs" or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly "C+") could use C+(—). Note: @ is different from () in that () has finite limits within the category, while @ ranges all over.	|
+|	$	|	=		|	Indicates that this particular category is done for a living. For example, UL+++$ indicates that the person utilizes Unix and gets paid for it. Quite a lucky geek, for sure.	|
+|	^	|	=		|	Indicates that the geek has a degree or certificate in this area or field. For example, GCS^/GMU/GTW^ indicates that this is a Geek of Computer Science (with a degree in this field), a Geek of Music, and a Geek of Technical Writing (with a certificate in this field)	|
+|	>	|	=		|	for 'wannabe' ratings. Indicating that while the geek is currently at one rating, they are striving to reach another. For example, UL+++>$ indicating a geek that is currently Linux savvy, but wants to someday make money at it.	|
+|	?	|	=		|	Unless stated otherwise within the specific category, the ? is placed after the category identifier and indicates that the geek has no knowledge about that specific category.	|
+|	!	|	=		|	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate. For example, !MC would be a person that just plain refuses to have anything to do with Macintosh, while MC? would be a person that doesn't even know what Macintosh is.	|
 
 The categories
 ======

@@ -161,7 +161,7 @@ G = GEEK OF - training/degree/interest/job
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a "G" to denote "GEEK", followed by one or two letters to denote the geek's occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
 |				|	Geek Of		|										|
-|:------------- |:-------------:| -------------------------------------:|
+|:------------- |:-------------:|:--------------------------------------|
 |	GAI			|	=			|	Geek of Artificial Intelligence 	|
 |	GBIO		|	=			|	Geek of Biomedical Engineering		|
 |	GB			|	=			|	Geek of Business					|
@@ -192,13 +192,11 @@ To start a code, a geek must declare himself or herself to be a geek. To do this
 |	GSS 		|	=			|	Geek of Social Science				|
 |	GTW 		|	=			|	Geek of Technical Writing			|
 |	GVDD		|	=			|	Geek of Video Game Design			|
-|	GO 			|	=			|	Geek of Other.
-									Some types of geeks deviate from the normal geek activities.
-									This is encouraged as true geeks come from all walks of life.
-|	GU 	=	|	Geek of 'Undecided'. This is a popular vocation with incoming freshmen.
-|	G! 	=	|	Geek of no qualifications nor interests; likely, cannot exist
-|	GAT 	=	|	Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.
-```
+|	GO 			|	=			|	Geek of Other. Some types of geeks deviate from the normal geek activities.	This is encouraged as true geeks come from all walks of life.	|
+|	GU			|	=			|	Geek of 'Undecided'. This is a popular vocation with incoming freshmen.	|
+|	G!			|	=			|	Geek of no qualifications nor interests; likely, cannot exist	|
+|	GAT			|	=			|	Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.	|
+
 
 WETWARE (A,B,C,D) (age/beard/clothing/dimensions)
 ======

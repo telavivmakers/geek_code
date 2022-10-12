@@ -160,42 +160,42 @@ G = GEEK OF - training/degree/interest/job
 
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a "G" to denote "GEEK", followed by one or two letters to denote the geek's occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
-|	Geek		|	Of			|										|
-|:------------- |:-------------:|:--------------------------------------|
-|	GAI			|	=			|	Geek of Artificial Intelligence 	|
-|	GBIO		|	=			|	Geek of Biomedical Engineering		|
-|	GB			|	=			|	Geek of Business					|
-|	GC			|	=			|	Geek of Classics					|
-|	GCA			|	=			|	Geek of Commercial Arts				|
-|	GCM			|	=			|	Geek of Computer Management			|
-|	GCS			|	=			|	Geek of Computer Science			|
-|	GCC			|	=			|	Geek of Communications				|
-|	GDS			|	=			|	Geek of Data Science				|
-|	GDVO		|	=			|	Geek of DevOps						|
-|	GE			|	=			|	Geek of Engineering					|
-|	GED			|	=			|	Geek of Education					|
-|	GFA			|	=			|	Geek of Fine Arts					|
-|	GFS			|	=			|	Geek of Forensic Science			|
-|	GG			|	=			|	Geek of Government					|
-|	GH			|	=			|	Geek of Humanities					|
-|	GIT			|	=			|	Geek of Information Technology		|
-|	GJ			|	=			|	Geek of Jurisprudence (Law)			|
-|	GLS			|	=			|	Geek of Library Science				|
-|	GL 			|	=			|	Geek of Literature					|
-|	GMC 		|	=			|	Geek of Mass Communications			|
-|	GM			|	=			|	Geek of Math						|
-|	GMD 		|	=			|	Geek of Medicine					|
-|	GMU			|	=			|	Geek of Music						|
-|	GPA 		|	=			|	Geek of Performing Arts				|
-|	GP 			|	=			|	Geek of Philosophy					|
-|	GS			|	=			|	Geek of Science						|
-|	GSS 		|	=			|	Geek of Social Science				|
-|	GTW 		|	=			|	Geek of Technical Writing			|
-|	GVDD		|	=			|	Geek of Video Game Design			|
-|	GO 			|	=			|	Geek of Other. Some types of geeks deviate from the normal geek activities.	This is encouraged as true geeks come from all walks of life.	|
-|	GU			|	=			|	Geek of 'Undecided'. This is a popular vocation with incoming freshmen.	|
-|	G!			|	=			|	Geek of no qualifications nor interests; likely, cannot exist	|
-|	GAT			|	=			|	Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.	|
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	GAI		|	=		|	Geek of Artificial Intelligence 	|
+|	GBIO	|	=		|	Geek of Biomedical Engineering		|
+|	GB		|	=		|	Geek of Business					|
+|	GC		|	=		|	Geek of Classics					|
+|	GCA		|	=		|	Geek of Commercial Arts				|
+|	GCM		|	=		|	Geek of Computer Management			|
+|	GCS		|	=		|	Geek of Computer Science			|
+|	GCC		|	=		|	Geek of Communications				|
+|	GDS		|	=		|	Geek of Data Science				|
+|	GDVO	|	=		|	Geek of DevOps						|
+|	GE		|	=		|	Geek of Engineering					|
+|	GED		|	=		|	Geek of Education					|
+|	GFA		|	=		|	Geek of Fine Arts					|
+|	GFS		|	=		|	Geek of Forensic Science			|
+|	GG		|	=		|	Geek of Government					|
+|	GH		|	=		|	Geek of Humanities					|
+|	GIT		|	=		|	Geek of Information Technology		|
+|	GJ		|	=		|	Geek of Jurisprudence (Law)			|
+|	GLS		|	=		|	Geek of Library Science				|
+|	GL 		|	=		|	Geek of Literature					|
+|	GMC 	|	=		|	Geek of Mass Communications			|
+|	GM		|	=		|	Geek of Math						|
+|	GMD 	|	=		|	Geek of Medicine					|
+|	GMU		|	=		|	Geek of Music						|
+|	GPA 	|	=		|	Geek of Performing Arts				|
+|	GP 		|	=		|	Geek of Philosophy					|
+|	GS		|	=		|	Geek of Science						|
+|	GSS 	|	=		|	Geek of Social Science				|
+|	GTW 	|	=		|	Geek of Technical Writing			|
+|	GVDD	|	=		|	Geek of Video Game Design			|
+|	GO 		|	=		|	Geek of Other. Some types of geeks deviate from the normal geek activities.	This is encouraged as true geeks come from all walks of life.	|
+|	GU		|	=		|	Geek of 'Undecided'. This is a popular vocation with incoming freshmen.	|
+|	G!		|	=		|	Geek of no qualifications nor interests; likely, cannot exist	|
+|	GAT		|	=		|	Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.	|
 
 
 WETWARE (A,B,C,D) (age/beard/clothing/dimensions)
@@ -210,8 +210,8 @@ A = Age
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10, wise guys.
 
-|	A		|	=		|	Age			|
-|:---		|	:---:	|		:---	|
+|			|			|				|
+|:---		|	:---:	|	:---		|
 |	A++++	|	=		|	60+			|
 |	A+++	|	=		|	50-59		|
 |	A++		|	=		|	40-49		|
@@ -248,7 +248,7 @@ Thus `B_:++:+:++:_` means that geek has an average head of hair, with an impress
 C = Clothing
 ------
 
-|	C		|	=		|	Clothing	|
+|			|			|				|
 |:---		|	:---:	|	:---		|
 |	C++		|	=		|	I tend to wear conservative dress such as a business suit or worse, a tie.	|
 |	C+ 		|	=		|	Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.	|
@@ -286,7 +286,7 @@ All modern geeks have some exposure to computers. If you don't know what a compu
 
 Most geeks identify themselves by their use of computers and computer networks. In order to quantify your geekiness level on computers, consult the following (consider the term 'computers' synonymous with 'computer network'). This category represents "general" computer aptitude. Categories below will get into specifics.
 
-|	Computers	|
+|			|			|				|
 |:---		|	:---:	|	:---		|
 |	CM++++ 	|	=		|	I'll be first in line to get the new cybernetic interface installed into my skull.	|
 |	CM+++	|	=		|	You mean there is life outside of Internet? I haven't logged out in weeks. I answer questions on StackOverflow.	|
@@ -306,16 +306,16 @@ Rate your Windows geekiness, and if desired you can include the versions of Wind
 
 For example: MW11+++ means that you are very proficient with Windows 11.
 
-```
-MW++++	=	I am a MS Windows programming god. I have designed/compiled 1+ .exe, .msi, or .dll
-MW+++	=	I write/compile Microsoft code.
-MW++	=	I have 'hacked' my Windows REGEDIT to unlock or fix various bugs on my machine.
-MW+	=	I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. I have a hundred fonts that I've installed but never used.
-MW	=	I only use Windows for one specific purpose (like running Steam games), but I don't have to like it.
-MW-	=	I'm still trying to install MS Windows and have at least one peripheral that never works right
-MW--	=	MS Windows is a joke operating system. No one can find the error codes anymore, and even if they could no one can read hexadecimal to understand them!
-MW---	=	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.
-```
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	MW++++	|	=		|	I am a MS Windows programming god. I have designed/compiled 1+ .exe, .msi, or .dll	|
+|	MW+++	|	=		|	I write/compile Microsoft code.	|
+|	MW++	|	=		|	I have 'hacked' my Windows REGEDIT to unlock or fix various bugs on my machine.	|
+|	MW+		|	=		|	I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. I have a hundred fonts that I've installed but never used.	|
+|	MW		|	=		|	I only use Windows for one specific purpose (like running Steam games), but I don't have to like it.	|
+|	MW-		|	=		|	I'm still trying to install MS Windows and have at least one peripheral that never works right	|
+|	MW--	|	=		|	MS Windows is a joke operating system. No one can find the error codes anymore, and even if they could no one can read hexadecimal to understand them!	|
+|	MW---	|	=		|	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.	|
 
 U = Unix
 ------
@@ -345,17 +345,20 @@ It seems that a Unix-based operating system is the OS of choice among most geeks
 		UI = IRIX
 		UC = SCO Unix
 	U* = Some other one not listed
+
 some examples
-```
-U++++	=	I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an "accidental" computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.
-U+++	=	I don't need to crack /etc/passwd because I just modified su so that it doesn't prompt me. The admin staff doesn't know I'm here.
-U++	=	I've get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to.
-U+	=	I enjoy shell scripting and understand the fundamental importance of the difference between ' and `
-U	=	I have a Unix account to do my stuff in
-U-	=	I have a VMS account.
-U--	=	I've seen Unix and didn't like it. DEC rules!
-U---	=	Unix geeks are actually nerds in disguise.
-```
+
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	U++++	|	=		|	I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an "accidental" computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.	|
+|	U+++	|	=		|	I don't need to crack /etc/passwd because I just modified su so that it doesn't prompt me. The admin staff doesn't know I'm here.	|
+|	U++		|	=		|	I've get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to.	|
+|	U+		|	=		|	I enjoy shell scripting and understand the fundamental importance of the difference between ' and `	|
+|	U		|	=		|	I have a Unix account to do my stuff in	|
+|	U-		|	=		|	I have a VMS account.	|
+|	U--		|	=		|	I've seen Unix and didn't like it. DEC rules!	|
+|	U---	|	=		|	Unix geeks are actually nerds in disguise.	|
+
 
 MC = Mac/Apple
 ------

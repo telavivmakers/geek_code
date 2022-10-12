@@ -160,6 +160,11 @@ G = GEEK OF - training/degree/interest/job
 
 To start a code, a geek must declare himself or herself to be a geek. To do this, we start the code with a "G" to denote "GEEK", followed by one or two letters to denote the geek's occupation or field of study. Multi-talented geeks with more than one vocational training should denote their myriad of talents with a slash between each vocation (example: GCS/MU/TW).
 
+|	Geek	|		|	Of	|
+|:------------- |:-------------:| ---------:|
+|	GAI	|	=	|	Geek of Artificial Intelligence |
+|	GB	|	=	|	Geek of Business	|
+
 ```
 GAI	=	Geek of Artificial Intelligence
 GBIO	=	Geek of Biomedical Engineering
@@ -208,12 +213,6 @@ A = Age
 ------
 
 The only way to become a true geek is through practice and experience. To this end, your age becomes an important part of your geekiness. Use the qualifiers below to show your age (in Terran years). Base 10, wise guys.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 ```
 A++++	=	60 and up

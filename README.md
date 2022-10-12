@@ -572,19 +572,19 @@ List what you think of the series you geek out to
 |	TRM 	|	=		|	rick&MORTY	|
 |	TW13	|	=		|	Warehouse 13	|
 
-#### Heroes
+### Heroes
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	THRO	|	=		|	Heroes			|
 |	THROrb	|	=		|	Heroes Reborn	|
 
-#### Leverage
+### Leverage
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	TLV		|	=		|	Leverage				|
 |	TLVr	|	=		|	Leverage: Redemption	|
 
-#### Stargate
+### Stargate
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	TSG		|	=		|	Stargate	|
@@ -593,7 +593,7 @@ List what you think of the series you geek out to
 |	TSGu	|	=		|	Stargate Universe	|
 |	TSGoc	|	=		|	Stargate Origins Catherine	|
 
-#### Star Trek
+### Star Trek
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	TST		|	=		|	Star Trek	|
@@ -609,7 +609,7 @@ List what you think of the series you geek out to
 |	TSTpro	|	=		|	Star Trek - Prodigy	|
 |	TSTsnw	|	=		|	Star Trek - Strange New Worlds	|
 
-#### Star Wars
+### Star Wars
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	TSW		|	=		|	Star Wars	|
@@ -624,15 +624,16 @@ List what you think of the series you geek out to
 |	TSWreb	|	=		|	Star Wars - Rebels	|
 
 Example Star Trek info
-```
-TST+++	=	It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.
-TST++	=	It's the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I've built a few of the model kits too. But you'll never catch me at one of those conventions. Those people are kooks.
-TST+	=	It's a damn fine TV show and is one of the only things good on television any more.
-TST	=	It's just another TV show
-TST-	=	Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I'm missing something but I just think it is bad drama.
-TST--	=	Star Trek is just another Space Opera. William Shatner isn't an actor, he's a poser! And what's with this Jean-Luc Picard? A Frenchman with a British accent? Come on. Isn't Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons? Come on. I'd only watch this show if my remote control broke.
-TST---	=	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t—)
-````
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	TST+++	|	=		|	It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.	|
+|	TST++	|	=		|	It's the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I've built a few of the model kits too. But you'll never catch me at one of those conventions. Those people are kooks.	|
+|	TST+	|	=		|	It's a damn fine TV show and is one of the only things good on television any more.	|
+|	TST		|	=		|	It's just another TV show	|
+|	TST-	|	=		|	Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I'm missing something but I just think it is bad drama.	|
+|	TST--	|	=		|	Star Trek is just another Space Opera. William Shatner isn't an actor, he's a poser! And what's with this Jean-Luc Picard? A Frenchman with a British accent? Come on. Isn't Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons? Come on. I'd only watch this show if my remote control broke.	|
+|	TST---	|	=		|	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t@#$)	|
+
 
 RPG = Roleplaying
 ------

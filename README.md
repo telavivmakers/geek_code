@@ -359,49 +359,49 @@ some examples
 |	U--		|	=		|	I've seen Unix and didn't like it. DEC rules!	|
 |	U---	|	=		|	Unix geeks are actually nerds in disguise.	|
 
-
 MC = Mac/Apple
 ------
 
 Many geeks have jumped the PC ship and moved over to using Apple products. Give notification of your Mac rating.
 
-```
-MC++	=	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I'll write the damn software to do it.
-MC+	=	A Mac has it's uses and I use it quite often.
-MC 	=	I use a Mac, but I'm pretty indifferent about it.
-MC- 	=	Macs suck. All real geeks have a character prompt.
-MC-- 	= 	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.
-```
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	MC++	|	=		|	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I'll write the damn software to do it.	|
+|	MC+		|	=		|	A Mac has it's uses and I use it quite often.	|
+|	MC 		|	=		|	I use a Mac, but I'm pretty indifferent about it.	|
+|	MC- 	|	=		|	Macs suck. All real geeks have a character prompt.	|
+|	MC--	| 	= 		|	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.	|
 
 L = Programming Languages
 ------
 
 List a series of languages and your facility/opinion thereupon, for example Lpy++/LR+ would indicate high proficiency in python and above average knowledge of R.
 
-```
-Lasm 		=	Assembly
-Lbash		=	Bourne Again Shell
-LC		=	C programming lang
-LCpp		=	C plus plus
-LC#		=	C sharp
-Lgo 		=	Go
-Lj		=	Java
-Ljs		=	Javascript
-Llll		=	Low-level Lisp
-Llua		=	Lua
-LM 		=	MATLAB
-LoC 		=	Objective C
-LP 		=	Perl
-Lphp		=	PHP
-Lpy		=	Python
-LQ#		=	Q sharp
-LR 		=	R
-LRs		=	Rust
-LRu 		=	Ruby
-Lsql 		=	SQL
-Lvb		=	Visual Basic
-Lwps		=	Windows PowerShell
-````
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	Lasm 	|	=		|	Assembly			|
+|	Lbash	|	=		|	Bourne Again Shell	|
+|	LC		|	=		|	C programming lang	|
+|	LCpp	|	=		|	C plus plus			|
+|	LC#		|	=		|	C sharp				|
+|	Lgo 	|	=		|	Go					|
+|	Lj		|	=		|	Java				|
+|	Ljs		|	=		|	Javascript			|
+|	Llll	|	=		|	Low-level Lisp		|
+|	Llua	|	=		|	Lua					|
+|	LM 		|	=		|	MATLAB				|
+|	LoC 	|	=		|	Objective C			|
+|	LP 		|	=		|	Perl				|
+|	Lphp	|	=		|	PHP					|
+|	Lpy		|	=		|	Python				|
+|	LQ#		|	=		|	Q sharp				|
+|	LR 		|	=		|	R					|
+|	LRs		|	=		|	Rust				|
+|	LRu 	|	=		|	Ruby				|
+|	Lsql 	|	=		|	SQL					|
+|	Lvb		|	=		|	Visual Basic		|
+|	Lwps	|	=		|	Windows PowerShell	|
+
 For example:
 ```
 Lpy+++		=	I am Guido

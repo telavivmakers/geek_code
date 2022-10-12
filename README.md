@@ -572,19 +572,19 @@ List what you think of the series you geek out to
 |	TRM 	|	=		|	rick&MORTY	|
 |	TW13	|	=		|	Warehouse 13	|
 
-
+#### Heroes
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	THRO	|	=		|	Heroes			|
 |	THROrb	|	=		|	Heroes Reborn	|
 
-
+#### Leverage
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	TLV		|	=		|	Leverage				|
 |	TLVr	|	=		|	Leverage: Redemption	|
 
-
+#### Stargate
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	TSG		|	=		|	Stargate	|
@@ -593,7 +593,7 @@ List what you think of the series you geek out to
 |	TSGu	|	=		|	Stargate Universe	|
 |	TSGoc	|	=		|	Stargate Origins Catherine	|
 
-
+#### Star Trek
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	TST		|	=		|	Star Trek	|
@@ -609,7 +609,7 @@ List what you think of the series you geek out to
 |	TSTpro	|	=		|	Star Trek - Prodigy	|
 |	TSTsnw	|	=		|	Star Trek - Strange New Worlds	|
 
-
+#### Star Wars
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	TSW		|	=		|	Star Wars	|

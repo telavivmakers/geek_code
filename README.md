@@ -496,15 +496,14 @@ E = Electronics
 H = Hardware
 ------
 
-```
-H+++	=	I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.
-H++	=
-H+	=
-H	=
-H-	=	I have used hammers metaphorically far more often than literally
-H--	=	I prefer to take my laptop to the shop when the hardware acts up
-```
-
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	H+++	|	=		|	I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.	|
+|	H++		|	=		|				|
+|	H+		|	=		|				|
+|	H		|	=		|				|
+|	H-		|	=		|	I have used hammers metaphorically far more often than literally	|
+|	H--		|	=		|	I prefer to take my laptop to the shop when the hardware acts up	|
 
 POLITICS
 ======

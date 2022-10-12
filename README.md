@@ -522,29 +522,29 @@ Subcategories (give yourself a geek point if your first thought was 'actually, s
 	PSL = civil liberties
 	PSS = gender politics
 
-```
-PS+++	=	Legalize drugs! Abolish the government. "Fuck the draft!"
-PS++	=	I give to liberal causes. I march for gay rights. I'm a card carrying member of the ACLU. Keep abortion safe and legal.
-PS+	=	My whole concept of liberalism is that nobody has the right to tell anybody else what to do, on either side of the political fence. If you don't like it, turn the bloody channel.
-PS	=	I really don't have an opinion; nobody's messing with my freedoms right now.
-PS-	=	Label records! Keep dirty stuff off the TV and the Internet.
-PS--	=	Oppose sex education, abortion rights, gay rights. Rush Limbaugh is my spokesman.
-PS---	=	Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in '96.
-```
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	PS+++	|	=		|	Legalize drugs! Abolish the government. "Fuck the draft!"	|
+|	PS++	|	=		|	I give to liberal causes. I march for gay rights. I'm a card carrying member of the ACLU. Keep abortion safe and legal.	|
+|	PS+		|	=		|	My whole concept of liberalism is that nobody has the right to tell anybody else what to do, on either side of the political fence. If you don't like it, turn the bloody channel.	|
+|	PS		|	=		|	I really don't have an opinion; nobody's messing with my freedoms right now.	|
+|	PS-		|	=		|	Label records! Keep dirty stuff off the TV and the Internet.	|
+|	PS--	|	=		|	Oppose sex education, abortion rights, gay rights. Rush Limbaugh is my spokesman.	|
+|	PS---	|	=		|	Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in '96.	|
 
 Politics and Economic Issues
 ------
 
 Note this category has been reversed as of v4 to maintain the loose left+ and right- association from the PS category.
 
-```
-PE+++	=	Capitalism is evil! Government should provide the services we really need. Nobody should be rich.
-PE++	=	Keep the government off the backs of businesses. Deregulate as much as possible.
-PE	=	Distrust both government and business.
-PE-	=	It's ok to increase government spending, so we can help more poor people. Tax the rich! Cut the defense budget!
-PE--	=	Balance the budget with spending cuts and an amendment.
-PE---	=	Abolish antitrust legislation. Raise taxes on everyone but the rich so that the money can trickle-down to the masses.
-```
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	PE+++	|	=		|	Capitalism is evil! Government should provide the services we really need. Nobody should be rich.	|
+|	PE++	|	=		|	Keep the government off the backs of businesses. Deregulate as much as possible.	|
+|	PE		|	=		|	Distrust both government and business.	|
+|	PE-		|	=		|	It's ok to increase government spending, so we can help more poor people. Tax the rich! Cut the defense budget!	|
+|	PE--	|	=		|	Balance the budget with spending cuts and an amendment.	|
+|	PE---	|	=		|	Abolish antitrust legislation. Raise taxes on everyone but the rich so that the money can trickle-down to the masses.	|
 
 ENTERTAINMENT
 ======
@@ -555,54 +555,74 @@ T = TV
 ------
 
 List what you think of the series you geek out to
+|	 		|			|						|
+|:---		|	:---:	|	:---		|
+|	TBBT	|	=		|	The Big Bang Theory	|
+|	TB5		|	=		|	Babylon5			|
+|	TDW		|	=		|	Doctor Who			|
+|	TEX		|	=		|	The Expanse			|
+|	TFF		|	=		|	Firefly				|
+|	TGT		|	=		|	Game of Thrones		|
+|	TIL		|	=		|	'In Search Of...' with Leonard Nimoy	|
+|	TMON	|	=		|	Monty Python (series/films)	|
+|	TMM		|	=		|	Mad Max	|
+|	TLOTR	|	=		|	Lord of the Rings	|
+|	TL		|	=		|	Lost	|
+|	TOB		|	=		|	Orphan Black	|
+|	TRM 	|	=		|	rick&MORTY	|
+|	TW13	|	=		|	Warehouse 13	|
 
-```
-TBBT		=	The Big Bang Theory
-TB5		=	Babylon5
-TDW		=	Doctor Who
-TEX		=	The Expanse
-TFF 		=	Firefly
-TGT		=	Game of Thrones
-THRO		=	Heroes
-TI		=	'In search of…' with Leonard Nimoy
-TLV		=	Leverage
-	TLVr	=	Leverage: Redemption
-Tmon		=	Monty Python (series/films)
-TMM		=	Mad Max
-TLOTR		=	Lord of the Rings
-TL		=	Lost
-TOB		=	Orphan Black
-TRM 		=	rick&MORTY
-TSG		=	Stargate
-	TSG1	=	Stargate SG-1
-	TSGa	=	Stargate Atlantis
-	TSGu	=	Stargate Universe
-	TSGoc	=	Stargate Origins Catherine
-TST		=	Star Trek
-	TSTanm	=	Star Trek - Animated Series
-	TSTng	=	Star Trek - The Next Generation
-	TSTds9	=	Star Trek - Deep Space Nine
-	TSTv	=	Star Trek - Voyager
-	TSTe	=	Star Trek - Enterprise
-	TSTdsc	=	Star Trek - Discovery
-	TSTpic	=	Star Trek - Picard
-	TSTld	=	Star Trek - Lower Decks
-	TSTst	=	Star Trek - Short Treks
-	TSTpro	=	Star Trek - Prodigy
-	TSTsnw	=	Star Trek - Strange New Worlds
-TSW		=	Star Wars
-	TSWcw	=	Star Wars Clone Wars
-	TSWman	=	The Mandalorian
-	TSWand	=	Star Wars - Andor
-	TSWobi	=	Star Wars - Obi-Wan Kenobi
-	TSWbob	=	Star Wars - Book of Boba Fett
-	TSWv	=	Star Wars - Visions
-	TSWbb	=	Star Wars - The Bad Batch
-	TSWres	=	Star Wars - Resistance
-	TSWreb	=	Star Wars - Rebels
-TW13	=	Warehouse 13
 
-````
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	THRO	|	=		|	Heroes			|
+|	THROrb	|	=		|	Heroes Reborn	|
+
+
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	TLV		|	=		|	Leverage				|
+|	TLVr	|	=		|	Leverage: Redemption	|
+
+
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	TSG		|	=		|	Stargate	|
+|	TSG1	|	=		|	Stargate SG-1	|
+|	TSGa	|	=		|	Stargate Atlantis	|
+|	TSGu	|	=		|	Stargate Universe	|
+|	TSGoc	|	=		|	Stargate Origins Catherine	|
+
+
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	TST		|	=		|	Star Trek	|
+|	TSTanm	|	=		|	Star Trek - Animated Series	|
+|	TSTng	|	=		|	Star Trek - The Next Generation	|
+|	TSTds9	|	=		|	Star Trek - Deep Space Nine	|
+|	TSTv	|	=		|	Star Trek - Voyager	|
+|	TSTe	|	=		|	Star Trek - Enterprise	|
+|	TSTdsc	|	=		|	Star Trek - Discovery	|
+|	TSTpic	|	=		|	Star Trek - Picard	|
+|	TSTld	|	=		|	Star Trek - Lower Decks	|
+|	TSTst	|	=		|	Star Trek - Short Treks	|
+|	TSTpro	|	=		|	Star Trek - Prodigy	|
+|	TSTsnw	|	=		|	Star Trek - Strange New Worlds	|
+
+
+|			|			|				|
+|:---		|	:---:	|	:---		|
+|	TSW		|	=		|	Star Wars	|
+|	TSWcw	|	=		|	Star Wars Clone Wars	|
+|	TSWman	|	=		|	The Mandalorian	|
+|	TSWand	|	=		|	Star Wars - Andor	|
+|	TSWobi	|	=		|	Star Wars - Obi-Wan Kenobi	|
+|	TSWbob	|	=		|	Star Wars - Book of Boba Fett	|
+|	TSWv	|	=		|	Star Wars - Visions	|
+|	TSWbb	|	=		|	Star Wars - The Bad Batch	|
+|	TSWres	|	=		|	Star Wars - Resistance	|
+|	TSWreb	|	=		|	Star Wars - Rebels	|
+
 Example Star Trek info
 ```
 TST+++	=	It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.

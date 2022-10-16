@@ -7,7 +7,7 @@ The Geek Code, developed in 1993, is a series of letters and symbols used by sel
 
 The geek code attempts a concise description of your being in 'geek space', spanning key dimensions using a small set of categories and quantifying them with qualifiers ( or qualifying them with quantifiers, as you wish).
 
-The idea is that everything that makes a geek individual can be encoded in a compact format which only other geeks can read. This is deemed to be efficient in some sufficiently geeky manner.
+The idea is that everything that makes a geek individual can be encoded in a compact format that only other geeks can read. This is deemed to be efficient in some sufficiently geeky manner.
 
 Share your geek code with friends and acquaintances! Help them understand that "The geeks of today are the trendsetters of tomorrow."
 
@@ -23,7 +23,7 @@ Version 0.3 added a couple more categories.
 
 [Click here to see Version 0.3 on the web!](https://www.cs.cmu.edu/afs/cs/user/scotts/ftp/bulgarians/geek-code.html "This is perhaps the oldest still surviving example of Geek Code on the web!")
 
-Version 1.0 was released about 4 months after 0.3 on July 17, 1993 and added several more categories as well as the rules for cross-overs and variables. 1.0.1 was a bug-fix released later that day.
+Version 1.0 was released about 4 months after 0.3 on July 17, 1993 and added several more categories as well as the rules for cross-overs and variables. 1.0.1 was a bugfix released later that day.
 
 [Click here to see Version 1.0.1 here!](http://www.textfiles.com/100/codegeek.txt)
 
@@ -33,7 +33,7 @@ Version 2.1 was released one day later, and was mostly bugfixes to make Geek Cod
 
 [Click here to see version 2.1 on the web!](http://www.aleph.se/Nada/nerdiness/geek2)
 
-Version 3.x of Geek Code was released on March 5, 1996. It was a huge refinement over version 2.x! One of the main problems with 2.x was that it was too long, and much of its length was attributed to non-geek categories. One of the goals of 3.x is to eliminate many of the non-geeky and unimportant categories in order to make room for geeky traits. "More geek, less bullshit" was a good motto for this version. It removed some categories from 2.x that were just downright odd (like automobiles, nutrition, and **Barney**?)
+Version 3.x of Geek Code was released on March 5, 1996. It was a huge refinement over version 2.x! One of the main problems with 2.x was that it was too long, and much of its length was attributed to non-geek categories. One of the goals of 3.x is to eliminate many of the non-geeky and unimportant categories to make room for geeky traits. "More geek, less bullshit" was a good motto for this version. It removed some categories from 2.x that were just downright odd (like automobiles, nutrition, and **Barney**?)
 
 [Version 3.1](https://web.archive.org/web/20090220181018/http://geekcode.com/geek.html)
 
@@ -43,7 +43,7 @@ Version 3.x of Geek Code was released on March 5, 1996. It was a huge refinement
 
 Version 3.12 is the version used for the `geekcode` Linux package still available on Debian and Ubuntu. The Linux package only contains the basic version 3 Geek Code, and does not support crossovers and variables.
 
-Version 4.x was released on GitHub on October 18, 2019. Some categories have been removed, others added, some altered. The v3.x undergraduate weltanschaung has been supplanted by a more seasoned outlook.
+Version 4.x was released on GitHub on October 18, 2019. Some categories have been removed, others added, and some altered. The v3.x undergraduate weltanschauung has been supplanted by a more seasoned outlook.
 
 In version 4, tv/series are given its own category (since geeks may watch something else besides Star Trek)
 
@@ -56,7 +56,7 @@ Welcome to The Geek Code Version 5.0
 
 The code no longer uses case-sensitive categories. To accomplish this, some categories and letters have been changed. Letter groupings are used so that there was no repetition of single letters among the categories.
 
-Some categories were merged, and couple new symbols were added. The header of the GEEK CODE BLOCK (which used to mimic the output of a GPG BLOCK) now merges both header and version in a single line.
+Some categories were merged, and couple of new symbols were added. The header of the GEEK CODE BLOCK (which used to mimic the output of a GPG BLOCK) now merges both header and version in a single line.
 
 In version 5.x, each category is designed to help uniquely identify a geek with less parallelism existing among categories. There are no categories that refer backwards to previously defined categories.
 
@@ -71,17 +71,17 @@ The code consists of a set of alphanumeric identifiers indicating the various ca
 
 The broad categories encoded are: Geek of, Wetware, Computers, Politics, Entertainment, Lifestyle. Most have subcategories and you can answer at any level of detail desired, thus eg. U++ indicates someone highly interested/proficient in Unix, while ULDU++ indicates someone into Unix/Linux/Debian/Ubuntu (each additional step is a derivative of the previous step). Multiple subcategories can be indicated with a forward slash, e.g GCS/GM indicates a Geek of Computer Science and Math.
 
-Some categories will be irrelevant, so ignore them. Some of the qualifiers will not match with you exactly, so choose that qualifier that most closely matches you.
+Some categories will be irrelevant, so ignore them. Some of the qualifiers may not match you exactly, so choose the qualifier that most closely matches you.
 
-Given a set of category/qualifier strings for any of the above (skip anything you dont want to answer/not relevant/classified/unknown/indeterminate/etc).
+Given a set of category/qualifier strings for any of the above (skip anything you don't want to answer/not relevant/classified/unknown/indeterminate/etc).
 
-It's time to assemble your code for displaying to the world. Take the substrings and concatenate with a space between. When completed, it will look something like the following:
+It's time to assemble your code for displaying to the world. Take the substrings and concatenate them with a space between them. When completed, it will look something like the following:
 
 ```
 GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11_(++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
 ```
 
-A GEEK CODE BLOCK parodies the output created by PGP, and attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed (but 
+A GEEK CODE BLOCK parodies the output created by PGP, and attempts to universalize how you will see the Geek Code around the net. Line breaks can be added if needed (but are not necessary).
 
 ```
 -----BEGIN GEEK CODE BLOCK VERSION 5.1-----
@@ -101,15 +101,15 @@ A few special characters allow for the (ultimately wrong but practically useful)
 |			|			|				|
 |:---		|	:---:	|	:---		|
 |	`+`		|	=		|	indicates an increased amount of geekiness in a particular area. Each additional + raises the level further.	|
-|	`_`		|	=		|	(Optional) indicates a baseline answer. _ is one step above -, and one step below +. Therefore, _ is never combined with + or -	. For example, instead of leaving it blank/empty, a geek of average shape and size could write d_:_ to indicate they are at the baseline.	|
+|	`_`		|	=		|	(Optional) indicates a baseline answer. _ is one step above -, and one step below +. Therefore, _ is never combined with + or -. For example, instead of leaving it blank/empty, a geek of average shape and size could write d_:_ to indicate they are at the baseline.	|
 |	`-`		|	=		|	indicates a decreased amount of geekiness in a particular area. Each additional - reduces the level further.	|
-|	`@`		|	=		|	for this variable, said trait is not very rigid, may change with time or with individual interaction. For example, Geeks who happen to very much enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as TSTpic+++@.	|
+|	`@`		|	=		|	for this variable, said trait is not very rigid and may change with time or with individual interaction. For example, Geeks who happen to very much enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as TSTpic+++@.	|
 |	`()`	|	=		|	for indicating "cross-overs" or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly "C+") could use C+(—). Note: @ is different from () in that () has finite limits within the category, while @ ranges all over.	|
 |	`$`		|	=		|	Indicates that this particular category is done for a living. For example, UL+++$ indicates that the person utilizes Unix and gets paid for it. Quite a lucky geek, for sure.	|
 |	`^`		|	=		|	Indicates that the geek has a degree or certificate in this area or field. For example, GCS^/GMU/GTW^ indicates that this is a Geek of Computer Science (with a degree in this field), a Geek of Music, and a Geek of Technical Writing (with a certificate in this field)	|
-|	`>`		|	=		|	for 'wannabe' ratings. Indicating that while the geek is currently at one rating, they are striving to reach another. For example, UL+++>$ indicating a geek that is currently Linux savvy, but wants to someday make money at it.	|
+|	`>`		|	=		|	for 'wannabe' ratings. Indicating that while the geek is currently at one rating, they are striving to reach another. For example, UL+++>$ indicates a geek that is currently Linux savvy but wants to someday make money at it.	|
 |	`?`		|	=		|	Unless stated otherwise within the specific category, the ? is placed after the category identifier and indicates that the geek has no knowledge about that specific category.	|
-|	`!`		|	=		|	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates lack of knowledge, while the ! indicates stubborn refusal to participate. For example, !MC would be a person that just plain refuses to have anything to do with Macintosh, while MC? would be a person that doesn't even know what Macintosh is.	|
+|	`!`		|	=		|	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates a lack of knowledge, while the ! indicates stubborn refusal to participate. For example, !MC would be a person that just plain refuses to have anything to do with Macintosh, while MC? would be a person that doesn't even know what Macintosh is.	|
 
 The categories
 ======
@@ -151,7 +151,7 @@ To start a code, a geek must declare himself or herself to be a geek. To do this
 |	`GSS` 		|	=		|	Geek of Social Science				|
 |	`GTW`		|	=		|	Geek of Technical Writing			|
 |	`GVDD`		|	=		|	Geek of Video Game Design			|
-|	`GO` 		|	=		|	Geek of Other. Some types of geeks deviate from the normal geek activities.	This is encouraged as true geeks come from all walks of life.	|
+|	`GO` 		|	=		|	Geek of Other. Some types of geeks deviate from normal geek activities.	This is encouraged as true geeks come from all walks of life.	|
 |	`GU`		|	=		|	Geek of 'Undecided'. This is a popular vocation with incoming freshmen.	|
 |	`G!`		|	=		|	Geek of no qualifications nor interests; likely, cannot exist	|
 |	`GAT`		|	=		|	Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.	|
@@ -162,7 +162,7 @@ WETWARE (A,B,C,D) (age/beard/clothing/dimensions)
 
 They say you never get a second chance to make a first impression.
 
-The Geek, of course, doesn't believe any of that crap; on the internet, no one knows you're a dog, according to ancient meme. In any case this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense. Also it lets us start off with 'abcd' for age/beard/clothing/dimensions.
+The Geek, of course, doesn't believe any of that crap; on the internet, no one knows you're a dog, according to an ancient meme. In any case, this section allows you to list something about what you look like, conceivably for dating purposes or such nonsense. Also it lets us start off with 'abcd' for age/beard/clothing/dimensions.
 
 A = Age
 ------
@@ -187,7 +187,7 @@ The only way to become a true geek is through practice and experience. To this e
 B = Beardliness/Hair
 ------
 
-As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population.
+As facial hair plays some sort of role in geek space, serving as an expression of style, countercultural proclivities, etc. and [unix beards](http://www.usenix.org.uk/content/unix_beards.html) being a thing we give it a category here despite its irrelevance to some fraction of the population.
 
 The hair code is divided into 5 parts, delimited by a colon. The parts are (Head : Beard : Brows : Mustache : Sideburns)
 
@@ -244,12 +244,12 @@ There is a record of geeks that don't use computers. Unfortunately, they are all
 
 All modern geeks have some exposure to computers. If you don't know what a computer is, you need to go back into your shell.
 
-Most geeks identify themselves by their use of computers and computer networks. In order to quantify your geekiness level on computers, consult the following (consider the term 'computers' synonymous with 'computer network'). This category represents "general" computer aptitude. Categories below will get into specifics.
+Most geeks identify themselves by their use of computers and computer networks. To quantify your geekiness level on computers, consult the following (consider the term 'computers' synonymous with 'computer network'). This category represents "general" computer aptitude. The categories below will get into specifics.
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
 |	`CM++++` 	|	=		|	I'll be first in line to get the new cybernetic interface installed into my skull.	|
-|	`CM+++`		|	=		|	You mean there is life outside of Internet? I haven't logged out in weeks. I answer questions on StackOverflow.	|
+|	`CM+++`		|	=		|	You mean there is life outside of the Internet? I haven't logged out in weeks. I answer questions on StackOverflow.	|
 |	`CM++` 		|	=		|	Computers are a large part of my existence. I code in at least one language. I have StackOverflow bookmarked so I can find answers to my programming questions.	|
 |	`CM+`		|	=		|	Computers are fun and I enjoy using them. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'.	|
 |	`CM`		|	=		|	Computers are a tool, nothing more. I use it when it serves my purpose.	|
@@ -268,14 +268,14 @@ For example: MW11+++ means that you are very proficient with Windows 11.
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`MW++++`	|	=		|	I am a MS Windows programming god. I have designed/compiled 1+ .exe, .msi, or .dll	|
+|	`MW++++`	|	=		|	I am an MS Windows programming god. I have designed/compiled 1+ .exe, .msi, or .dll	|
 |	`MW+++`		|	=		|	I write/compile Microsoft code.	|
 |	`MW++`		|	=		|	I have 'hacked' my Windows REGEDIT to unlock or fix various bugs on my machine.	|
 |	`MW+`		|	=		|	I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. I have a hundred fonts that I've installed but never used.	|
 |	`MW`		|	=		|	I only use Windows for one specific purpose (like running Steam games), but I don't have to like it.	|
 |	`MW-`		|	=		|	I'm still trying to install MS Windows and have at least one peripheral that never works right	|
 |	`MW--`		|	=		|	MS Windows is a joke operating system. No one can find the error codes anymore, and even if they could no one can read hexadecimal to understand them!	|
-|	`MW---`		|	=		|	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.	|
+|	`MW---`		|	=		|	Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disemboweled, and then REALLY hurt.	|
 
 U = Unix
 ------
@@ -313,7 +313,7 @@ some examples
 |:---			|	:---:	|	:---		|
 |	`U++++`		|	=		|	I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an "accidental" computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.	|
 |	`U+++`		|	=		|	I don't need to crack /etc/passwd because I just modified su so that it doesn't prompt me. The admin staff doesn't know I'm here.	|
-|	`U++`		|	=		|	I've get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to.	|
+|	`U++`		|	=		|	I've gotten the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to.	|
 |	`U+`		|	=		|	I enjoy shell scripting and understand the fundamental importance of the difference between ' and `	|
 |	`U`			|	=		|	I have a Unix account to do my stuff in	|
 |	`U-`		|	=		|	I have a VMS account.	|
@@ -328,7 +328,7 @@ Many geeks have jumped the PC ship and moved over to using Apple products. Give 
 |				|			|				|
 |:---			|	:---:	|	:---		|
 |	`MC++`		|	=		|	I am a Mac guru. Anything those DOS putzes and Unix nerds can do, I can do better, and if not, I'll write the damn software to do it.	|
-|	`MC+`		|	=		|	A Mac has it's uses and I use it quite often.	|
+|	`MC+`		|	=		|	A Mac has its uses and I use it quite often.	|
 |	`MC` 		|	=		|	I use a Mac, but I'm pretty indifferent about it.	|
 |	`MC-` 		|	=		|	Macs suck. All real geeks have a character prompt.	|
 |	`MC--`		| 	= 		|	Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.	|
@@ -336,7 +336,7 @@ Many geeks have jumped the PC ship and moved over to using Apple products. Give 
 L = Programming Languages
 ------
 
-List a series of languages and your facility/opinion thereupon, for example Lpy++/LR+ would indicate high proficiency in python and above average knowledge of R.
+List a series of languages and your facility/opinion thereupon, for example, Lpy++/LR+ would indicate high proficiency in python and above-average knowledge of R.
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
@@ -369,8 +369,8 @@ For example:
 |:---			|	:---:	|	:---		|
 |	`Lpy+++`	|	=		|	I am Guido	|
 |	`Lpy++`		|	=		|	I maintain/contribute to the python code base	|
-|	`Lpy+`		|	=		|	I am a pythonista – love python and use it all the time , consider whether things I say are 'pythonic'	|
-|	`Lpy`		|	=		|	I am neutral on python , its ok for some things.	|
+|	`Lpy+`		|	=		|	I am a Pythonista – love python and use it all the time, consider whether things I say are 'pythonic'	|
+|	`Lpy`		|	=		|	I am neutral on python, it's ok for some things.	|
 |	`Lpy-`		|	=		|	Python is for hobbies	|
 |	`Lpy--` 	|	=		|	I do not like python, it is an ugly aberration for people incapable of grasping the subtle power of [C|Lisp|assembly]	|
 
@@ -388,9 +388,9 @@ How do you take your data? How do you present your data to others? Input/Output 
 |			|	=		|	Uses mouse and keyboard equally	|	Uses mouse and keyboard equally	|
 |	`-`		|	=		|				|					|
 |	`--`	|	=		|				|	My user interface is a text-only Terminal. Don't even touch the mouse	|
-|	`---`	|	=		|	Keep the dirty stuff under the hood, building a cool GUI is where its at	|	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques	|
+|	`---`	|	=		|	Keep the dirty stuff under the hood, building a cool GUI is where its at	|	I couldn't care less about the 'user experience'; users can be approximated using Bayesian techniques	|
 
-For example: IO+++:--- likely means you send and recieve data in as raw a form as possible.
+For example: IO+++:--- likely means you send and receive data in as raw a form as possible.
 
 
 PGP
@@ -457,7 +457,7 @@ H = Hardware
 POLITICS
 ======
 
-The last few years has seen the rise of the political geek. This phenomena is little understood, but some theorize that it has come about because of the popular media's attempts to demonize the Internet and computer use in general, and the government's willingness to go along with it. Others propose that the aging geek population has simply started taking an interest in the world around them. Some support the "Sun Spot" theory. As of v4 some new subcategories are added to the PS and PE categories.
+The last few years have seen the rise of the political geek. This phenomenon is little understood, but some theorize that it has come about because of the popular media's attempts to demonize the Internet and computer use in general, and the government's willingness to go along with it. Others propose that the aging geek population has simply started taking an interest in the world around them. Some support the "Sun Spot" theory. As of v4 some new subcategories are added to the PS and PE categories.
 
 Politics and Social Issues
 ------
@@ -475,11 +475,11 @@ Subcategories (give yourself a geek point if your first thought was 'actually, s
 |				|			|				|
 |:---			|	:---:	|	:---		|
 |	`PS+++`		|	=		|	Legalize drugs! Abolish the government. "Fuck the draft!"	|
-|	`PS++`		|	=		|	I give to liberal causes. I march for gay rights. I'm a card carrying member of the ACLU. Keep abortion safe and legal.	|
+|	`PS++`		|	=		|	I give to liberal causes. I march for gay rights. I'm a card-carrying member of the ACLU. Keep abortion safe and legal.	|
 |	`PS+`		|	=		|	My whole concept of liberalism is that nobody has the right to tell anybody else what to do, on either side of the political fence. If you don't like it, turn the bloody channel.	|
 |	`PS`		|	=		|	I really don't have an opinion; nobody's messing with my freedoms right now.	|
 |	`PS-`		|	=		|	Label records! Keep dirty stuff off the TV and the Internet.	|
-|	`PS--`		|	=		|	Oppose sex education, abortion rights, gay rights. Rush Limbaugh is my spokesman.	|
+|	`PS--`		|	=		|	Oppose sex education, abortion rights, and gay rights. Rush Limbaugh is my spokesman.	|
 |	`PS---`		|	=		|	Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in '96.	|
 
 
@@ -578,11 +578,11 @@ Example Star Trek info
 |:---			|	:---:	|	:---		|
 |	`TST+++`	|	=		|	It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.	|
 |	`TST++`		|	=		|	It's the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I've built a few of the model kits too. But you'll never catch me at one of those conventions. Those people are kooks.	|
-|	`TST+`		|	=		|	It's a damn fine TV show and is one of the only things good on television any more.	|
+|	`TST+`		|	=		|	It's a damn fine TV show and is one of the only things good on television anymore.	|
 |	`TST`		|	=		|	It's just another TV show	|
 |	`TST-`		|	=		|	Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I'm missing something but I just think it is bad drama.	|
 |	`TST--`		|	=		|	Star Trek is just another Space Opera. William Shatner isn't an actor, he's a poser! And what's with this Jean-Luc Picard? A Frenchman with a British accent? Come on. Isn't Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons? Come on. I'd only watch this show if my remote control broke.	|
-|	`TST---`	|	=		|	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t@#$)	|
+|	`TST---`	|	=		|	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you Trekkies out there, GET A LIFE! (William Shatner is a t@#$)	|
 
 
 RPG = Roleplaying
@@ -593,7 +593,7 @@ Role-playing games such as Dungeons & Dragons have long been a part of the tradi
 |				|			|				|
 |:---			|	:---:	|	:---		|
 |	`RPG+++`	|	=		|	I've written and published my own gaming materials.	|
-|	`RPG++`		|	=		|	There is no life outside the role of the die. I know all of piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players.	|
+|	`RPG++`		|	=		|	There is no life outside the role of the die. I know all of the piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players.	|
 |	`RPG+`		|	=		|	I've got my weekly sessions set up and a character that I know better than I know myself.	|
 |	`RPG`		|	=		|	Role-Playing? That's just something to do to kill a Saturday afternoon	|
 |	`RPG-`		|	=		|	Gosh, what an utter waste of time!	|
@@ -633,12 +633,12 @@ You may append the code for comics with a modifier from --- to +++ to indicate h
 LIFESTYLE
 ======
 
-Geeks, unlike the lower lifeforms known as nerds, have lives. They have things to do that are in the outside world. Of course, this is usually done with other geeks, but that's not the point. The point is,, that geeks are not necessarily the outcasts society often believes they are. The fact is that society isn't kool enough to be included in our activities.
+Geeks, unlike the lower lifeforms known as nerds, have lives. They have things to do that are in the outside world. Of course, this is usually done with other geeks, but that's not the point. The point is, that geeks are not necessarily the outcasts society often believes they are. The fact is that society isn't cool enough to be included in our activities.
 
 MBTI / PERSONALITY
 ------
 
-Most geeks have at one time or other taken a Myers & Briggs Type Indicator test. If you want to, include your letters in the code here.
+Most geeks have at one time or another taken a Myers & Briggs Type Indicator test. If you want to, include your letters in the code here.
 
 
 R = Residence
@@ -648,7 +648,7 @@ Tell us about your geeky home.
 
 |			|			|				|
 |:---		|	:---:	|	:---		|
-|	`R+++`		|	=		|	Living in a cave with 47 computers and an Internet feed, located near a Dominoes pizza.	|
+|	`R+++`		|	=		|	Living in a cave with 47 computers and an Internet feed, located near a Domino's pizza.	|
 |	`R++`		|	=		|	Living alone, get out once a week to buy food, no more than once a month to do laundry. All surfaces covered.	|
 |	`R+`		|	=		|	Friends come over to visit every once in a while to talk about Geek things. There is a place for them to sit.	|
 |	`R`			|	=		|	Living with one or more registered Geeks.	|
@@ -667,7 +667,7 @@ Geeks have traditionally had problems with sex (ie, they never have any). Becaus
 
 This code also is used to denote the gender of the geek.
 
-Share your pronouns followed by the modifier to show how succesful you have been with relationships and sex.
+Share your pronouns followed by the modifier to show how successful you have been with relationships and sex.
 
 Pronouns should always be lowercase to prevent them from being mistaken for current or future geekcode (which is capitalized in most cases).
 

@@ -417,6 +417,7 @@ Version Control systems are a priority for most geeks coders. List which version
 |				|			|				|
 |:---			|	:---:	|	:---		|
 |	`G`			|	=		|	GitHub		|
+|	`Gl`		|	=		|	GitLab		|
 |	`Gb`		|	=		|	BitBucket	|
 |	`Gbk`		|	=		|	Bitkeeper	|
 |	`Gbn`		|	=		|	Beanstalk	|
@@ -692,4 +693,4 @@ For example:
 he/him+++
 
 (Deprecated / Optional)
-Females may use 'X' in this category. Males may use 'Y'. Other genders may use 'Q'. Those that do not wish to disclose their gender can use 'Z'.
+Females may use 'X' in this category. Males may use 'Y'. Other genders may use 'Q'. Those who are non-binary or do not wish to disclose their gender can use 'Z'.

@@ -511,6 +511,7 @@ List what you think of the series you geek out to
 |:---			|	:---:	|	:---		|
 |	`TBBT`		|	=		|	The Big Bang Theory	|
 |	`TB5`		|	=		|	Babylon5			|
+|	`TBG`		|	=		|	Battlestar Galactica			|
 |	`TDW`		|	=		|	Doctor Who			|
 |	`TEX`		|	=		|	The Expanse			|
 |	`TFF`		|	=		|	Firefly				|

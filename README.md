@@ -235,7 +235,7 @@ Geeks come in many shapes and sizes. Shape code is divided into two parts delimi
 |	`--:--` 	|	=		|	I look up to damn near everybody.		|	I tend to have to fight against a strong breeze.	|
 |	`---:---` 	|	=		|	I take a phone book with me when I go out so I can see to eat dinner. 	|	My bones are poking through my skin.	|
 
-Example: D+++:--- indicates extremely tall and thin.
+Example: `D+++:---` indicates extremely tall and thin.
 
 CM = COMPUTERS
 ======
@@ -264,7 +264,7 @@ A good many geeks suffer through the use of various versions of Microsoft Window
 
 Rate your Windows geekiness, and if desired you can include the versions of Windows you have used or are currently using.
 
-For example: MW11+++ means that you are very proficient with Windows 11.
+For example: `MW11+++` means that you are very proficient with Windows 11.
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
@@ -336,7 +336,7 @@ Many geeks have jumped the PC ship and moved over to using Apple products. Give 
 L = Programming Languages
 ------
 
-List a series of languages and your facility/opinion thereupon, for example Lpy++/LR+ would indicate high proficiency in python and above average knowledge of R.
+List a series of languages and your facility/opinion thereupon, for example `Lpy++/LR+` would indicate high proficiency in python and above average knowledge of R.
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
@@ -390,7 +390,7 @@ How do you take your data? How do you present your data to others? Input/Output 
 |	`--`	|	=		|				|	My user interface is a text-only Terminal. Don't even touch the mouse	|
 |	`---`	|	=		|	Keep the dirty stuff under the hood, building a cool GUI is where its at	|	I couldnt care less about the 'user experience'; users can be approximated using Bayesian techniques	|
 
-For example: IO+++:--- likely means you send and recieve data in as raw a form as possible.
+For example: `IO+++:---` likely means you recieve and send data in as raw a form as possible.
 
 
 PGP
@@ -457,7 +457,7 @@ H = Hardware
 POLITICS
 ======
 
-The last few years has seen the rise of the political geek. This phenomena is little understood, but some theorize that it has come about because of the popular media's attempts to demonize the Internet and computer use in general, and the government's willingness to go along with it. Others propose that the aging geek population has simply started taking an interest in the world around them. Some support the "Sun Spot" theory. As of v4 some new subcategories are added to the PS and PE categories.
+The last few years has seen the rise of the political geek. This phenomena is little understood, but some theorize that it has come about because of the popular media's attempts to demonize the Internet and computer use in general, and the government's willingness to go along with it. Others propose that the aging geek population has simply started taking an interest in the world around them. Some support the "Sun Spot" theory.
 
 Politics and Social Issues
 ------
@@ -465,6 +465,8 @@ Politics and Social Issues
 Where, in general, your political views on different social issues fall. The + and – ratings here roughly indicate left/right on the political spectrum.
 
 Subcategories (give yourself a geek point if your first thought was 'actually, subsubcategories')
+
+As of v4 some new subcategories are added to the PS and PE categories.
 
 ```
 	PSG = green politics/sustainability/climate
@@ -689,7 +691,7 @@ Pronouns should always be lowercase to prevent them from being mistaken for curr
 
 For example:
 
-he/him+++
+`he/him+++`
 
 (Deprecated / Optional)
 Females may use 'X' in this category. Males may use 'Y'. Other genders may use 'Q'. Those that do not wish to disclose their gender can use 'Z'.

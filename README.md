@@ -13,9 +13,9 @@ Older Versions
 ------
 Robert A. Hayden, a student and later a graduate of Mankato State University, created and wrote Version 0.1 of the Geek Code, which only had about five categories. Version 0.2 focused on correcting spelling and bugs, while Version 0.3 added a few more categories.
 
-[Click here to see Version 0.3 on the web!](https://www.cs.cmu.edu/afs/cs/user/scotts/ftp/bulgarians/geek-code.html "This is perhaps the oldest still surviving example of Geek Code on the web!")
+The web links provided in this text are some of the earliest examples of the Geek Code still surviving on the internet. In the case that these websites disappear or stop loading, a backup of the old code has been created for posterity in this GitHub repository.
 
-The web links provided in this text are some of the earliest examples of the Geek Code still surviving on the internet.
+[Click here to see Version 0.3 on the web!](https://www.cs.cmu.edu/afs/cs/user/scotts/ftp/bulgarians/geek-code.html "This is perhaps the oldest still surviving example of Geek Code on the web!")
 
 Version 1.0 was released four months after 0.3, on July 17, 1993, and added several more categories, along with rules for cross-overs and variables.
 

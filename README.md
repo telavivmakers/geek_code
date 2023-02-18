@@ -171,7 +171,9 @@ B = Beardliness/Hair
 
 Facial hair has a significant presence in the geek community, serving as a means of expressing one's personal style and countercultural leanings. Although the concept of ["unix beards"](http://www.usenix.org.uk/content/unix_beards.html) may not apply to everyone, it still deserves recognition and inclusion in this category.
 
-The hair code is divided into five distinct parts, each separated by a colon. These parts are ( `Head : Beard : Brows : Mustache : Sideburns` )
+The hair code is divided into five distinct parts, each separated by a colon.
+
+These parts are ( `Head : Beard : Brows : Mustache : Sideburns` )
 
 |				|			|				|
 |:---			|	:---:	|	:---		|

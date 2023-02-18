@@ -382,7 +382,6 @@ Pretty Good Privacy (aka PGP) is a program available on many platforms that will
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
-
 |	`PGP++++`	| 	=		|	My name is Philip Zimmerman and/or I am a strong advocate for PGP.	|
 |	`PGP+++`	| 	=		|	For security reasons, I exclusively communicate through encrypted or signed mail. If you're able to read this without decrypting it first, there's a problem as it didn't come from me.	|
 |	`PGP++`		|	=		|	As a PGP user, I stay up to date with the latest version and regularly implement it.	|

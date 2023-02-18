@@ -62,19 +62,19 @@ Some categories may not be relevant to you, so you can ignore them. Also, some o
 Once you have provided a set of category/qualifier strings for any of the above, it's time to assemble your code for display. Simply concatenate the substrings with a space between them. Your final code might look something like this:
 
 ```
-GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11_(++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
+GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11+++@ ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
 ```
 
 When it comes to sharing code, using a long line can be unwieldy and difficult to read for the user. To improve the readability, it's advisable to incorporate line breaks in between certain categories. This approach can help create a rough box shape that makes the code more accessible and easier to follow.
 
 ```
------BEGIN GEEK CODE BLOCK VERSION 5.1-----
+-----		BEGIN GEEK CODE BLOCK VERSION 6.0		-----
 GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++)
-MW11_(++) ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
-IO+++:---(+) PGP G:exarobibliologist E++ H+ PSG PE
+MW11+++@ ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
+IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE
 TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
 TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
------END GEEK CODE BLOCK VERSION 5.1-----
+-----		END GEEK CODE BLOCK VERSION 6.0			-----
 ```
 
 Special characters

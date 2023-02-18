@@ -74,7 +74,7 @@ MW11+++@ ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
 IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE
 TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
 TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
------	END GEEK CODE VERSION 6.0		-----
+-----	END GEEK CODE VERSION 6.0	-----
 ```
 
 Special characters

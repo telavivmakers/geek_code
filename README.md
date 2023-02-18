@@ -68,13 +68,13 @@ GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11+++@ ULD++++$ MC-- Lbas
 When it comes to sharing code, using a long line can be unwieldy and difficult to read for the user. To improve the readability, it's advisable to incorporate line breaks in between certain categories. This approach can help create a rough box shape that makes the code more accessible and easier to follow.
 
 ```
------	BEGIN GEEK CODE BLOCK VERSION 6.0	-----
+-----	BEGIN GEEK CODE VERSION 6.0	-----
 GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++)
 MW11+++@ ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
 IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE
 TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
 TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
------	END GEEK CODE BLOCK VERSION 6.0	-----
+-----	END GEEK CODE VERSION 6.0		-----
 ```
 
 Special characters

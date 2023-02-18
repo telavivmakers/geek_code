@@ -84,16 +84,16 @@ A few special characters allow for the (ultimately wrong but practically useful)
 
 |			|			|				|
 |:---		|	:---:	|	:---		|
-|	`+`		|	=		|	indicates an increased amount of geekiness in a particular area. Each additional + raises the level further.	|
-|	`_`		|	=		|	(Optional) indicates a baseline answer. _ is one step above -, and one step below +. Therefore, _ is never combined with + or -. For example, instead of leaving it blank/empty, a geek of average shape and size could write d_:_ to indicate they are at the baseline.	|
-|	`-`		|	=		|	indicates a decreased amount of geekiness in a particular area. Each additional - reduces the level further.	|
-|	`@`		|	=		|	for this variable, said trait is not very rigid and may change with time or with individual interaction. For example, Geeks who happen to very much enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as TSTpic+++@.	|
-|	`()`	|	=		|	for indicating "cross-overs" or ranges. Geeks who go from C+ to C— depending on the situation (i.e. mostly "C+") could use C+(—). Note: @ is different from () in that () has finite limits within the category, while @ ranges all over.	|
-|	`$`		|	=		|	Indicates that this particular category is done for a living. For example, UL+++$ indicates that the person utilizes Unix and gets paid for it. Quite a lucky geek, for sure.	|
-|	`^`		|	=		|	Indicates that the geek has a degree or certificate in this area or field. For example, GCS^/GMU/GTW^ indicates that this is a Geek of Computer Science (with a degree in this field), a Geek of Music, and a Geek of Technical Writing (with a certificate in this field)	|
-|	`>`		|	=		|	for 'wannabe' ratings. Indicating that while the geek is currently at one rating, they are striving to reach another. For example, UL+++>$ indicates a geek that is currently Linux savvy but wants to someday make money at it.	|
+|	`+`		|	=		|	Indicates a higher level of geekiness in a specific area. Each additional + raises the level further.	|
+|	`_`		|	=		|	(Optional) Indicates a baseline answer. _ is one step above -, and one step below +. Therefore, _ is never combined with + or -. For example, instead of leaving it blank/empty, a geek of average shape and size could write `d_:_` to indicate they are at the baseline.	|
+|	`-`		|	=		|	Indicates a lower level of geekiness in a specific area. Each additional - reduces the level further.	|
+|	`@`		|	=		|	Indicates a trait that is not very rigid and may change with time or with individual interaction. For example, Geeks who happen to enjoy Star Trek: Picard as a whole, but aren't sure how they like the current season might list themselves as `TSTpic+++@`.	|
+|	`()`	|	=		|	Indicates "cross-overs" or ranges. Geeks who go from C+ to C- depending on the situation (i.e. mostly "C+") could use `C+(-)`. Note: @ is different from () in that () has finite limits within the category, while @ ranges all over.	|
+|	`$`		|	=		|	Indicates that this particular category is something a geek earns money by doing. For example, `UL+++$` indicates that the person utilizes Unix and gets paid for it.	|
+|	`^`		|	=		|	Indicates that the geek has a degree or certificate in this area or field. For example, `GCS^/GMU/GTW^` indicates that this is a Geek of Computer Science (possessing a degree), a Geek of Music, and a Geek of Technical Writing (with a certificate here)	|
+|	`>`		|	=		|	Indicates a goal. Indicating that while the geek is currently at one rating, they are striving to reach another. For example, `UL+++>$` indicates a geek that is currently Linux savvy but wants to someday make money at it.	|
 |	`?`		|	=		|	Unless stated otherwise within the specific category, the ? is placed after the category identifier and indicates that the geek has no knowledge about that specific category.	|
-|	`!`		|	=		|	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates a lack of knowledge, while the ! indicates stubborn refusal to participate. For example, !MC would be a person that just plain refuses to have anything to do with Macintosh, while MC? would be a person that doesn't even know what Macintosh is.	|
+|	`!`		|	=		|	Placed BEFORE the category. Unless stated otherwise, indicates that the person refuses to participate in this category. This is unlike the ? variable as the ? indicates a lack of knowledge, while the ! indicates stubborn refusal to participate. For example, `!MC` would be a person that refuses to have anything to do with Macintosh, while `MC?` would be a person that doesn't even know what Macintosh is.	|
 
 The categories
 ======
@@ -207,15 +207,15 @@ D = Dimensions
 
 People who are considered geeks come in a wide variety of forms. The initial portion indicates the vertical extent, while the latter represents the horizontal extent. The two parts are delimited by a colon.
 
-|				|			|	Vertical Extent							|	Horizontal Extent				|
-|:---			|	:---:	|	:---									|	:---							|
-|	`+++:+++` 	|	=		|	I usually have to duck through doors	|	I take up three movie seats.	|
-|	`++:++` 	|	=		|	I'm a basketball candidate.				|	I'm a linebacker candidate		|
-|	`+:+` 		|	=		|	I'm a little taller than most.			|	I'm a little rounder than most	|
-|	`:` 		|	=		|	Geek of average height					|	Geek of average width			|
-|	`-:-`		|	=		|	I look up to most people. 				|	Everyone tells me to gain a few pounds.	|
-|	`--:--` 	|	=		|	I look up to damn near everybody.		|	I tend to have to fight against a strong breeze.	|
-|	`---:---` 	|	=		|	I take a phone book with me when I go out so I can see to eat dinner. 	|	My bones are poking through my skin.	|
+|				|			|	Vertical Extent		|	Horizontal Extent	|
+|:---			|	:---:	|	:---				|	:---				|
+|	`+++:+++` 	|	=		|	My height requires me to duck through doors.		|	My broad build takes up the space of three cinema seats.		|
+|	`++:++` 	|	=		|	I have the physical build of a basketball player.	|	I have the physical build of a linebacker.		|
+|	`+:+` 		|	=		|	I am slightly taller than the average person.		|	I have a rounder body shape than most others.	|
+|	`:` 		|	=		|	Geek of average height							|	Geek of average width			|
+|	`-:-`		|	=		|	I am shorter than most individuals.				|	People frequently advise me to gain weight.	|
+|	`--:--` 	|	=		|	I am significantly shorter than most people.	|	I often have to push through strong winds due to my lean build.	|
+|	`---:---` 	|	=		|	I require a phone book to elevate myself during meals. 	|	My body is emaciated and bony.	|
 
 Example: `D+++:---` indicates extremely tall and thin.
 
@@ -380,20 +380,21 @@ Pretty Good Privacy (aka PGP) is a program available on many platforms that will
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`PGP++++`	|	=		|	I am Philip Zimmerman	|
-|	`PGP+++`	|	=		|	I don't send or answer mail that is not encrypted, or at the very least signed. If you are reading this without decrypting it first, something is wrong. IT DIDN'T COME FROM ME!	|
-|	`PGP++` 	|	=		|	I have the most recent version and use it regularly	|
-|	`PGP+` 		|	=		|	"Finger me for my public key"	|
-|	`PGP` 		|	=		|	I've used it, but stopped long ago.	|
-|	`PGP-` 		|	=		|	I don't have anything to hide.	|
-|	`PGP--` 	|	=		|	I feel that the glory of the Internet is in the anarchic, trusting environment that so nurtures the exchange of information. Encryption just bogs that down.	|
-|	`PGP---`	|	=		|	If you support encryption on the Internet, you must be a drug dealer or terrorist or something like that.	|
-|	`PGP----` 	|	=		|	Oh, here is something you all can use that is better (insert Clipper here).	|
+
+|	`PGP++++`	| 	=		|	My name is Philip Zimmerman and/or I am a strong advocate for PGP.	|
+|	`PGP+++`	| 	=		|	For security reasons, I exclusively communicate through encrypted or signed mail. If you're able to read this without decrypting it first, there's a problem as it didn't come from me.	|
+|	`PGP++`		|	=		|	As a PGP user, I stay up to date with the latest version and regularly implement it.	|
+|	`PGP+`		|	=		|	Please "finger" me for my public key.	|
+|	`PGP`		|	=		|	I used PGP before, but I haven't utilized it in a long time.	|
+|	`PGP-`		|	=		|	I don't feel the need to use encryption as I don't have anything to hide.	|
+|	`PGP--`		|	=		|	Although I recognize the importance of encryption, I believe that the true value of the internet lies in its open and free exchange of information. Encryption can sometimes inhibit that.	|
+|	`PGP---`	|	=		|	If you are in support of encryption on the internet, it's possible that people may assume you're involved in illegal activities like drug dealing or terrorism.	|
+|	`PGP----`	|	=		|	Instead of PGP, I recommend using (insert Clipper here) which I believe is a better alternative.	|
 
 G = GitHub Username
 ------
 
-Version control systems are an essential tool for many programmers and technology enthusiasts. Please share which version control system you prefer and your corresponding username, allowing us to easily locate you.
+Version control systems are indispensable for programmers and technology enthusiasts alike. Please kindly share with us the name of the version control system that you prefer to use, along with your corresponding username. This will enable us to easily locate you and connect with you.
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
@@ -417,9 +418,9 @@ E = Electronics
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`E+++`		|	=		|	I am lady ada	|
-|	`E++`		|	=		|	I have fixed broken toasters without removing the plug, such is my skill and need for speed. 	|
-|	`E+`		|	=		|	I know CMOS from BJT and why a comparator is not quite equivalent to an op amp	|
+|	`E+++`		|	=		|	I am as skilled as Lady Ada Lovelace, the first computer programmer.	|
+|	`E++`		|	=		|	Thanks to my skill and need for efficiency, I have successfully repaired malfunctioning toasters without unplugging them. 	|
+|	`E+`		|	=		|	I am familiar with the concepts of CMOS and BJT, as well as the important distinction between a comparator and an operational amplifier (op amp).	|
 |	`E`			|	=		|				|
 |	`E-`		|	=		|				|
 |	`E--`		|	=		|	Electrons are interesting as theoretical constructs	|
@@ -429,12 +430,12 @@ H = Hardware
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`H+++`		|	=		|	I smithed my own chainmail from iron I smelted with ore mined by means of steam-powered equipment I created from old car parts.	|
-|	`H++`		|	=		|				|
+|	`H+++`		|	=		|	I am as skilled as Charles Babbage, the father of the mechanical computer.	|
+|	`H++`		|	=		|	I crafted my very own chainmail armor by smelting iron derived from ore mined through the utilization of steam-powered machinery I ingeniously fashioned from recycled car parts.			|
 |	`H+`		|	=		|				|
 |	`H`			|	=		|				|
-|	`H-`		|	=		|	I have used hammers metaphorically far more often than literally	|
-|	`H--`		|	=		|	I prefer to take my laptop to the shop when the hardware acts up	|
+|	`H-`		|	=		|	Metaphorically speaking, I have employed hammers on numerous occasions, whereas in reality, I have rarely utilized them.	|
+|	`H--`		|	=		|	When there are issues with the hardware of my laptop, I find it preferable to bring it to a repair shop.	|
 
 POLITICS
 ======
@@ -456,13 +457,13 @@ Subcategories (give yourself a geek point if your first thought was 'actually, s
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`PS+++`		|	=		|	Legalize drugs! Abolish the government. "Fuck the draft!"	|
-|	`PS++`		|	=		|	I give to liberal causes. I march for gay rights. I'm a card-carrying member of the ACLU. Keep abortion safe and legal.	|
-|	`PS+`		|	=		|	My whole concept of liberalism is that nobody has the right to tell anybody else what to do, on either side of the political fence. If you don't like it, turn the bloody channel.	|
-|	`PS`		|	=		|	I really don't have an opinion; nobody's messing with my freedoms right now.	|
-|	`PS-`		|	=		|	Label records! Keep dirty stuff off the TV and the Internet.	|
-|	`PS--`		|	=		|	Oppose sex education, abortion rights, and gay rights. Rush Limbaugh is my spokesman.	|
-|	`PS---`		|	=		|	Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in '96.	|
+|	`PS+++`		|	=		|	Advocate for the legalization of drugs! Call for the abolition of the government. "Fuck the draft!"	|
+|	`PS++`		|	=		|	I contribute to organizations that champion liberal causes, including those focused on civil and gay rights, and strive to promote social justice. As an active member of the ACLU and/or NAACP, I am committed to supporting these critical initiatives. #BlackLivesMatter	#RoeVWade	|
+|	`PS+`		|	=		|	Individuals should not impose their opinions or beliefs on others, regardless of their political stance. If something is not to your liking, you have the freedom to change the channel or simply walk away.	|
+|	`PS`		|	=		|	At the present moment, my personal stance remains neutral as there are no perceived infringements on my liberties.	|
+|	`PS-`		|	=		|	Prevent inappropriate content from appearing on the television and online platforms. It is imperative to establish a reliable and efficient rating system for music and online media.	|
+|	`PS--`		|	=		|	I am in opposition to the idea of providing sex education, granting abortion rights, and recognizing gay rights.	|
+|	`PS---`		|	=		|	Repent left-wing sinners and change your wicked evil ways. Make America great again!	|
 
 
 Politics and Economic Issues
@@ -471,22 +472,24 @@ Note this category has been reversed as of v4 to maintain the loose left+ and ri
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`PE+++`		|	=		|	Capitalism is evil! Government should provide the services we really need. Nobody should be rich.	|
-|	`PE++`		|	=		|	Keep the government off the backs of businesses. Deregulate as much as possible.	|
-|	`PE`		|	=		|	Distrust both government and business.	|
-|	`PE-`		|	=		|	It's ok to increase government spending, so we can help more poor people. Tax the rich! Cut the defense budget!	|
-|	`PE--`		|	=		|	Balance the budget with spending cuts and an amendment.	|
-|	`PE---`		|	=		|	Abolish antitrust legislation. Raise taxes on everyone but the rich so that the money can trickle-down to the masses.	|
+|	`PE+++`		|	=		|	Capitalism is evil! Essential services must be provided by the government. Nobody should be rich.	|
+|	`PE++`		|	=		|	It is imperative to prevent the government from unnecessarily interfering with businesses. Therefore, it is highly recommended to reduce regulations and bureaucracy as much as feasible.	|
+|	`PE+`		|	=		|		|
+|	`PE`		|	=		|	I am skeptical towards both the government and businesses.	|
+|	`PE-`		|	=		|	It is justifiable to augment government expenditure in order to aid a greater number of impoverished individuals. Reducing the allocation of funds towards defense, and levying taxes on the wealthy is imperative.	|
+|	`PE--`		|	=		|	Attaining a balanced budget requires a meticulous examination of all expenditures, followed by astute reduction of costs, along with the implementation of an amendment. By doing so, financial stability can ultimately be reached.	|
+|	`PE---`		|	=		|	Repeal the antitrust laws and implement a taxation system that favors the wealthy, allowing for a trickle-down effect to the rest of society.	|
 
 ENTERTAINMENT
 ======
 
-Geeks love to play. No matter their age, all geeks enjoy playing. Of course, the object of this entertainment takes a myriad of different forms. What is it that pushes a geek to play? Is it simply a desire to relive their childhood? Or perhaps there is a piece of geeky genetic code that requires intellectual stimulation. Who knows, maybe it's a Freudian thing…
+Enthusiastic and dedicated, geeks are known for their deep-seated interests and their enthusiasm for recreational pursuits. Regardless of age, they are drawn to the pleasures of playing, be it through board games, video games, or any other activity. What drives their passion for these hobbies? Is it a desire to recapture their youth or a natural proclivity towards mental stimulation?
 
 T = TV
 ------
 
-List what you think of the series you geek out to
+What are your thoughts on the TV show that captivates you as a devoted fan.
+
 |	 			|			|						|
 |:---			|	:---:	|	:---		|
 |	`TBBT`		|	=		|	The Big Bang Theory	|
@@ -559,47 +562,47 @@ List what you think of the series you geek out to
 Example Star Trek info
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`TST+++`	|	=		|	It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.	|
-|	`TST++`		|	=		|	It's the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I've built a few of the model kits too. But you'll never catch me at one of those conventions. Those people are kooks.	|
-|	`TST+`		|	=		|	It's a damn fine TV show and is one of the only things good on television anymore.	|
-|	`TST`		|	=		|	It's just another TV show	|
-|	`TST-`		|	=		|	Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I'm missing something but I just think it is bad drama.	|
-|	`TST--`		|	=		|	Star Trek is just another Space Opera. William Shatner isn't an actor, he's a poser! And what's with this Jean-Luc Picard? A Frenchman with a British accent? Come on. Isn't Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons? Come on. I'd only watch this show if my remote control broke.	|
-|	`TST---`	|	=		|	Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you Trekkies out there, GET A LIFE! (William Shatner is a t@#$)	|
+|	`TST+++`	|	=		|	This is not merely a program on television, but rather a way of life. My knowledge extends beyond the characters and plot, encompassing the complexities of warp field dynamics and the underlying principles of the transporter. I have even committed the TECH manual to memory. In addition, I am fluent in the Klingon language and have been known to attend conventions adorned with Vulcan ears. My devotion to this universe leaves little room for any other pursuits.	|
+|	`TST++`		|	=		|	This show is simply unbeatable. I possess all of the episodes and movies on VCR/DVD/Blu-Ray and can even recite entire scenes flawlessly. Furthermore, I've even constructed several of the model kits. However, I wouldn't be caught dead attending one of those conventions. Frankly, those individuals are a bit eccentric.	|
+|	`TST+`		|	=		|	This is an exceptional television program that stands out as one of the few things worth watching on television these days.	|
+|	`TST`		|	=		|	"Ah, it's merely another television program."	|
+|	`TST-`		|	=		|	I fail to comprehend the immense popularity of Star Trek. Maybe there is something I am overlooking, but I simply find it to be uninteresting and lacking in quality drama.	|
+|	`TST--`		|	=		|	Star Trek is merely another example of the Space Opera genre. I do not believe that William Shatner is a talented actor; rather, I view him as poser. Additionally, I find it strange that Jean-Luc Picard, a French character, has a British accent. Furthermore, I can't help but think that Voyager is just a recycled version of Lost in Space. In regards to Sisko, it appears as if he has hardly taken a breath in the past two seasons. Frankly, I wouldn't bother watching this show unless my remote control stopped working.	|
+|	`TST---`	|	=		|	I have a strong dislike for Star Trek, as I find it to be of low quality. I would only go to conventions to urge fans of the show to prioritize their time on more meaningful pursuits.	|
 
 
 RPG = Roleplaying
 ------
 
-Role-playing games such as Dungeons & Dragons have long been a part of the traditional geek life. Because geeks often become so involved in their role-playing that they lose touch with reality, include one of the following role-playing codes.
+Role-playing games, such as Dungeons & Dragons, have been a popular pastime among geeks for quite some time. However, it is not uncommon for individuals who engage in role-playing to become so engrossed in their fantasy world that they lose sight of reality. Rank your ability with roleplaying games with the following code.
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`RPG+++`	|	=		|	I've written and published my own gaming materials.	|
-|	`RPG++`		|	=		|	There is no life outside the role of the die. I know all of the piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players.	|
-|	`RPG+`		|	=		|	I've got my weekly sessions set up and a character that I know better than I know myself.	|
-|	`RPG`		|	=		|	Role-Playing? That's just something to do to kill a Saturday afternoon	|
-|	`RPG-`		|	=		|	Gosh, what an utter waste of time!	|
-|	`RPG--`		|	=		|	Role-Players are instruments of pure evil.	|
+|	`RPG+++`	|	=		|	I have authored and successfully published my very own gaming resources.	|
+|	`RPG++`		|	=		|	There exists no existence beyond the realm of the die. As for the game of my choosing, I am well-versed in all its minutia and errata. My peculiar and unconventional set of rules tend to intimidate the other players.	|
+|	`RPG+`		|	=		|	I have scheduled my weekly RPG sessions and have established a well-defined character that I understand intimately, perhaps better than I know myself.	|
+|	`RPG`		|	=		|	"Role-Playing? That's just a leisure activity to pass the time on a lazy Saturday afternoon."	|
+|	`RPG-`		|	=		|	What a complete and total waste of valuable time!	|
+|	`RPG--`		|	=		|	Role-Players are tools of pure evil.	|
 |	`RPG---`	|	=		|	I work for T$R.	|
-|	`RPG?`		|	=		|	I thought life WAS role-playing?	|
+|	`RPG?`		|	=		|	I believe that life itself IS a form of role-playing.	|
 
 
 BK = Books
 ------
 
-In addition (or maybe on the other hand), many geeks have lives that revolve around books.
+Furthermore (or conversely), numerous individuals with an affinity for academic pursuits lead lifestyles centered around literature.
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
-|	`BK++++`	|	=		|	I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I've ordered books from another country to get my Favorite Author Fix.	|
-|	`BK+++`		|	=		|	I consume a few books a week as part of a staple diet.	|
-|	`BK++`		|	=		|	I find the time to get through at least one new book a month.	|
-|	`BK+`		|	=		|	I enjoy reading, but don't get the time very often.	|
-|	`BK`		|	=		|	I read the newspaper and the occasional book.	|
-|	`BK-`		|	=		|	I read when there is no other way to get the information.	|
-|	`BK--`		|	=		|	I take in knowledge by osmosis	|
-|	`BK---`		|	=		|	I did not actually READ the geek code, I just had someone tell me.	|
+|	`BK++++`	|	=		|	I pride myself on my ability to devour a book on a daily basis, thanks to my possession of library cards from three different states, my account on Z-Library, as well as discount cards from all of the major bookstores. In fact, I have even gone so far as to order books from overseas just to satisfy my insatiable thirst for my favorite author's works	|
+|	`BK+++`		|	=		|	Reading is a fundamental part of my daily routine, with a few books being consumed each week as a staple in my literary diet.	|
+|	`BK++`		|	=		|	Although my schedule can be quite hectic at times, I always make sure to set aside enough time to immerse myself in at least one new book each month.	|
+|	`BK+`		|	=		|	While reading is an activity that brings me great joy, unfortunately, it's not something that I have the opportunity to do very often due to my busy lifestyle.	|
+|	`BK`		|	=		|	I like to keep myself up to date on current events by reading the newspaper, as well as indulge in the occasional book.	|
+|	`BK-`		|	=		|	In instances where other methods of obtaining information are unavailable, I will resort to reading.	|
+|	`BK--`		|	=		|	Through osmosis, I absorb knowledge.	|
+|	`BK---`		|	=		|	I did not read the geek code; I had another individual compile my code for me.	|
 
 K = Comics
 ------
@@ -616,12 +619,12 @@ You may append the code for comics with a modifier from --- to +++ to indicate h
 LIFESTYLE
 ======
 
-Geeks, unlike the lower lifeforms known as nerds, have lives. They have things to do that are in the outside world. Of course, this is usually done with other geeks, but that's not the point. The point is, that geeks are not necessarily the outcasts society often believes they are. The fact is that society isn't cool enough to be included in our activities.
+Geeks, in contrast to nerds, lead a balanced life. They engage in activities that take them beyond the confines of their homes. While they often partake in these activities with fellow geeks, it is important to note that they are not the social pariahs that society deems them to be. The reality is that society is not up to par with our interests and cannot keep up with our pursuits.
 
 MBTI / PERSONALITY
 ------
 
-Most geeks have at one time or another taken a Myers & Briggs Type Indicator test. If you want to, include your letters in the code here.
+Many individuals who identify as geeks have likely taken the Myers & Briggs Type Indicator assessment at some point. If you feel inclined to do so, please feel free to share the results of your assessment with us by providing your corresponding letter code.
 
 
 R = Residence
@@ -631,48 +634,39 @@ Tell us about your geeky home.
 
 |			|			|				|
 |:---		|	:---:	|	:---		|
-|	`R+++`		|	=		|	Living in a cave with 47 computers and an Internet feed, located near a Domino's pizza.	|
-|	`R++`		|	=		|	Living alone, get out once a week to buy food, no more than once a month to do laundry. All surfaces covered.	|
-|	`R+`		|	=		|	Friends come over to visit every once in a while to talk about Geek things. There is a place for them to sit.	|
-|	`R`			|	=		|	Living with one or more registered Geeks.	|
-|	`R-`		|	=		|	Living with one or more people who know nothing about being a Geek and refuse to watch geeky shows on TV.	|
-|	`R--`		|	=		|	Married (or living romantically with someone.)	|
-|	`R---`		|	=		|	Married with children – Al Bundy can sympathize	|
-|	`R!` 		|	=		|	I am stuck living with my parents!	|
-|	`R?` 		|	=		|	I'm not sure where I live anymore. This lab/workplace seems like home to me.	|
+|	`R+++`		|	=		|	Nestled in a cave, surrounded by 47 computers, and blessed with an uninterrupted Internet connection, I find solace in my geeky haven situated in close proximity to a Domino's pizza joint.	|
+|	`R++`		|	=		|	Preferring the company of my thoughts, I lead a solitary life, venturing out of my abode once a week to purchase necessary groceries and no more than once a month to do my laundry. The surfaces in my living space remain entirely occupied, much like my mind.	|
+|	`R+`		|	=		|	Occasionally, I entertain visitors, who share my love for all things geeky. We engage in spirited discussions about the latest trends and topics, and there is a place for everyone to sit.	|
+|	`R`			|	=		|	I share my dwelling with other registered geeks who share my same passion for unrestricted intelligence.	|
+|	`R-`		|	=		|	Living with individuals who have no understanding of geek culture or television shows catering to my interests is a challenge.	|
+|	`R--`		|	=		|	I am happily married or live romantically with a partner.	|
+|	`R---`		|	=		|	My living situation is similar to that of Al Bundy's – married with children.	|
+|	`R!` 		|	=		|	Circumstances have left me living with my parents, which presents a few obstacles for a geek like me.	|
+|	`R?` 		|	=		|	I spend so much of my time in my lab or workplace that it feels more like home than any other place I have lived in, and I'm unsure if I even have a fixed place of residence anymore.	|
 
 RELATIONSHIPS, SEX, AND GENDER
 ======
 
-While many geeks are highly successful at having relationships, a good many more are not.
+While some geeks are able to maintain successful relationships, a significant number struggle in this area. Historically, geeks have had difficulties with sexual experiences, often leading to a lack thereof. As a result, it is crucial for geeks to be open to discussing and quantifying their sexual encounters.
 
-Geeks have traditionally had problems with sex (ie, they never have any). Because geeks are so wrapped up in their sexuality (or lack of sexuality), it is important that the geek be willing to quantify their sexual experiences.
-
-This code also is used to denote the gender of the geek.
-
-Share your pronouns followed by the modifier to show how successful you have been with relationships and sex.
-
-Pronouns should always be lowercase to prevent them from being mistaken for current or future geekcode (which is capitalized in most cases).
+this coding system can indicate the gender of a geek, and it is important to share one's preferred pronouns. These pronouns should always be written in lowercase to avoid any confusion with current or future geekcode, which typically uses capital letters. Finally, adding a modifier can offer insight into one's success with relationships and sexual experiences.
 
 |			|			|				|
 |:---		|	:---:	|	:---		|
-|	`*`			|	=		|	I'm a pervert	|
-|	`**`		|	=		|	I've been known to make perverts look like angels.	|
-|	`++++`		|	=		|	I've got a few rugrats to prove I've been there.	|
-|	`+++`		|	=		|	Married, so I can get it (theoretically) whenever I want.	|
-|	`++`		|	=		|	I was once referred to as 'easy'. I have no idea where that might have come from though.	|
-|	`+`			|	=		|	I've had sex	|
-|				|	=		|	I've had sex. Oh! You mean with someone else? Then no.	|
-|	`-`			|	=		|	Not having sex by choice.	|
-|	`--`		|	=		|	People just aren't interested in dating me...	|
-|	`---`		|	=		|	Not having sex because I'm a nun or a priest.	|
-|	`%`			|	=		|	signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'.	|
-|	`!`			|	=		|	None of your business what my sex life is like!	|
-|	`>+`		|	=		|	Desperate for experience	|
+| 	`*`		|	=		|	I have a sexual inclination that deviates from societal norms.	|
+| 	`**`	|	=		|	I am highly skilled in engaging in sexual behavior that is considered taboo.	|
+| 	`++++`	|	=		|	I have a handful of children that are evidence of my sexual activity.	|
+| 	`+++`	|	=		|	Since I am married, I have the option to have sex with my partner whenever I desire.	|
+| 	`++`	|	=		|	I was once labeled as sexually promiscuous without any justification.	|
+|	`+`		|	=		|	I have participated in sexual activity with other people.	|
+|			|	=		|	To clarify, I have engaged in sexual activity, but only with myself, and not with any another individual.	|
+|	`-`		|	=		|	I am choosing not to engage in sexual activity at this time.	|
+|	`--`	|	=		|	People do not show any interest in pursuing a romantic relationship with me.	|
+|	`---`	|	=		|	Abstaining from sexual activity due to religious or personal beliefs.	|
+|	`%`		| 	=		|	I am a member of the SBCA (Sour Bachelor(ette)'s Club of America), a group of single individuals with the motto 'Bitter, but not Desperate'.	|
+|	`!`		|	=		|	I do not feel comfortable sharing information about my sexual experiences.	|
+|	`>+`	|	=		|	I am actively seeking to gain sexual experience. |
 
 For example:
 
 `he/him+++`
-
-(Deprecated / Optional)
-Females may use 'X' in this category. Males may use 'Y'. Other genders may use 'Q'. Those who are non-binary or do not wish to disclose their gender can use 'Z'.

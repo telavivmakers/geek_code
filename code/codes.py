@@ -1,8 +1,11 @@
 # geek_code 5.x decoder 
 
+# Base codes without modifiers (+++, --, etc) since those are handled separately
+# Each code must be a distinct word for regex matching with \b word boundaries
+
 geek_of = {
 'GAI' : 'Geek of Artificial Intelligence',
-'GBIO' : 'Geek of Biomedical Engineering',
+'GBIO' : 'Geek of Biomedical Engineering', 
 'GB' : 'Geek of Business',
 'GC' : 'Geek of Classics',
 'GCA' : 'Geek of Commercial Arts',
@@ -31,8 +34,157 @@ geek_of = {
 'GSS' : 'Geek of Social Science (Psychology, Sociology, etc.)',
 'GTW' : 'Geek of Technical Writing',
 'GVDD' : 'Geek of Video Game Design',
-'GO' : 'Geek of Other. Some types of geeks deviate from the normal geek activities. This is encouraged as true geeks come from all walks of life.',
-'GU' : 'Geek of "Undecided". This is a popular vocation with incoming freshmen.',
-'G!' : 'Geek of no qualifications nor interests; likely, cannot exist',
-'GAT' : 'Geek of All Trades. For those geeks that can do anything and everything. GAT usually precludes the use of other vocational descriptors.'
+'GO' : 'Geek of Other',
+'GU' : 'Geek of Undecided',
+'G!' : 'Geek of no qualifications',
+'GAT' : 'Geek of All Trades'
+}
+
+# TV show codes - base identifiers only
+tv_shows = {
+'TBBT' : 'The Big Bang Theory',
+'TB5' : 'Babylon 5',
+'TBG' : 'Battlestar Galactica',
+'TDW' : 'Doctor Who',
+'TEX' : 'The Expanse',
+'TFF' : 'Firefly',
+'TGT' : 'Game of Thrones',
+'TIL' : 'In Search Of with Leonard Nimoy',
+'TMON' : 'Monty Python',
+'TMM' : 'Mad Max',
+'TLOTR' : 'Lord of the Rings',
+'TL' : 'Lost',
+'TOB' : 'Orphan Black',
+'TRM' : 'Rick and Morty',
+'TW13' : 'Warehouse 13',
+'THRO' : 'Heroes',
+'THROrb' : 'Heroes Reborn',
+'TLV' : 'Leverage',
+'TLVr' : 'Leverage Redemption',
+'TSG' : 'Stargate',
+'TSG1' : 'Stargate SG-1',
+'TSGa' : 'Stargate Atlantis', 
+'TSGu' : 'Stargate Universe',
+'TSGoc' : 'Stargate Origins Catherine',
+'TST' : 'Star Trek',
+'TSTanm' : 'Star Trek Animated Series',
+'TSTng' : 'Star Trek The Next Generation',
+'TSTds9' : 'Star Trek Deep Space Nine',
+'TSTv' : 'Star Trek Voyager',
+'TSTe' : 'Star Trek Enterprise',
+'TSTdsc' : 'Star Trek Discovery',
+'TSTpic' : 'Star Trek Picard',
+'TSTld' : 'Star Trek Lower Decks',
+'TSTst' : 'Star Trek Short Treks',
+'TSTpro' : 'Star Trek Prodigy',
+'TSTsnw' : 'Star Trek Strange New Worlds',
+'TSW' : 'Star Wars',
+'TSWcw' : 'Star Wars Clone Wars',
+'TSWman' : 'The Mandalorian',
+'TSWand' : 'Star Wars Andor',
+'TSWobi' : 'Star Wars Obi-Wan Kenobi',
+'TSWbob' : 'Star Wars Book of Boba Fett',
+'TSWv' : 'Star Wars Visions',
+'TSWbb' : 'Star Wars Bad Batch',
+'TSWres' : 'Star Wars Resistance',
+'TSWreb' : 'Star Wars Rebels'
+}
+
+# Programming language codes - base identifiers only
+programming_languages = {
+'Lasm' : 'Assembly',
+'Lbash' : 'Bourne Again Shell',
+'LC' : 'C',
+'LCpp' : 'C++',
+'LC#' : 'C#',
+'Lgo' : 'Go',
+'LGPT' : 'GPT',
+'Lj' : 'Java',
+'Ljs' : 'JavaScript',
+'Llll' : 'Low-level Lisp',
+'Llua' : 'Lua',
+'LM' : 'MATLAB',
+'LoC' : 'Objective C',
+'LP' : 'Perl',
+'Lphp' : 'PHP',
+'Lpy' : 'Python',
+'LQ#' : 'Q#',
+'LR' : 'R',
+'LRs' : 'Rust',
+'LRu' : 'Ruby',
+'Lsql' : 'SQL',
+'Lvb' : 'Visual Basic',
+'Lwps' : 'Windows PowerShell'
+}
+
+# Version control codes - base identifiers only
+version_control = {
+'G' : 'GitHub',
+'Gl' : 'GitLab', 
+'Gb' : 'BitBucket',
+'Gbk' : 'Bitkeeper',
+'Gbn' : 'Beanstalk',
+'Gsvn' : 'Subversion',
+'Gtfs' : 'Team Foundation Server'
+}
+
+# Comic codes - base identifiers only
+comics = {
+'KD' : 'Dilbert',
+'KX' : 'XKCD',
+'KM' : 'Manga',
+'KM!' : 'Hentai'
+}
+
+# Computer codes - base identifiers only
+computers = {
+'CM' : 'Computer Proficiency',
+'MW' : 'Microsoft Windows',
+'U' : 'Unix',
+'UL' : 'Linux',
+'ULA' : 'Arch Linux',
+'ULAP' : 'Pacman',
+'ULD' : 'Debian',
+'ULDU' : 'Ubuntu',
+'ULDUM' : 'Linux Mint',
+'ULDD' : 'Deepin',
+'ULF' : 'Fedora',
+'ULRH' : 'Red Hat Enterprise Linux',
+'ULRC' : 'CentOS',
+'ULRO' : 'OpenSUSE',
+'ULG' : 'Gentoo',
+'ULGC' : 'ChromeOS',
+'ULS' : 'Slackware',
+'US' : 'Sun OS/Solaris',
+'UA' : 'AIX',
+'UH' : 'HPUX',
+'UI' : 'IRIX',
+'UC' : 'SCO Unix',
+'MC' : 'Mac/Apple'
+}
+
+# Politics codes - base identifiers only
+politics = {
+'PSG' : 'Green Politics/Sustainability/Climate',
+'PSL' : 'Civil Liberties',
+'PSS' : 'Gender Politics',
+'PS' : 'Politics and Social Issues',
+'PE' : 'Politics and Economic Issues'
+}
+
+# Entertainment codes - base identifiers only
+entertainment = {
+'RPG' : 'Role Playing Games',
+'BK' : 'Books',
+'KD' : 'Dilbert',
+'KX' : 'XKCD',
+'KM' : 'Manga'
+}
+
+# Lifestyle codes - base identifiers only
+lifestyle = {
+'R' : 'Residence',
+'E' : 'Electronics',
+'H' : 'Hardware',
+'PGP' : 'Pretty Good Privacy'
 }

@@ -366,6 +366,24 @@ PGP_MAP = {
     "----": "Prefers something like the Clipper chip instead.",
 }
 
+ELECTRONICS_MAP = {
+    "+++": "Lady Ada tier.",
+    "++": "Comfortably fixes electronics at speed.",
+    "+": "Knows CMOS vs. BJT and why a comparator is not just an op-amp.",
+    "": "Baseline electronics familiarity.",
+    "-": "Limited practical electronics comfort.",
+    "--": "Only interested in electrons as theoretical constructs.",
+}
+
+HARDWARE_MAP = {
+    "+++": "Charles Babbage tier.",
+    "++": "Extreme hardware craftsmanship.",
+    "+": "Comfortably builds, upgrades, or repairs hardware by hand.",
+    "": "Baseline hardware familiarity.",
+    "-": "Rarely uses literal hammers.",
+    "--": "Prefers taking hardware to a shop.",
+}
+
 PS_MAP = {
     "+++": "Far-left / anarchic on social issues.",
     "++": "Clearly liberal or progressive on social issues.",
@@ -376,24 +394,19 @@ PS_MAP = {
     "---": "Extremely socially conservative.",
 }
 
-PE_V4_MAP = {
-    "+++": "Far-left on economic issues.",
-    "++": "Strongly pro-business / deregulation.",
-    "+": "Distrusts both government and business.",
-    "": "Supports more government spending and redistribution.",
-    "-": "Budget-balancing spending-cut preference.",
-    "--": "Hard-right trickle-down economics stance.",
+# Keep `PE` aligned with `PS`: more `+` means more left, more `-` means more right.
+PE_MAP = {
+    "+++": "Far-left / anti-capitalist on economic issues.",
+    "++": "Economically left: favors regulation, redistribution, and strong social safety nets.",
+    "+": "Center-left economically: markets are useful, but need regulation and a solid safety net.",
+    "": "Skeptical of both government and big business.",
+    "-": "Center-right economically: prefers lower taxes, lighter regulation, and less redistribution.",
+    "--": "Fiscally conservative: favors spending restraint and balanced-budget politics.",
+    "---": "Hard-right / laissez-faire / trickle-down economics stance.",
 }
 
-PE_MODERN_MAP = {
-    "+++": "Far-left on economic issues.",
-    "++": "Strongly pro-business / deregulation.",
-    "+": "Distrusts both government and business.",
-    "": "Skeptical of both government and business.",
-    "-": "Supports more government spending and redistribution.",
-    "--": "Favors spending cuts and a balanced-budget approach.",
-    "---": "Hard-right trickle-down economics stance.",
-}
+PE_V4_MAP = PE_MAP
+PE_MODERN_MAP = PE_MAP
 
 V4_ROLEPLAY_MAP = {
     "+++": "Has written and published gaming material.",
@@ -527,20 +540,12 @@ def _build_v4_specs() -> dict[str, CodeSpec]:
             "PGP": CodeSpec(label="Pretty Good Privacy (PGP)", rating_map=PGP_MAP),
             "E": CodeSpec(
                 label="Electronics",
-                rating_map={
-                    "+++": "Lady Ada tier.",
-                    "++": "Comfortably fixes electronics at speed.",
-                    "+": "Knows CMOS vs. BJT and why a comparator is not just an op-amp.",
-                    "--": "Only interested in electrons as theoretical constructs.",
-                },
+                rating_map=ELECTRONICS_MAP,
                 scale="skill",
             ),
             "H": CodeSpec(
                 label="Hardware",
-                rating_map={
-                    "+++": "Extreme hardware craftsmanship.",
-                    "--": "Prefers taking hardware to a shop.",
-                },
+                rating_map=HARDWARE_MAP,
                 scale="skill",
             ),
             "P": CodeSpec(
@@ -604,22 +609,12 @@ def _build_modern_specs() -> dict[str, CodeSpec]:
             "Gtfs:": CodeSpec(label="Version control username / Team Foundation Server"),
             "E": CodeSpec(
                 label="Electronics",
-                rating_map={
-                    "+++": "Lady Ada tier.",
-                    "++": "Comfortably fixes electronics at speed.",
-                    "+": "Knows CMOS vs. BJT and why a comparator is not just an op-amp.",
-                    "--": "Only interested in electrons as theoretical constructs.",
-                },
+                rating_map=ELECTRONICS_MAP,
                 scale="skill",
             ),
             "H": CodeSpec(
                 label="Hardware",
-                rating_map={
-                    "+++": "Charles Babbage tier.",
-                    "++": "Extreme hardware craftsmanship.",
-                    "-": "Rarely uses literal hammers.",
-                    "--": "Prefers taking hardware to a shop.",
-                },
+                rating_map=HARDWARE_MAP,
                 scale="skill",
             ),
             "PS": CodeSpec(label="Political and social issues", rating_map=PS_MAP),

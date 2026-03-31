@@ -205,6 +205,21 @@ MODERN_LANGUAGE_CODES = {
     "Lwps": "Programming language / Windows PowerShell",
 }
 
+SOFTWARE_DOMAIN_CODES = {
+    "SDAI": "Software domain / AI and machine learning",
+    "SDCV": "Software domain / computer vision",
+    "SDNLP": "Software domain / natural language processing",
+    "SDDS": "Software domain / data science",
+    "SDDE": "Software domain / data engineering",
+    "SDCG": "Software domain / cryptography",
+    "SDBC": "Software domain / blockchain and cryptocurrency",
+    "SDSE": "Software domain / search, retrieval, and recommenders",
+    "SDRO": "Software domain / robotics",
+    "SDCL": "Software domain / cloud and distributed systems",
+    "SDFE": "Software domain / frontend applications",
+    "SDBE": "Software domain / backend APIs and services",
+}
+
 V4_TV_CODES = {
     "TD": "TV / Doctor Who",
     "TR&M": "TV / Rick and Morty",
@@ -512,6 +527,406 @@ TREK_V4_MAP = {
 TREK_MODERN_MAP = TREK_V4_MAP
 
 
+LEGACY_GEEK_OF_CODES = {
+    **MODERN_GEEK_OF_CODES,
+    "GPM": "Geek of Pre-Med",
+    "GT": "Geek of Theater",
+}
+
+V2_DRESS_MAP = {
+    "++": "Conservative dress, business-suit territory.",
+    "+": "Trendy slogan or political-message clothing.",
+    "": "Bland catalog-ad clothing.",
+    "-": "Countercultural slogan or authority-questioning clothing.",
+    "--": "Wears jeans to work to annoy the boss.",
+    "---": "Wears torn clothes or obscenities on shirts.",
+    "----": "Punk dresser.",
+    "x": "Cross-dresser.",
+    "?": "Has no idea what they are wearing.",
+}
+
+LEGACY_AGE_MAP = {
+    "+++": "60 and up",
+    "++": "50-59",
+    "+": "40-49",
+    "": "30-39",
+    "-": "20-29",
+    "--": "10-19",
+    "---": "9 and under",
+    "?": "Ageless.",
+}
+
+LEGACY_GLASSES_MAP = {
+    "+++": "Very thick glasses.",
+    "++": "Glasses with tape-in-the-middle stereotype.",
+    "+": "Regular glasses wearer.",
+    "-": "Uses contacts.",
+    "--": "Uses colored contacts.",
+    "---": "Uses unusual decorative contacts.",
+    "?": "Cannot find their glasses.",
+}
+
+LEGACY_AUTOMOBILE_MAP = {
+    "++++": "Chauffeured limo tier.",
+    "+++": "Owns multiple Mercedes.",
+    "++": "Drives a new car costing more than many houses.",
+    "+": "Drives a sporty babe-mobile style car.",
+    "": "Drives an ordinary hand-me-down car.",
+    "-": "Drives parents' car.",
+    "--": "Drives a rusty beater with a dragging muffler.",
+    "---": "Drives a very old Pinto-tier car.",
+    "----": "Drives a Yugo.",
+    "*": "Rides a motorcycle.",
+}
+
+LEGACY_WEIRDNESS_MAP = {
+    "+++": "Extremely weird, far from the mainstream.",
+    "++": "So weird that Al Yankovic looks sane.",
+    "+": "Comfortably weird.",
+    "": "Claims to be perfectly normal.",
+    "-": "More normal than most people.",
+    "--": "Incredibly boring.",
+}
+
+LEGACY_VERBAGE_MAP = {
+    "+++": "Regional-forensics-champ eloquence.",
+    "++": "People compliment the speaker's eloquence.",
+    "+": "People compliment the speaker's vocabulary.",
+    "": "Usually speaks in complete sentences.",
+    "-": "Uses words like `grok` in everyday conversation.",
+    "--": "Talking makes people mildly embarrassed.",
+    "---": "Rarely talks; mostly types.",
+    "?": "Mumbles.",
+    "*": "Babbles.",
+}
+
+LEGACY_PERL_MAP = {
+    "+++++": "Larry Wall / Tom Christiansen / Randal Schwartz tier.",
+    "++++": "Does not write Perl, speaks it.",
+    "+++": "Uses Perl instead of shell, awk, or sed for most smaller programs.",
+    "++": "Writes shell-script-class work in Perl.",
+    "+": "Likes Perl and intends to learn more.",
+    "": "Knows Perl exists, but little more.",
+    "-": "Prefers awk and sed to Perl.",
+    "--": "Sees Perl users as twisted show-offs.",
+    "---": "Wants Perl banned.",
+    "?": "Does not know what Perl is.",
+}
+
+LEGACY_LINUX_MAP = {
+    "++++": "Linus Torvalds tier.",
+    "+++": "Linux wizard / net.god tier.",
+    "++": "Uses Linux almost exclusively and answers questions about it.",
+    "+": "Has Linux installed and uses it sometimes.",
+    "": "Knows what Linux is.",
+    "-": "No real desire to use Linux.",
+    "--": "Rejects Linux and worships Bill Gates.",
+    "---": "Bill Gates tier.",
+    "?": "Does not even know what Linux is.",
+}
+
+LEGACY_386BSD_MAP = {
+    "+++": "386BSD wizard / net.god tier.",
+    "++": "Uses 386BSD almost exclusively.",
+    "+": "Has 386BSD installed and uses it sometimes.",
+    "": "Knows what 386BSD is.",
+    "-": "No real desire to use 386BSD.",
+    "--": "Rejects 386BSD and worships Bill Gates.",
+    "---": "USL's lawyer tier.",
+    "?": "Does not even know what 386BSD is.",
+}
+
+LEGACY_EMACS_MAP = {
+    "+++": "Emacs-is-my-login-shell tier.",
+    "++": "Uses elisp regularly.",
+    "+": "Uses Emacs for mail and news too.",
+    "": "Uses Emacs as a regular editor.",
+    "-": "Finds Emacs too big and bloated.",
+    "--": "Sees Emacs as a fancy word processor.",
+    "---": "Emacs sucks; vi forever.",
+    "----": "Emacs sucks; pico forever.",
+    "?": "Does not know what Emacs is.",
+}
+
+LEGACY_WEB_MAP = {
+    "+++": "Webmaster-tier, heavily invested in the Web.",
+    "++": "Has a homepage and surfs daily.",
+    "+": "Uses the latest browser and browses with purpose.",
+    "": "Has a browser and connection; uses them occasionally.",
+    "-": "Finds the Web a bandwidth-heavy pain.",
+    "--": "Thinks the Web wastes time and bandwidth.",
+}
+
+LEGACY_USENET_MAP = {
+    "++++": "Tim Pierce tier.",
+    "+++": "Reads so much Usenet that it becomes a daily slog.",
+    "++": "Reads all news in a select handful of groups.",
+    "+": "Reads news recreationally.",
+    "": "Has read Usenet once or casually.",
+    "-": "Avoids news as a waste of time.",
+    "--": "Thinks news sucks.",
+    "*": "Reads news almost exclusively.",
+}
+
+LEGACY_KIBO_MAP = {
+    "++++++": "Is Kibo.",
+    "+++++": "Has had sex with Kibo.",
+    "++++": "Has met Kibo.",
+    "+++": "Has gotten mail from Kibo.",
+    "++": "Has read Kibo.",
+    "+": "Likes Kibo.",
+    "": "Knows who Kibo is.",
+    "-": "Does not know who Kibo is.",
+    "--": "Dislikes Kibo.",
+    "---": "Hunting Kibo down with murderous intent.",
+    "----": "Is Xibo.",
+}
+
+LEGACY_WINDOWS_MAP = {
+    "+++++": "Bill Gates tier.",
+    "++++": "Runs all the Windows variants on an SMP RISC machine.",
+    "+++": "Windows programming god tier.",
+    "++": "Writes Windows programs and DLLs.",
+    "+": "Customizes Windows heavily and lives in the fun house.",
+    "": "Uses Windows without loving it.",
+    "-": "Still fighting with Windows installs and peripherals.",
+    "--": "Thinks Windows is a joke OS.",
+    "---": "Sees Windows as a huge setback to computing.",
+}
+
+LEGACY_OS2_MAP = {
+    "+++": "Lives, eats, and breathes OS/2.",
+    "++": "Uses OS/2 for essentially all computing.",
+    "+": "Keeps DOS around just in case.",
+    "": "Got OS/2 installed and feels indifferent.",
+    "-": "Tried OS/2 and did not like it.",
+    "--": "Cannot even get OS/2 installed.",
+    "---": "Windows rules; long live Bill Gates.",
+    "----": "Bill Gates of Borg tier.",
+}
+
+LEGACY_VMS_MAP = {
+    "++": "VMS loyalist; Unix is a passing fad.",
+    "+": "Likes VMS better than Unix.",
+    "": "Has used VMS.",
+    "-": "Prefers Unix to VMS.",
+    "--": "Would rather smash their head into a brick wall than use VMS.",
+}
+
+V2_POLITICS_MAP = {
+    "+++": "Authoritarian far-right politics.",
+    "++": "Against free speech in the name of order.",
+    "+": "Wants government off big business's back.",
+    "": "Does not really care about politics.",
+    "-": "Bring back the 60s.",
+    "--": "Still living in the 60s.",
+    "---": "No taxes through no government.",
+}
+
+LEGACY_PE_MAP = {
+    "+++": "Hard-right economics: deregulation and trickle-down.",
+    "++": "Keep the government off the backs of businesses; deregulate heavily.",
+    "+": "Balance the budget with spending cuts and restraints.",
+    "": "Distrusts both government and business.",
+    "-": "Increase spending to help poor people; tax the rich and cut defense.",
+    "--": "Capitalism is evil; government should provide key services.",
+}
+
+LEGACY_CYPHERPUNK_MAP = {
+    "+++": "T.C. May tier.",
+    "++": "Active cypherpunks / EFF / anti-Clipper stance.",
+    "+": "Interested and concerned about privacy issues.",
+    "": "Pretty indifferent to cypherpunk issues.",
+    "-": "Sees cypherpunk concerns as overblown.",
+    "--": "Thinks only people with something to hide need this.",
+    "---": "L. Detweiler tier.",
+}
+
+LEGACY_XFILES_MAP = {
+    "++++": "Chris Carter tier.",
+    "+++": "Obsessive X-Files superfan.",
+    "++": "Strong fan who debates details online.",
+    "+": "Enjoys and watches it when remembered.",
+    "": "Just another Fox show.",
+    "-": "Thinks it is basically paranoia-flavored crap.",
+    "--": "Would rather talk to Oliver Stone.",
+}
+
+LEGACY_DILBERT_MAP = {
+    "+++++": "Scott Adams tier.",
+    "++++": "In the DNRC / has heard from Scott Adams.",
+    "+++": "A Dilbert prototype.",
+    "++": "Works with people like Dilbert and his boss.",
+    "+": "Reads Dilbert daily, often understanding it.",
+    "": "Reads Dilbert infrequently, rarely understanding it.",
+    "-": "Barely knows it as the engineer comic.",
+    "--": "Only thinks the dog is cute.",
+    "---": "Does not find manager satire funny.",
+}
+
+LEGACY_DOOM_MAP = {
+    "+++": "DOOM god / PWAD-making tier.",
+    "++": "Strong player who also downloads PWADs.",
+    "+": "Finds DOOM a fun diversion.",
+    "": "Has played and feels indifferent.",
+    "-": "Played it and was not impressed.",
+    "--": "Thinks it is overly violent crap.",
+    "---": "Would rather play Zork.",
+    "----": "Has seen better on an Atari 2600.",
+}
+
+LEGACY_GEEKCODE_MAP = {
+    "++++": "Robert Hayden or future-version contributor tier.",
+    "+++": "Has memorized the Geek Code and can decode it from memory.",
+    "++": "Knows what each letter means, but sometimes checks the details.",
+    "+": "Used to be more into the Geek Code before it got longer.",
+    "": "Knows the Geek Code and filled one out.",
+    "-": "Thinks the Geek Code is a waste of time.",
+    "--": "Thinks the Geek Code is a waste and Hayden needs a life.",
+}
+
+LEGACY_BABYLON5_MAP = {
+    "++++": "J. Michael Straczynski tier.",
+    "+++": "Church of Joe worshipper tier.",
+    "++": "Sees Babylon 5 as the real future of sci-fi television.",
+    "+": "Watches weekly and likes its fresh perspective.",
+    "": "Has seen Babylon 5 and feels indifferent.",
+    "-": "Sees it as a cheap Star Trek ripoff.",
+    "--": "Thinks it is soap-opera sci-fi trash.",
+}
+
+V2_MAGIC_MAP = {
+    "++++": "Magic: The Gathering god tier.",
+    "+++": "Owns top cards and plays for hours every night.",
+    "++": "Has spent serious money and a lot of time on decks.",
+    "+": "Bought a few packs and plays some.",
+    "": "Plays Magic if a deck can be borrowed.",
+    "-": "Mostly collects now.",
+    "--": "Magic is eating class, work, and sleep.",
+    "---": "Magic munchkin tier.",
+    "----": "Runs a booster-pack arbitrage scheme to buy more cards.",
+}
+
+LEGACY_BARNEY_MAP = {
+    "+++": "Worships Barney and wants to build a shrine.",
+    "++": "Does not miss an episode.",
+    "+": "Likes Barney and the wholesome message.",
+    "": "Sees Barney as fine for kids.",
+    "-": "Finds Barney annoying.",
+    "--": "Feels physically ill from Barney's message.",
+    "---": "Boycotts Barney and wants his head on the wall.",
+    "?": "Does not know who Barney is.",
+}
+
+LEGACY_MUSIC_MAP = {
+    "+++": "Over-refined elevator-music grokker.",
+    "++": "Refined classical / new-age listener.",
+    "+": "Owns a tape or CD collection.",
+    "": "Occasionally listens to the radio.",
+    "-": "Just play it loud.",
+    "--": "Air-guitar champion tier.",
+    "---": "Only wants it louder.",
+    "*": "Listens to music no one else has ever heard of.",
+    "**": "Listens to so many kinds of music they blur together.",
+}
+
+LEGACY_FRIENDS_MAP = {
+    "++": "Has so many friends it makes others jealous.",
+    "+": "Has quite a few close geek friends.",
+    "": "Claims to have friends.",
+    "-": "Has a few friends who barely speak anymore.",
+    "--": "About one friend left.",
+    "---": "Used to have friends and did not like it.",
+    "?": "Thinks they have friends.",
+    "*": "Everyone is a friend.",
+}
+
+LEGACY_NUTRITION_MAP = {
+    "+++": "Grazes like a bunny.",
+    "++": "Likes fiber in food.",
+    "+": "Likes healthy food.",
+    "-": "Grabs whatever has meat in it.",
+    "--": "Eats the cheapest artificial stuff available.",
+    "---": "Eats meat, Jurassic Park style.",
+    "----": "Lives on snacks and Coke.",
+}
+
+
+def _build_legacy_common_specs() -> dict[str, CodeSpec]:
+    return {
+        **_code_specs(LEGACY_GEEK_OF_CODES),
+        "s": CodeSpec(label="Shape", scale="dimensions_pair"),
+        "a": CodeSpec(label="Age", rating_map=LEGACY_AGE_MAP, note="`aNN` means an exact age."),
+        "C": CodeSpec(label="Computers", rating_map=V4_COMPUTERS_MAP),
+        "U": CodeSpec(label="Unix", scale="legacy_unix"),
+        "P": CodeSpec(label="Perl", rating_map=LEGACY_PERL_MAP),
+        "L": CodeSpec(label="Linux", rating_map=LEGACY_LINUX_MAP),
+        "3": CodeSpec(label="386BSD", rating_map=LEGACY_386BSD_MAP),
+        "E": CodeSpec(label="Emacs", rating_map=LEGACY_EMACS_MAP),
+        "N": CodeSpec(label="Usenet news", rating_map=LEGACY_USENET_MAP),
+        "K": CodeSpec(label="Kibo", rating_map=LEGACY_KIBO_MAP),
+        "M": CodeSpec(label="Macintosh", rating_map=MAC_MAP),
+        "V": CodeSpec(label="VMS", rating_map=LEGACY_VMS_MAP),
+        "Y": CodeSpec(label="Cypherpunks / privacy politics", rating_map=LEGACY_CYPHERPUNK_MAP),
+        "t": CodeSpec(label="Star Trek", rating_map=TREK_V4_MAP),
+        "5": CodeSpec(label="Babylon 5", rating_map=LEGACY_BABYLON5_MAP),
+        "R": CodeSpec(label="Role-playing games", rating_map=V4_ROLEPLAY_MAP),
+        "tv": CodeSpec(label="Television", scale="legacy_tv"),
+        "b": CodeSpec(label="Books", rating_map=MODERN_BOOKS_MAP),
+        "D": CodeSpec(label="DOOM / 3D shooters", rating_map=LEGACY_DOOM_MAP),
+        "e": CodeSpec(label="Education", rating_map=V4_EDUCATION_MAP),
+        "h": CodeSpec(label="Housing", rating_map=V4_HOUSING_MAP),
+        "r": CodeSpec(label="Relationships", rating_map=V4_RELATIONSHIPS_MAP),
+        "x": CodeSpec(label="Sex / gender / female", scale="sex_scale_legacy", rating_map={"?": "Uses `x` to mark female gender without sharing sex-life details."}),
+        "y": CodeSpec(label="Sex / gender / male", scale="sex_scale_legacy", rating_map={"?": "Uses `y` to mark male gender without sharing sex-life details."}),
+        "z": CodeSpec(label="Sex / gender / undisclosed", scale="sex_scale_legacy", rating_map={"?": "Uses `z` to mark undisclosed gender without sharing sex-life details."}),
+    }
+
+
+def _build_legacy_v2_specs() -> dict[str, CodeSpec]:
+    specs = _build_legacy_common_specs()
+    specs.update(
+        {
+            "d": CodeSpec(label="Dress", rating_map=V2_DRESS_MAP),
+            "H": CodeSpec(label="Hair", scale="legacy_hair", rating_map={"?": "Uses wigs to vary hair."}),
+            "g": CodeSpec(label="Glasses", rating_map=LEGACY_GLASSES_MAP),
+            "p": CodeSpec(label="Pens / pocket writing instruments", scale="pen_count", rating_map={"?": "Cannot find a writing instrument."}),
+            "au": CodeSpec(label="Automobile", rating_map=LEGACY_AUTOMOBILE_MAP),
+            "w": CodeSpec(label="Weirdness", rating_map=LEGACY_WEIRDNESS_MAP),
+            "v": CodeSpec(label="Verbage / spoken language", rating_map=LEGACY_VERBAGE_MAP),
+            "W": CodeSpec(label="Microsoft Windows", rating_map=LEGACY_WINDOWS_MAP),
+            "po": CodeSpec(label="Politics", rating_map=V2_POLITICS_MAP),
+            "-po": CodeSpec(label="Politics", rating_map={"+": "Rejects political labeling and sees both sides as equally broken."}),
+            "j": CodeSpec(label="Jeopardy", scale="media_interest"),
+            "G": CodeSpec(label="Magic: The Gathering", rating_map=V2_MAGIC_MAP),
+            "B": CodeSpec(label="Barney", rating_map=LEGACY_BARNEY_MAP),
+            "u": CodeSpec(label="Music", rating_map=LEGACY_MUSIC_MAP),
+            "f": CodeSpec(label="Friends", rating_map=LEGACY_FRIENDS_MAP),
+            "n": CodeSpec(label="Nutrition", rating_map=LEGACY_NUTRITION_MAP),
+        }
+    )
+    return specs
+
+
+def _build_legacy_v3_specs() -> dict[str, CodeSpec]:
+    specs = _build_legacy_common_specs()
+    specs.update(
+        {
+            "d": CodeSpec(label="Dress", rating_map=CLOTHING_MAP),
+            "w": CodeSpec(label="Microsoft Windows", rating_map=LEGACY_WINDOWS_MAP),
+            "W": CodeSpec(label="World Wide Web", rating_map=LEGACY_WEB_MAP),
+            "O": CodeSpec(label="OS/2", rating_map=LEGACY_OS2_MAP),
+            "PS": CodeSpec(label="Political and social issues", rating_map=PS_MAP),
+            "PE": CodeSpec(label="Politics and economic issues", rating_map=LEGACY_PE_MAP),
+            "PGP": CodeSpec(label="Pretty Good Privacy (PGP)", rating_map=PGP_MAP),
+            "X": CodeSpec(label="X-Files", rating_map=LEGACY_XFILES_MAP),
+            "DI": CodeSpec(label="Dilbert", rating_map=LEGACY_DILBERT_MAP),
+            "G": CodeSpec(label="The Geek Code", rating_map=LEGACY_GEEKCODE_MAP),
+        }
+    )
+    return specs
+
+
 def _build_v4_specs() -> dict[str, CodeSpec]:
     specs: dict[str, CodeSpec] = {}
     specs.update(_code_specs(V4_GEEK_OF_CODES))
@@ -584,6 +999,7 @@ def _build_modern_specs() -> dict[str, CodeSpec]:
     specs.update(_code_specs(MODERN_GEEK_OF_CODES))
     specs.update(_code_specs(UNIX_CODES, parent="U"))
     specs.update(_code_specs(MODERN_LANGUAGE_CODES, parent="L"))
+    specs.update(_code_specs(SOFTWARE_DOMAIN_CODES, parent="SD"))
     specs.update(_code_specs(MODERN_TV_CODES, parent="T"))
     specs.update(_code_specs(MODERN_COMICS_CODES, scale="comic_interest"))
 
@@ -598,6 +1014,7 @@ def _build_modern_specs() -> dict[str, CodeSpec]:
             "U": CodeSpec(label="Unix", rating_map=V4_UNIX_MAP),
             "MC": CodeSpec(label="Mac / Apple", rating_map=MAC_MAP),
             "L": CodeSpec(label="Programming languages", scale="language_skill"),
+            "SD": CodeSpec(label="Software domains", scale="discipline_interest"),
             "IO": CodeSpec(label="Input / output", scale="io_pair"),
             "PGP": CodeSpec(label="Pretty Good Privacy (PGP)", rating_map=PGP_MAP),
             "G:": CodeSpec(label="Version control username / GitHub"),
@@ -637,6 +1054,8 @@ def _build_modern_specs() -> dict[str, CodeSpec]:
 
 V4_PROFILE = DecodeProfile(name="v4", specs=_build_v4_specs())
 MODERN_PROFILE = DecodeProfile(name="modern", specs=_build_modern_specs())
+LEGACY_V2_PROFILE = DecodeProfile(name="legacy_v2", specs=_build_legacy_v2_specs())
+LEGACY_V3_PROFILE = DecodeProfile(name="legacy_v3", specs=_build_legacy_v3_specs())
 
 
 def normalize_text(text: str) -> str:
@@ -651,6 +1070,14 @@ def extract_version(text: str) -> str | None:
     line_match = re.search(r"Version:\s*([0-9.]+)", text, re.IGNORECASE)
     if line_match:
         return line_match.group(1)
+
+    banner_match = re.search(r"GEEK\s+CODE\s+([0-9.]+)", text, re.IGNORECASE)
+    if banner_match:
+        return banner_match.group(1)
+
+    code_of_geeks_match = re.search(r"Code of the Geeks v([0-9.]+)", text, re.IGNORECASE)
+    if code_of_geeks_match:
+        return code_of_geeks_match.group(1)
 
     return None
 
@@ -700,13 +1127,46 @@ def _major_version(version: str | None) -> int | None:
 
 
 def _infer_profile(raw_tokens: list[str]) -> DecodeProfile:
-    modern_prefixes = ("CM", "MC", "MW", "IO", "BK", "RPG", "KD", "KX", "KM", "TST", "TDW", "TEX")
+    modern_prefixes = ("CM", "MC", "MW", "IO", "BK", "RPG", "KD", "KX", "KM", "TST", "TDW", "TEX", "SD")
+    modern_unique_codes = (
+        set(MODERN_LANGUAGE_CODES)
+        | set(SOFTWARE_DOMAIN_CODES)
+        | set(MODERN_TV_CODES)
+        | (set(MODERN_COMICS_CODES) - {"K"})
+        | {"CM", "MC", "MW", "IO", "BK", "RPG"}
+    )
+
     if any(token.startswith(modern_prefixes) for token in raw_tokens):
         return MODERN_PROFILE
     if any(_PRONOUN_RE.match(token) for token in raw_tokens):
         return MODERN_PROFILE
     if any(_MBTI_RE.match(token) for token in raw_tokens):
         return MODERN_PROFILE
+    if any(re.match(r"^A(?:[=:+?+\-]|$)", token) for token in raw_tokens):
+        return MODERN_PROFILE
+    if any(re.match(r"^B[^ ]*:[^ ]*:[^ ]*:[^ ]*:[^ ]*$", token) for token in raw_tokens):
+        return MODERN_PROFILE
+    if any(re.match(r"^D[^ ]*:[^ ]+$", token) for token in raw_tokens):
+        return MODERN_PROFILE
+    if any(
+        (_match_known_code(token.lstrip("!"), MODERN_PROFILE.specs) in modern_unique_codes)
+        for token in raw_tokens
+    ):
+        return MODERN_PROFILE
+
+    legacy_v3_markers = (
+        "DI",
+        "PGP",
+        "PS",
+        "PE",
+        "X",
+        "O",
+    )
+    if any(token.startswith(legacy_v3_markers) for token in raw_tokens):
+        return LEGACY_V3_PROFILE
+    if any(re.match(r"^(?:au|po|-po|g|p|H|v|u|f|n|j|B)[+*?%!:(0-9-]", token) for token in raw_tokens):
+        return LEGACY_V2_PROFILE
+
     if any(re.match(r"^[ABCD](?:[=:_?+\-]|$)", token) for token in raw_tokens):
         return MODERN_PROFILE
     return V4_PROFILE
@@ -714,6 +1174,10 @@ def _infer_profile(raw_tokens: list[str]) -> DecodeProfile:
 
 def _select_profile(version: str | None, raw_tokens: list[str]) -> DecodeProfile:
     major = _major_version(version)
+    if major in {1, 2}:
+        return LEGACY_V2_PROFILE
+    if major == 3:
+        return LEGACY_V3_PROFILE
     if major == 4:
         return V4_PROFILE
     if major in {5, 6}:
@@ -744,7 +1208,10 @@ def _match_known_code(body: str, specs: dict[str, CodeSpec]) -> str | None:
         if not body.startswith(code):
             continue
         rest = body[len(code) :]
+        spec = specs[code]
         if not rest or not rest[0].isalpha():
+            return code
+        if spec.scale == "legacy_unix" and re.match(r"^[A-Z*?]+(?:[+?-].*|)$", rest):
             return code
     return None
 
@@ -953,6 +1420,128 @@ def _describe_io_pair(rating: str) -> str:
     return f"input: {input_map.get(input_rating, f'level `{input_rating}`')}; output: {output_map.get(output_rating, f'level `{output_rating}`')}"
 
 
+def _describe_legacy_unix(rating: str) -> str:
+    match = re.match(r"^([A-Z*?]*)(\+{1,4}|-{1,3}|\?)?$", rating)
+    if not match:
+        return f"Unix profile `{rating}`"
+
+    platforms = match.group(1)
+    level = match.group(2) or ""
+    platform_map = {
+        "B": "BSD",
+        "L": "Linux",
+        "U": "Ultrix",
+        "A": "AIX",
+        "V": "SysV",
+        "H": "HPUX",
+        "I": "IRIX",
+        "O": "OSF/1",
+        "S": "SunOS / Solaris",
+        "C": "SCO Unix",
+        "X": "NeXT",
+        "*": "other Unix",
+        "?": "unknown Unix variant",
+    }
+    level_map = {
+        "++++": "sysadmin-level Unix mastery",
+        "+++": "deep Unix access and confidence",
+        "++": "heavy Unix user who annoys the admins",
+        "+": "has a Unix account and happily slams VMS",
+        "": "has a Unix account and uses it",
+        "-": "would rather be on VMS",
+        "--": "has seen Unix and disliked it",
+        "---": "thinks Unix geeks are nerds in disguise",
+        "?": "does not know what Unix is",
+    }
+
+    platform_names = [platform_map.get(ch, ch) for ch in platforms]
+    base = level_map.get(level, f"Unix level `{level}`")
+    if platform_names:
+        return f"{base}; platforms: {', '.join(platform_names)}"
+    return base
+
+
+def _describe_pen_count(rating: str) -> str:
+    if rating == "":
+        return "Average shirt-pocket pen count."
+    if rating == "?":
+        return "Cannot find a writing instrument."
+
+    match = re.match(r"^(\d+)(\+?)$", rating)
+    if not match:
+        return f"pen-count level `{rating}`"
+
+    count = match.group(1)
+    if match.group(2):
+        return f"Carries about {count} pens or pencils, plus a calculator or portable computer."
+    return f"Carries about {count} pens or pencils."
+
+
+def _describe_legacy_hair(rating: str) -> str:
+    if rating == "?":
+        return "Uses wigs to vary hair."
+
+    dyed = rating.endswith("*")
+    base = rating[:-1] if dyed else rating
+    table = {
+        "++++": "hair down past the waist",
+        "+++": "hair down to mid-back",
+        "++": "hair down to the shoulders",
+        "+": "hair is on the longer side",
+        "": "pretty normal hair",
+        "-": "hair cut above the neck",
+        "--": "hair above the neck and ear / flattop territory",
+        "---": "hair about 1/8 inch long",
+        "----": "shaves head daily",
+    }
+    description = table.get(base, f"hair level `{rating}`")
+    if dyed:
+        description += "; dyed unusual colors"
+    return description
+
+
+def _describe_legacy_sex(code: str, rating: str) -> str:
+    prefix = {
+        "x": "female",
+        "y": "male",
+        "z": "gender undisclosed",
+    }.get(code, "gender unspecified")
+
+    if rating == "?":
+        return f"{prefix}; does not want to share sex-life details"
+    if rating == "!+":
+        return f"{prefix}; no experience yet, but willing to learn"
+
+    base_table = {
+        "++++": "has children to prove there has been real-world experience",
+        "+++": "married and can theoretically get it whenever wanted",
+        "++": "has a reputation for being easy or adventurous",
+        "+": "has had real, live sex",
+        "": "has had sex, but not with another person",
+        "-": "is not having sex by choice",
+        "--": "is not having sex because they cannot get any",
+        "---": "is not having sex due to strong vocation or beliefs",
+    }
+    modifier_table = {
+        "*": "also self-identifies as a pervert",
+        "**": "also makes perverts look like angels",
+    }
+
+    if rating in modifier_table:
+        return f"{prefix}; {modifier_table[rating]}"
+
+    match = re.match(r"^(\+{1,4}|-{1,3}|)(\*{1,2})?$", rating)
+    if not match:
+        return f"{prefix}; sex-life level `{rating}`"
+
+    base = match.group(1)
+    modifier = match.group(2) or ""
+    description = f"{prefix}; {base_table.get(base, f'sex-life level `{rating}`')}"
+    if modifier:
+        description += f"; {modifier_table[modifier]}"
+    return description
+
+
 def generic_scale_text(scale: str, rating: str, code: str) -> tuple[str, bool]:
     if scale == "facial_hair":
         table = {
@@ -1084,6 +1673,29 @@ def generic_scale_text(scale: str, rating: str, code: str) -> tuple[str, bool]:
         }
         return table.get(rating, f"sub-issue stance `{rating}`"), True
 
+    if scale == "legacy_unix":
+        return _describe_legacy_unix(rating), True
+
+    if scale == "pen_count":
+        return _describe_pen_count(rating), True
+
+    if scale == "legacy_hair":
+        return _describe_legacy_hair(rating), True
+
+    if scale == "sex_scale_legacy":
+        return _describe_legacy_sex(code, rating), True
+
+    if scale == "legacy_tv":
+        table = {
+            "+++": "lives in front of television and wishes for more channels",
+            "++": "leaves the TV on to avoid missing anything",
+            "+": "watches some television every day",
+            "": "watches only worthwhile shows",
+            "-": "watches mainly for news and special programming",
+            "--": "turns on TV mostly for natural disasters",
+        }
+        return table.get(rating, f"television level `{rating}`"), True
+
     if scale == "ambiguous_p_v4":
         base = "Ambiguous in v4: the sample block includes `P`, but the v4 category list does not define it."
         perl_hint = {
@@ -1172,6 +1784,17 @@ def describe_token(
 
 def _parse_special_token(raw_token: str, profile: DecodeProfile) -> DecodedToken | None:
     normalized = raw_token.strip()
+
+    if profile.name in {"legacy_v2", "legacy_v3"} and normalized == ":":
+        return DecodedToken(
+            raw=raw_token,
+            normalized=normalized,
+            code="s",
+            label="Shape",
+            description=_describe_dimensions(":"),
+            notes=[],
+            inferred=True,
+        )
 
     if profile.name == "modern":
         pronoun_match = _PRONOUN_RE.match(normalized)
@@ -1532,12 +2155,23 @@ def _prompt_dimensions_token_v6() -> str | None:
 def _prompt_windows_token_v6() -> str | None:
     print("\nMicrosoft Windows (MW)")
     print("Examples: `MW11+++`, `MW10_`, `MW-`.")
-    release = _prompt_text("Windows release/version tag (for example 11 or 10), or press Enter to skip: ")
-    if not release:
-        return None
+    print("Use `_` for a generic Windows token with no specific release.")
+    while True:
+        release = _prompt_text(
+            "Windows release/version tag (for example 11 or 10), `_` for generic Windows, or press Enter to skip: "
+        )
+        if not release:
+            return None
+        if release == "_":
+            prefix = "MW"
+            break
+        if re.match(r"^[A-Za-z0-9][A-Za-z0-9._-]*$", release):
+            prefix = f"MW{release}"
+            break
+        print("Please enter a simple Windows tag like `11`, `10`, `xp`, `7`, or `_` for generic Windows.")
     rating = _prompt_choice_token(
         "Windows rating",
-        f"MW{release}",
+        prefix,
         {
             "++++": "expert Windows programming proficiency",
             "+++": "strong Windows platform expertise",
@@ -1654,6 +2288,14 @@ def _prompt_politics_subissues_v6() -> list[str]:
         print(f"Unrecognized sub-issue tokens: {', '.join(invalid)}")
 
 
+def _prompt_software_domains_v6() -> list[str]:
+    return _prompt_token_list(
+        "Software domains (SD...)",
+        SOFTWARE_DOMAIN_CODES,
+        example="SDCV++,SDDS+++,SDCG+",
+    )
+
+
 def _prompt_mbti_token_v6() -> str | None:
     print("\nMBTI / Personality")
     print("Examples: `INTJ-A`, `ENFP-T`, `INFJ`.")
@@ -1732,6 +2374,8 @@ def generate_geek_code_v6_interactive() -> str:
             example="Lpy++,LC#+,Lbash+",
         )
     )
+
+    tokens.extend(_prompt_software_domains_v6())
 
     for token in (
         _prompt_io_token_v6(),

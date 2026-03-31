@@ -45,6 +45,12 @@ Version 5.0 eliminated case-sensitive categories and modified some letters and c
 Welcome to The Geek Code Version 6.0
 ======
 
+There is now a decoder/encoder that you can use like this:
+
+```
+geek_code_decode_encode.py [-h] [--text TEXT] [--json] [--generate] [path]
+```
+
 This updated edition has been revised by ChatGPT, who has improved the language for better comprehension, flow, and enriched vocabulary. Additionally, all spelling, grammar, and punctuation mistakes have been rectified.
 
 Although the original content remains unaltered, we classify this as a fresh rendition, as the alterations made to the text were significant, and the modern AI approach taken to refine it is unique from previous versions.
@@ -55,14 +61,14 @@ How Does It Work?
 
 The code is made up of alphanumeric identifiers that represent different categories and subcategories. Following these identifiers are qualifiers, represented by the symbols + and -, that indicate factors such as amount, size, or level of proficiency. These qualifiers can be stacked to provide more specific information, such as `H+++`, which indicates an individual with an extremely high level of skill in Hardware.
 
-The broad categories that can be encoded are: Geek of, Wetware, Computers, Politics, Entertainment, and Lifestyle. Each category has its own subcategories, and you can provide as much or as little detail as you like. For example, `U++` indicates a person with a high level of interest or proficiency in Unix, while `ULDU++` indicates someone with a particular interest in Unix/Linux/Debian/Ubuntu. Additional subcategories can be indicated with a forward slash, such as `GCS/GM`, which indicates a Geek of Computer Science and Math.
+The broad categories that can be encoded are: Geek of, Wetware, Computers, Software Domains, Politics, Entertainment, and Lifestyle. Each category has its own subcategories, and you can provide as much or as little detail as you like. For example, `U++` indicates a person with a high level of interest or proficiency in Unix, while `ULDU++` indicates someone with a particular interest in Unix/Linux/Debian/Ubuntu. Likewise, `SDCV++` indicates a strong interest in computer vision, while `SDDS+++` indicates a very strong identification with data science. Additional subcategories can be indicated with a forward slash, such as `GCS/GM`, which indicates a Geek of Computer Science and Math.
 
 Some categories may not be relevant to you, so you can ignore them. Also, some of the qualifiers may not be a perfect match for your level of proficiency or interest, so choose the qualifier that most closely reflects your abilities.
 
 Once you have provided a set of category/qualifier strings for any of the above, it's time to assemble your code for display. Simply concatenate the substrings with a space between them. Your final code might look something like this:
 
 ```
-GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11+++@ ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
+GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++) MW11+++@ ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb SDDS+++/SDCV++/SDCG+ IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
 ```
 
 When it comes to sharing code, using a long line can be unwieldy and difficult to read for the user. To improve the readability, it's advisable to incorporate line breaks in between certain categories. This approach can help create a rough box shape that makes the code more accessible and easier to follow.
@@ -71,7 +77,8 @@ When it comes to sharing code, using a long line can be unwieldy and difficult t
 -----	BEGIN GEEK CODE VERSION 6.0	-----
 GCS^/GM^ A++(a?) B_:--:+:-:+ C++(C-) D+:+ CM++(++++)
 MW11+++@ ULD++++$ MC-- Lbash+++/LC#+/Lj+/Lpy++/Lvb
-IO+++:---(+) G:exarobibliologist E++ H+ PGP PSG PE
+SDDS+++/SDCV++/SDCG+ IO+++:---(+) G:exarobibliologist E++
+H+ PGP PSG PE
 TDW+/TEX+++/THRO++++/TMON+++/TOB+++/TSTsnw+++/TSTld+++/
 TSTdsc-- RPG+++(*)>$ BK+++ KX+++ INTJ-A R-- he/him+++
 -----	END GEEK CODE VERSION 6.0	-----
@@ -317,7 +324,7 @@ Numerous technology enthusiasts have made the switch from personal computers to 
 L = Programming Languages
 ------
 
-List a series of languages and your facility/opinion thereupon, for example, `Lpy++/LR+` would indicate high proficiency in python and above-average knowledge of R.
+List a series of languages and your facility/opinion thereupon, for example, `Lpy++/LR+` would indicate high proficiency in python and above-average knowledge of R. Use `L...` for the languages themselves; use `SD...` for the software problem domains you care about, such as AI, computer vision, data science, cryptography, or backend/frontend work.
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
@@ -353,8 +360,61 @@ For example:
 |	`Lpy++`		|	=		|	I maintain and provide contributions  to the Python code base.	|
 |	`Lpy+`		|	=		|	As a devoted Python enthusiast, I consistently utilize this programming language in my work. I take pride in aligning my statements with the principles of "pythonic" coding.	|
 |	`Lpy`		|	=		|	I am neutral towards Python; it is decent for certain purposes.	|
-|	`Lpy-`		|	=		|	Python is a programming language for hobbiests	|
+|	`Lpy-`		|	=		|	Python is a programming language for hobbyists	|
 |	`Lpy--` 	|	=		|	I hold a strong aversion towards python; it appears to be an unsightly deviation that only caters to those who are unable to comprehend the intricate capabilities of [C|Lisp|assembly].	|
+
+
+SD = Software Domains
+------
+
+Use `SD` when you want to describe the kinds of software problems or domains you are most interested in, rather than your vocation (`G...`) or the languages you happen to use (`L...`). The rating indicates how strongly you identify with or enjoy the domain.
+
+This is the best place for interests such as crypto, computer vision, machine learning, search, cloud systems, frontend, backend, and data work. In other words: `G...` is who you are, `L...` is what languages you use, and `SD...` is what kinds of software you like building or studying.
+
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`SDAI`		|	=		|	AI and machine learning	|
+|	`SDCV`		|	=		|	Computer vision	|
+|	`SDNLP`		|	=		|	Natural language processing	|
+|	`SDDS`		|	=		|	Data science	|
+|	`SDDE`		|	=		|	Data engineering	|
+|	`SDCG`		|	=		|	Cryptography	|
+|	`SDBC`		|	=		|	Blockchain and cryptocurrency	|
+|	`SDSE`		|	=		|	Search, retrieval, and recommenders	|
+|	`SDRO`		|	=		|	Robotics	|
+|	`SDCL`		|	=		|	Cloud and distributed systems	|
+|	`SDFE`		|	=		|	Frontend applications	|
+|	`SDBE`		|	=		|	Backend APIs and services	|
+
+The rating scale for software domains follows the normal interest scale:
+
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`+++`		|	=		|	Strongly identified with this area	|
+|	`++`		|	=		|	Very into this area	|
+|	`+`			|	=		|	Likes and values this area	|
+|	No suffix	|	=		|	Neutral about this area	|
+|	`-`			|	=		|	Not especially into this area	|
+|	`--`		|	=		|	Actively dislikes this area	|
+|	`---`		|	=		|	Strongly rejects this area	|
+
+Examples:
+
+|				|			|				|
+|:---			|	:---:	|	:---		|
+|	`SDCV++`	|	=		|	Very into computer vision	|
+|	`SDDS+++`	|	=		|	Strongly identified with data science	|
+|	`SDCG+`		|	=		|	Likes and values cryptography	|
+|	`SDBC-`		|	=		|	Not especially into blockchain / crypto	|
+
+It is useful to keep `SDCG` and `SDBC` separate. `SDCG` refers to cryptography as a technical or mathematical software/security interest, while `SDBC` refers to blockchain and cryptocurrency ecosystems.
+
+You can combine several software domains in the same block, for example:
+
+```
+SDAI++/SDCV++/SDDS+++/SDCG+
+SDFE+/SDBE++/SDCL++
+```
 
 
 IO = Input/Output

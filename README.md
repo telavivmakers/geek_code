@@ -422,8 +422,8 @@ E = Electronics
 |	`E+++`		|	=		|	I am as skilled as Lady Ada Lovelace, the first computer programmer.	|
 |	`E++`		|	=		|	Thanks to my skill and need for efficiency, I have successfully repaired malfunctioning toasters without unplugging them. 	|
 |	`E+`		|	=		|	I am familiar with the concepts of CMOS and BJT, as well as the important distinction between a comparator and an operational amplifier (op amp).	|
-|	`E`			|	=		|				|
-|	`E-`		|	=		|				|
+|	`E`			|	=		|	I have baseline electronics familiarity and can follow straightforward wiring, component, and circuit discussions.	|
+|	`E-`		|	=		|	My practical electronics skills are limited, and I would rather have someone more experienced show me what to do.	|
 |	`E--`		|	=		|	Electrons are interesting as theoretical constructs	|
 
 H = Hardware
@@ -433,8 +433,8 @@ H = Hardware
 |:---			|	:---:	|	:---		|
 |	`H+++`		|	=		|	I am as skilled as Charles Babbage, the father of the mechanical computer.	|
 |	`H++`		|	=		|	I crafted my very own chainmail armor by smelting iron derived from ore mined through the utilization of steam-powered machinery I ingeniously fashioned from recycled car parts.			|
-|	`H+`		|	=		|				|
-|	`H`			|	=		|				|
+|	`H+`		|	=		|	I am comfortable building, upgrading, and repairing computer hardware by hand.	|
+|	`H`			|	=		|	I have baseline hardware familiarity and can swap common components if I have a guide.	|
 |	`H-`		|	=		|	Metaphorically speaking, I have employed hammers on numerous occasions, whereas in reality, I have rarely utilized them.	|
 |	`H--`		|	=		|	When there are issues with the hardware of my laptop, I find it preferable to bring it to a repair shop.	|
 
@@ -446,7 +446,7 @@ The last few years have seen the rise of the political geek. This phenomenon is 
 Politics and Social Issues
 ------
 
-Where, in general, your political views on different social issues fall. The + and – ratings here roughly indicate left/right on the political spectrum.
+Where, in general, your political views on different social issues fall. The + and - ratings here roughly indicate left/right on the political spectrum. More `+` means further left/progressive or more permissive on personal freedoms, while more `-` means more socially conservative.
 
 Subcategories (give yourself a geek point if your first thought was 'actually, subsubcategories') As of v4 some new subcategories are added to the PS and PE categories.
 
@@ -469,16 +469,16 @@ Subcategories (give yourself a geek point if your first thought was 'actually, s
 
 Politics and Economic Issues
 ------
-Note this category has been reversed as of v4 to maintain the loose left+ and right- association from the PS category.
+This scale follows the same sign direction as `PS`: more `+` means more economically left (regulation, redistribution, stronger safety nets), while more `-` means more economically right (markets, deregulation, lower taxes, and austerity). This is the polarity v4 adopted so that left stays `+` and right stays `-` across both political categories.
 
 |				|			|				|
 |:---			|	:---:	|	:---		|
 |	`PE+++`		|	=		|	Capitalism is evil! Essential services must be provided by the government. Nobody should be rich.	|
-|	`PE++`		|	=		|	It is imperative to prevent the government from unnecessarily interfering with businesses. Therefore, it is highly recommended to reduce regulations and bureaucracy as much as feasible.	|
-|	`PE+`		|	=		|		|
+|	`PE++`		|	=		|	Strong social safety nets, aggressive antitrust enforcement, progressive taxation, and tight regulation of large businesses are all necessary.	|
+|	`PE+`		|	=		|	Markets can be useful, but government should rein them in, reduce inequality, and maintain a meaningful safety net.	|
 |	`PE`		|	=		|	I am skeptical towards both the government and businesses.	|
-|	`PE-`		|	=		|	It is justifiable to augment government expenditure in order to aid a greater number of impoverished individuals. Reducing the allocation of funds towards defense, and levying taxes on the wealthy is imperative.	|
-|	`PE--`		|	=		|	Attaining a balanced budget requires a meticulous examination of all expenditures, followed by astute reduction of costs, along with the implementation of an amendment. By doing so, financial stability can ultimately be reached.	|
+|	`PE-`		|	=		|	Markets usually work better than government programs. Lower taxes, lighter regulation, and a smaller welfare state are generally the better path.	|
+|	`PE--`		|	=		|	Attaining a balanced budget requires close scrutiny of spending, meaningful cost reductions, and a generally fiscally conservative approach.	|
 |	`PE---`		|	=		|	Repeal the antitrust laws and implement a taxation system that favors the wealthy, allowing for a trickle-down effect to the rest of society.	|
 
 ENTERTAINMENT
